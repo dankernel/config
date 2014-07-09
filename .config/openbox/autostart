@@ -1,0 +1,5 @@
+xmodmap ~/.Xmodmap &
+nabi &
+
+arandr ~/.screenlayout/dual.sh &
+
