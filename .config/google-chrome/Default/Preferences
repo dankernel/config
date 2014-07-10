@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
@@ -2909,6 +2909,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "translate.google.com:443": {
@@ -3431,7 +3434,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049438374349549",
+      "last_synced_time": "13049438678717086",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
