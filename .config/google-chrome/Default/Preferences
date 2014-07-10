@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
@@ -2084,6 +2084,16 @@
                },
                "supports_spdy": false
             },
+            "developer.android.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "divby0.blogspot.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2547,6 +2557,27 @@
                "supports_spdy": false
             },
             "p4-cwchbph57gsvu-y22cpy2vxqbb46sw-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cwtgvfpkuxuto-hpprdjnkucvmiqng-160447-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cwtgvfpkuxuto-hpprdjnkucvmiqng-160447-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cwtgvfpkuxuto-hpprdjnkucvmiqng-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3443,7 +3474,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049444941054218",
+      "last_synced_time": "13049445595930145",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
