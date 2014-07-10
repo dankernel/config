@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13049437471599926",
-         "next_check": "13049454895005952"
+         "next_check": "13049458370952874"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -2512,6 +2512,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 10,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "mail.google.com:443": {
@@ -3619,7 +3624,7 @@
          "webprogrammer.tistory.com": 0.5227586988632231,
          "wiki.archlinux.org": 2.223901085741545,
          "www.archlinux.org": 1.2239010857415449,
-         "www.bricsys.com": 0.5227586988632231,
+         "www.bricsys.com": 1.2239010857415449,
          "www.iamroot.org": 0.5227586988632231,
          "www.joinc.co.kr": 1.2239010857415449,
          "www.linux.co.kr": 1.2239010857415449,
@@ -3653,9 +3658,9 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049454840018372",
-      "managed_user_shared_settings": false,
-      "managed_users": false,
+      "last_synced_time": "13049455774554454",
+      "managed_user_shared_settings": true,
+      "managed_users": true,
       "passwords": true,
       "preferences": true,
       "priority_preferences": true,
@@ -3663,7 +3668,7 @@
       "session_sync_guid": "session_sync62QFO0BBg0uucdT4Ney9Sg==",
       "sessions": true,
       "suppress_start": false,
-      "synced_notifications": false,
+      "synced_notifications": true,
       "tabs": true,
       "themes": true,
       "typed_urls": true
