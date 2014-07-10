@@ -73,8 +73,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13049402256004355",
-         "next_check": "13049437515737325"
+         "last_check": "13049437471599926",
+         "next_check": "13049454895005952"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1921,6 +1921,20 @@
                },
                "supports_spdy": true
             },
+            "byseob.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "byseob.blogspot.kr:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "cache.pack.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2110,7 +2124,12 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "encrypted-tbn2.gstatic.com:443": {
                "alternate_protocol": {
@@ -2138,6 +2157,10 @@
                "supports_spdy": true
             },
             "fbcdn-profile-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "fbstatic-a.akamaihd.net:443": {
@@ -2206,7 +2229,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 51,
+                  "5": 67,
                   "6": 0
                },
                "supports_spdy": true
@@ -2385,7 +2408,19 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 40,
+                  "6": 0
+               },
                "supports_spdy": true
+            },
+            "lh5.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "lh6.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2553,6 +2588,55 @@
                },
                "supports_spdy": false
             },
+            "p4-frror5przxu66-t3skqrcohiysvpro-518214-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-frror5przxu66-t3skqrcohiysvpro-518214-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-frror5przxu66-t3skqrcohiysvpro-518214-s1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-frror5przxu66-t3skqrcohiysvpro-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-geqrfozaexil4-5k3jmfrfxbmxln7q-619896-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-geqrfozaexil4-5k3jmfrfxbmxln7q-619896-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-geqrfozaexil4-5k3jmfrfxbmxln7q-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-gjfacodiat5lm-4dcasfakxlgvpejg-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2566,6 +2650,39 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "p4-h4pkf2pmhgm24-grhlibv2ez2jvzqm-270831-i1-v6exp3-v4.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-h4pkf2pmhgm24-grhlibv2ez2jvzqm-270831-i2-v6exp3-ds.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-h4pkf2pmhgm24-grhlibv2ez2jvzqm-270831-s1-v6exp3-v4.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-h4pkf2pmhgm24-grhlibv2ez2jvzqm-if-v6exp3-v4.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "pagead2.googlesyndication.com:443": {
                "alternate_protocol": {
@@ -2593,7 +2710,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 51,
+                  "5": 93,
                   "6": 0
                },
                "supports_spdy": true
@@ -2640,6 +2757,13 @@
                "supports_spdy": false
             },
             "s.ytimg.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "s0.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -2775,7 +2899,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 44,
+                  "5": 52,
                   "6": 0
                },
                "supports_spdy": true
@@ -2805,6 +2929,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2843,6 +2972,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2901,7 +3035,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -2943,6 +3077,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 68,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3229,28 +3368,39 @@
       "password_manager_groups_for_domains": [ 8 ],
       "per_host_zoom_levels": {
          "bestend.co.kr": 0.5227586988632231,
+         "byseob.blogspot.kr": 1.2239010857415449,
+         "choong0121.tistory.com": 2.223901085741545,
          "code4rain.tistory.com": 1.2239010857415449,
          "color106.egloos.com": 2.223901085741545,
+         "dinggur.tistory.com": 1.2239010857415449,
+         "dizl.egloos.com": 1.2239010857415449,
          "forcecore.tistory.com": 1.2239010857415449,
          "git-scm.com": 3.069389038663465,
+         "hninja.tistory.com": 1.2239010857415449,
          "interwater.tistory.com": 1.2239010857415449,
          "khmirage.tistory.com": 1.2239010857415449,
          "kimseunghyun76.tistory.com": 2.223901085741545,
-         "kldp.org": 1.2239010857415449,
+         "kldp.org": 2.223901085741545,
          "kr.discovermeteor.com": 1.2239010857415449,
+         "kwaknu.egloos.com": 3.069389038663465,
          "lovestudycom.tistory.com": 2.223901085741545,
          "lowid.tistory.com": 1.2239010857415449,
+         "lupusmaru.egloos.com": 0.5227586988632231,
          "minsone.github.io": 1.2239010857415449,
          "mobicon.tistory.com": 3.069389038663465,
          "nolboo.github.io": 1.2239010857415449,
          "noritersand.tistory.com": 0.5227586988632231,
+         "pino93.tistory.com": 1.2239010857415449,
+         "rajalo.tistory.com": 0.5227586988632231,
          "sapsaldog.tistory.com": 1.2239010857415449,
          "stackoverflow.com": 1.2239010857415449,
          "uswtmyp.okjsp.pe.kr": 1.2239010857415449,
          "vimcolorschemetest.googlecode.com": 1.2239010857415449,
          "webprogrammer.tistory.com": 0.5227586988632231,
-         "wiki.archlinux.org": 1.2239010857415449,
+         "wiki.archlinux.org": 2.223901085741545,
          "www.iamroot.org": 0.5227586988632231,
+         "www.joinc.co.kr": 1.2239010857415449,
+         "www.linux.co.kr": 1.2239010857415449,
          "www.todayhumor.co.kr": 0.5227586988632231,
          "yonoo88.tistory.com": 0.5227586988632231
       }
@@ -3281,9 +3431,9 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049433387366207",
-      "managed_user_shared_settings": false,
-      "managed_users": false,
+      "last_synced_time": "13049437410150232",
+      "managed_user_shared_settings": true,
+      "managed_users": true,
       "passwords": true,
       "preferences": true,
       "priority_preferences": true,
@@ -3291,7 +3441,7 @@
       "session_sync_guid": "session_sync62QFO0BBg0uucdT4Ney9Sg==",
       "sessions": true,
       "suppress_start": false,
-      "synced_notifications": false,
+      "synced_notifications": true,
       "tabs": true,
       "themes": true,
       "typed_urls": true
