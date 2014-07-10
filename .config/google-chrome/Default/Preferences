@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": false,
+         "maximized": true,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
@@ -73,8 +73,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13049437471599926",
-         "next_check": "13049458165800424"
+         "last_check": "13049458165802182",
+         "next_check": "13049476540393247"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -152,7 +152,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049311412344252",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "api_console_project_id": "619683526622",
@@ -209,7 +209,7 @@
 
             },
             "install_time": "13049311412105073",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -269,7 +269,7 @@
 
             },
             "install_time": "13049311411995362",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -332,7 +332,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312874361877",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -396,7 +396,7 @@
 
             },
             "install_time": "13049311412194107",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -457,7 +457,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312875219958",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -564,7 +564,7 @@
 
             },
             "install_time": "13049312878395996",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -619,7 +619,7 @@
 
             },
             "install_time": "13049312879284500",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -743,7 +743,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312877469253",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -875,7 +875,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312874702102",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -942,7 +942,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312875841529",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -1010,7 +1010,7 @@
 
             },
             "install_time": "13049312876087501",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -1071,7 +1071,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312876453625",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -1278,7 +1278,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312875548445",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -1335,7 +1335,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049312876970279",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "background": {
@@ -1549,7 +1549,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049311411913200",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 10,
             "manifest": {
                "app": {
@@ -1612,7 +1612,7 @@
 
             },
             "install_time": "13049311412270474",
-            "lastpingday": "13049362756659436",
+            "lastpingday": "13049449155129769",
             "location": 1,
             "manifest": {
                "app": {
@@ -2029,6 +2029,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2920,8 +2923,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 303,
-                  "6": 3
+                  "5": 100,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3693,6 +3696,7 @@
          "www.bricsys.com": 1.2239010857415449,
          "www.iamroot.org": 0.5227586988632231,
          "www.joinc.co.kr": 1.2239010857415449,
+         "www.ksosoft.com": 0.5227586988632231,
          "www.linux.co.kr": 1.2239010857415449,
          "www.todayhumor.co.kr": 0.5227586988632231,
          "yonoo88.tistory.com": 0.5227586988632231
@@ -3724,7 +3728,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049457581347887",
+      "last_synced_time": "13049458008857133",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
