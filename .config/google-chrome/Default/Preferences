@@ -1910,10 +1910,6 @@
          "source": "1004"
       }, {
          "invalidation-list": [  ],
-         "name": "PASSWORD",
-         "source": "1004"
-      }, {
-         "invalidation-list": [  ],
          "name": "PREFERENCE",
          "source": "1004"
       }, {
@@ -1948,6 +1944,9 @@
    "net": {
       "http_server_properties": {
          "servers": {
+            "0-channel-proxy-07-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "0.client-channel.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2144,7 +2143,12 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 72,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "ci4.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2198,7 +2202,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 45,
+                  "5": 109,
                   "6": 0
                },
                "supports_spdy": true
@@ -2280,6 +2284,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "cx.atdmt.com:443": {
+               "supports_spdy": true
             },
             "developer.android.com:443": {
                "alternate_protocol": {
@@ -3095,6 +3102,9 @@
                },
                "supports_spdy": false
             },
+            "pixel.facebook.com:443": {
+               "supports_spdy": true
+            },
             "plus.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3208,6 +3218,12 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "scontent-a.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "scontent-b.xx.fbcdn.net:443": {
+               "supports_spdy": true
             },
             "secure.gravatar.com:443": {
                "supports_spdy": true
@@ -3907,7 +3923,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049460587938211",
+      "last_synced_time": "13049461190590378",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
