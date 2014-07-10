@@ -2230,6 +2230,13 @@
                },
                "supports_spdy": false
             },
+            "gdata.youtube.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "gg.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2275,7 +2282,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "gp4.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2322,6 +2332,16 @@
                },
                "supports_spdy": false
             },
+            "i1.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "i1.ytimg.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2347,7 +2367,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 234,
+                  "6": 6
                },
                "supports_spdy": true
             },
@@ -2487,7 +2509,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 75,
+                  "5": 282,
                   "6": 0
                },
                "supports_spdy": true
@@ -2672,6 +2694,13 @@
                },
                "supports_spdy": false
             },
+            "p4-dyk2yl2jmb2l2-72mzvldivqhwqz4y-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-e4ru4xtbj5wjy-7a6zb5d5zafq7dbk-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2825,15 +2854,53 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "polldaddy.com:443": {
                "supports_spdy": true
             },
+            "pubads.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "public-api.wordpress.com:443": {
                "supports_spdy": true
             },
             "r13---sn-ogueynls.c.pack.google.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "r18---sn-ogueyn76.googlevideo.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "r18---sn-ogueynls.googlevideo.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "r19---sn-ogueynld.googlevideo.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "r2---sn-ogueyn7s.googlevideo.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3183,6 +3250,13 @@
                },
                "supports_spdy": true
             },
+            "www.googletagservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3202,6 +3276,13 @@
                },
                "supports_spdy": false
             },
+            "www.youtube-nocookie.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.youtube.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -3213,6 +3294,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             }
@@ -3542,7 +3626,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049447928908976",
+      "last_synced_time": "13049448505936909",
       "managed_user_shared_settings": false,
       "managed_users": false,
       "passwords": true,
