@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1404964142.069672,
+            "active_time": 1404964241.824668,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -223,7 +223,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1404963900",
+         "last_timestamp_sec": "1404964200",
          "launch_count": 18,
          "launch_time_sec": "1404963300",
          "page_load_count": 0,
