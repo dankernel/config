@@ -9,13 +9,13 @@
       "last_redirect_origin": ""
    },
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "50535956",
-   "http_received_content_length": "50535956",
+   "http_original_content_length": "67878339",
+   "http_received_content_length": "67878339",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1404986473.338026"
+      "promo_resource_cache_update": "1405012997.385758"
    },
    "plugins": {
       "metadata": {
@@ -95,7 +95,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1404987041.818134,
+            "active_time": 1405013209.187711,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -106,7 +106,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -128,7 +128,7 @@
                   "djflhoibgkdhkhhcedjiklpkjnoahfmg": "81F41A9EAAD97F03FCCA91479CC93761FCD2097D5C3293322EB60C07834EE153",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
                   "ejjicmeblgpmajnghnpcppodonldlgfn": "70C9FF3180E114C6127D298A20DEE7D8E415D3A16E35497DE542A4FC8A6CF037",
-                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "592439C079EE58D463D3CE8DACE5992C6D8C063E821171F64AA12ED61D0592E1",
+                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "EB69B6186A788B94A33EC174BD10EC297257DFE7212506B22E5F1BF2F7F38BCF",
                   "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
                   "fngmhnnpilhplaeedifhccceomclgfbg": "25202520BC577883B92635829AD1F5966B7EB009754F070094473F60F9CFA841",
                   "hclgegipaehbigmbhdpfapmjadbaldib": "068969ABD56AC492B13CB3AA867894C2966A0303A4170C72A7306497CD20229C",
@@ -163,7 +163,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "B1D79323377DEC468C6B33B7297B58E07F039197378F4C8324D6C6AAA9E03047"
+            "/home/dkdk/.config/chromium/Default": "6B712A7722823BD0610F43E22DBE211517507E3B183DAD08B0A440813826B259"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -178,23 +178,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "1"
+      "launch_count": "2"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 0,
+      "session_id": 1,
       "stability": {
-         "breakpad_registration_fail": 1,
+         "breakpad_registration_fail": 2,
          "breakpad_registration_ok": 0,
-         "crash_count": 0,
-         "debugger_not_present": 1,
+         "crash_count": 1,
+         "debugger_not_present": 2,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1404994868",
-         "launch_count": 1,
-         "launch_time_sec": "1404986468",
+         "last_timestamp_sec": "1405013292",
+         "launch_count": 2,
+         "launch_time_sec": "1405012992",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,

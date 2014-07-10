@@ -33,6 +33,6 @@ fi
 export PATH=${PATH}:$HOME/gsutil
 export PYTHONPATH=${PYTHONPATH}:$HOME/gsutil/third_party/boto:$HOME/gsutil
 
-PS1="\[\033[35m\][\u@\w]\[\033[00m\] # "
+PS1="\[\033[35m\][\u@\w]\[\033[00m\] $ "
 
 

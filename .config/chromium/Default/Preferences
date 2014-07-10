@@ -18,14 +18,14 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 1024,
+         "bottom": 768,
          "left": 0,
          "maximized": true,
-         "right": 1280,
+         "right": 1366,
          "top": 0,
-         "work_area_bottom": 1024,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1280,
+         "work_area_right": 1366,
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
@@ -73,7 +73,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "next_check": "13049477821802110"
+         "last_check": "13049486911645937",
+         "next_check": "13049503957571976"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -498,6 +499,7 @@
 
             },
             "install_time": "13049460585901235",
+            "lastpingday": "13049449154968477",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -1488,13 +1490,7 @@
          "name": "SEARCH_ENGINE",
          "source": "1004"
       }, {
-         "invalidation-list": [ {
-            "isUnknownVersion": true,
-            "objectId": {
-               "name": "SESSION",
-               "source": 1004
-            }
-         } ],
+         "invalidation-list": [  ],
          "name": "SESSION",
          "source": "1004"
       }, {
@@ -1608,14 +1604,24 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "clients1.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "clients2.google.com:443": {
                "alternate_protocol": {
@@ -1660,8 +1666,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 214,
-                  "6": 1
+                  "5": 100,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1683,6 +1689,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "csi.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "developer.android.com:443": {
                "alternate_protocol": {
@@ -1726,6 +1739,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "googleads.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "i.ytimg.com:443": {
                "alternate_protocol": {
@@ -1779,17 +1799,36 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 260,
+                  "5": 70,
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "p4-h6xc4dqj5oae6-ufz3tcj4dqlbgmbb-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "pagead2.googlesyndication.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "plus.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "r13---sn-ogueynls.c.pack.google.com:80": {
                "alternate_protocol": {
@@ -1829,7 +1868,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 181,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -1931,6 +1970,18 @@
             "www.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 76,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
                   "protocol_str": "quic"
                },
                "supports_spdy": false
@@ -2223,7 +2274,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049468646846919",
+      "last_synced_time": "13049486991030762",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
