@@ -2341,6 +2341,16 @@
                },
                "supports_spdy": true
             },
+            "images-blogger-opensocial.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "images1-hangout-opensocial.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 80,
@@ -2476,7 +2486,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 10
+                  "4": 10,
+                  "5": 75,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2542,6 +2554,34 @@
                "supports_spdy": false
             },
             "p4-bhpwhzfkwemvg-so2ga4qzgixoqpcm-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bwpwo6uca7uiq-sd5nopiqkmutff4b-844512-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bwpwo6uca7uiq-sd5nopiqkmutff4b-844512-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bwpwo6uca7uiq-sd5nopiqkmutff4b-844512-s1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bwpwo6uca7uiq-sd5nopiqkmutff4b-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3502,7 +3542,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049447277394302",
+      "last_synced_time": "13049447928908976",
       "managed_user_shared_settings": false,
       "managed_users": false,
       "passwords": true,
