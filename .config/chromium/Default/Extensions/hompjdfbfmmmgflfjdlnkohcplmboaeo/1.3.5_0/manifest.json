@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/flickr.css" ],
+      "matches": [ "http://www.flickr.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "js/rightclick.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "all_frames": true,
+      "exclude_globs": [ "*://*.zcool.com.cn/*", "*://dexknows.whitepages.com/*", "*://tech.sina.com.cn/*" ],
+      "js": [ "support/ext.js", "support/support.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_chrome_extension_description__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtgbrnOfKTyCpChiRLb7PYEtsSl6DIphPvf7XZ1xANDWQ/JFEfleTvc3TIVlflw9OAvAUnpRhtqrNEvT1BxoDGFw5QeD+vBIi1DaBYH8fXhtjpISPrGQsxk7A5HWaCQpxER6vbA7L2Cs6n18MggPGL759sy5HISSswmlsZin7BJQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_chrome_extension_name__",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.5",
+   "web_accessible_resources": [ "support/pages/adoptions.html", "support/pages/privacy_policy.html" ]
+}

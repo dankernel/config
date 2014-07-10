@@ -1,0 +1,140 @@
+{
+  "ID": {
+    "message": "ko_KR"
+  },
+  "add_block_time": {
+    "message": "\ucc28\ub2e8\x20\uc2dc\uac04\x20\uc785\ub825"
+  },
+  "add_blockthis": {
+    "message": "\ucc28\ub2e8\ud560\x20\uacf3\x20\uc785\ub825\x21"
+  },
+  "add_time_1": {
+    "message": ""
+  },
+  "add_time_2": {
+    "message": ""
+  },
+  "add_time_3": {
+    "message": ""
+  },
+  "applied": {
+    "message": "\uc801\uc6a9\ub410\uc2b5\ub2c8\ub2e4\x21"
+  },
+  "apply": {
+    "message": "\uc801\uc6a9\ud558\uae30"
+  },
+  "back": {
+    "message": "\ub3cc\uc544\uac00\uae30"
+  },
+  "basic_settings": {
+    "message": "\uae30\ubcf8\x20\uc124\uc815"
+  },
+  "block_already": {
+    "message": "\uc774\x20\ud398\uc774\uc9c0\ub294\x20\uc774\ubbf8\x20\ucc28\ub2e8\ub418\uc5b4\x20\uc788\uc2b5\ub2c8\ub2e4\x2e\x20\ud3b8\uc9d1\ud558\ub824\uba74\x20\uc635\uc158\x20\ud398\uc774\uc9c0\uc5d0\uc11c\x20\uc218\uc815\ud558\uc138\uc694\x2e"
+  },
+  "block_ng": {
+    "message": "\uc774\x20\ud398\uc774\uc9c0\ub294\x20\ucc28\ub2e8\ub420\x20\uc218\x20\uc5c6\uc2b5\ub2c8\ub2e4\x2e"
+  },
+  "blocked_disabled": {
+    "message": "\ucc28\ub2e8\x20\uae30\ub2a5\x20\ube44\ud65c\uc131\ud654"
+  },
+  "blocked_message": {
+    "message": "\uc774\x20\ud398\uc774\uc9c0\uc5d0\x20\uc811\uadfc\ud560\x20\uc218\x20\uc5c6\uc2b5\ub2c8\ub2e4\x2e"
+  },
+  "blocked_title": {
+    "message": "\uc774\x20\ud398\uc774\uc9c0\ub294\x20\ucc28\ub2e8\ub410\uc2b5\ub2c8\ub2e4\x2e"
+  },
+  "bug_report": {
+    "message": "\ubc84\uadf8\x20\uc81c\ubcf4\ud558\uae30"
+  },
+  "changelog": {
+    "message": "\uc218\uc815\x20\ub0b4\uc5ed"
+  },
+  "close": {
+    "message": "\ub2eb\uae30"
+  },
+  "document": {
+    "message": "\ubb38\uc11c"
+  },
+  "example": {
+    "message": "\uc608\uc2dc\ub294\x20\uc774\ub807\uc2b5\ub2c8\ub2e4\x2e"
+  },
+  "ext_description": {
+    "message": "Website\x20Blocker\x20\ub294\x20\ub2f9\uc2e0\uc774\x20\uc77c\uc5d0\ub9cc\x20\uc9d1\uc911\ud560\x20\uc218\x20\uc788\ub3c4\ub85d\x20\ub3c4\uc640\uc90d\ub2c8\ub2e4\x2e"
+  },
+  "ext_name": {
+    "message": "Website\x20Blocker\x20\x28Beta\x29"
+  },
+  "facebook_page": {
+    "message": "\ud398\uc774\uc2a4\ubd81\x20\ud398\uc774\uc9c0"
+  },
+  "font_family": {
+    "message": "NanumGothic\x2c\x20Gulim"
+  },
+  "format": {
+    "message": "\ud615\uc2dd\uc740\x20\uc774\ub807\uc2b5\ub2c8\ub2e4\x2e"
+  },
+  "input": {
+    "message": "\uc774\uacf3\uc5d0\x20\ub2f9\uc2e0\uc774\x20\uc6d0\ud558\ub294\x20\uc124\uc815\uc744\x20\uc785\ub825\ud558\uc138\uc694\x2e"
+  },
+  "message_when_blocked": {
+    "message": "\ucc28\ub2e8\ub418\uc5c8\uc744\x20\ub54c\uc758\x20\uba54\uc2dc\uc9c0"
+  },
+  "nav_about": {
+    "message": "\uc774\x20\ud504\ub85c\uadf8\ub7a8\uc5d0\x20\ub300\ud574"
+  },
+  "nav_blocking": {
+    "message": "\uc6f9\uc0ac\uc774\ud2b8\x20\ucc28\ub2e8\ud558\uae30"
+  },
+  "nav_changelog": {
+    "message": "\uc218\uc815\x20\ub0b4\uc5ed"
+  },
+  "nav_function": {
+    "message": "\uac01\x20\uae30\ub2a5\x20\uc0c1\uc138\x20\uc124\uc815\x20\x28ON\x2fOFF\x29"
+  },
+  "nav_message": {
+    "message": "\ucc28\ub2e8\ub418\uc5c8\uc744\x20\ub54c\uc758\x20\uba54\uc2dc\uc9c0"
+  },
+  "nav_password": {
+    "message": "\ud328\uc2a4\uc6cc\ub4dc"
+  },
+  "option_page_link_disabled": {
+    "message": "\ubc14\ub85c\uac00\uae30\x20\uc544\uc774\ucf58\x20\uc9c0\uc6b0\uae30"
+  },
+  "options": {
+    "message": "\uc635\uc158"
+  },
+  "please_support_me": {
+    "message": "\uac1c\ubc1c\uc790\x20\uc9c0\uc6d0\ud558\uae30\x20\x28PayPal\x29"
+  },
+  "popup_page_control_disabled": {
+    "message": "\ud31d\uc5c5\uc5d0\uc11c\x20\uae30\ub2a5\uc81c\uc5b4\x20\ube44\ud65c\uc131\ud654"
+  },
+  "save": {
+    "message": "\uc800\uc7a5\ud558\uae30"
+  },
+  "save_and_close": {
+    "message": "\uc800\uc7a5\x20\ud6c4\x20\ub2eb\uae30"
+  },
+  "setting": {
+    "message": "\uc124\uc815"
+  },
+  "special_thanks": {
+    "message": "\ud2b9\ubcc4\ud788\x20\uac10\uc0ac\ud55c\x20\ubd84\ub4e4"
+  },
+  "tell_a_friend": {
+    "message": "\uce5c\uad6c\ub4e4\uc5d0\uac8c\x20\ud504\ub85c\uadf8\ub7a8\x20\uc54c\ub9ac\uae30"
+  },
+  "time_limit_disabled": {
+    "message": "\uc2dc\uac04\x20\uc81c\ud55c\x20\uae30\ub2a5\x20\ube44\ud65c\uc131\ud654"
+  },
+  "title_when_blocked": {
+    "message": "\ucc28\ub2e8\ub418\uc5c8\uc744\x20\ub54c\uc758\x20\ud0c0\uc774\ud2c0\x20\uba54\uc2dc\uc9c0"
+  },
+  "websites_to_block": {
+    "message": "\ucc28\ub2e8\ud560\x20\uc6f9\uc0ac\uc774\ud2b8"
+  },
+  "with_email": {
+    "message": "\uc774\uba54\uc77c"
+  }
+}

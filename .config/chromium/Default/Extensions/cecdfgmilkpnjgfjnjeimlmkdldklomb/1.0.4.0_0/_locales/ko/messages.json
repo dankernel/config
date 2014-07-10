@@ -1,0 +1,22 @@
+{
+   "contextmenu_title": {
+      "description": "Contextmenu Title",
+      "message": "이미지 플레이하기"
+   },
+   "description": {
+      "description": "Extension's description",
+      "message": "웹상의 이미지 한 컷으로 영상재생·공유가 모두 가능한 신개념 엔터테인먼트 서비스."
+   },
+   "name": {
+      "description": "Extension's name",
+      "message": "이미디오 플러그인"
+   },
+   "toolbar_title_sensor_off": {
+      "description": "Toolbar Title OFF",
+      "message": "이미디오 사용하기"
+   },
+   "toolbar_title_sensor_on": {
+      "description": "Toolbar Title ON",
+      "message": "이미디오 사용중"
+   }
+}

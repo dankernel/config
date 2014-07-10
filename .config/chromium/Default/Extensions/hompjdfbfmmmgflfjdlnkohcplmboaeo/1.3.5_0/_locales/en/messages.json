@@ -1,0 +1,11 @@
+{
+   "chrome_extension_description": {
+      "message": "Re-enable the possibility to use the context menu on sites that overrides it."
+   },
+   "chrome_extension_name": {
+      "message": "Allow Right-Click"
+   },
+   "option_page_title": {
+      "message": "AllowRightClick Options"
+   }
+}

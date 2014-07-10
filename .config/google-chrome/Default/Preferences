@@ -83,7 +83,7 @@
       "commands": {
 
       },
-      "known_disabled": [ "hompjdfbfmmmgflfjdlnkohcplmboaeo" ],
+      "known_disabled": [ "fclomiepeanncapljfngmgnmbnhcnhfn", "hompjdfbfmmmgflfjdlnkohcplmboaeo", "npfcohnejpdhaiapljjddlllmiifppkd" ],
       "last_chrome_version": "35.0.1916.153",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
@@ -601,6 +601,78 @@
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
+         "eknaeafjfoolijbnnkmmjfecekhnnjnf": {
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13049460589303596",
+            "lastpingday": "13049449155097290",
+            "location": 1,
+            "manifest": {
+               "description": "Chrome theme for Griffon2k.com",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDK2MJZ8lIv2/5xoP9yK3W6q5KG5uzMq7KsJL7crf+FIJ3W9qoUWJrZTlt6E0HCYtCq2JrfgxCkkECv+EG4lfZjkgBiqJyHaUV9DughyWpf+AV7oQWV0ZE6/0FPwTtm5QFudp5ErFsYjzICc5PpYGpsQHX07ViOZtPLx/b3Fh5cjQIDAQAB",
+               "name": "griffon2k",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 255, 255, 255 ],
+                     "button_background": [ 0, 0, 0, 0 ],
+                     "frame": [ 0, 0, 0 ],
+                     "frame_inactive": [ 0, 0, 0 ],
+                     "frame_incognito": [ 0, 0, 0 ],
+                     "frame_incognito_inactive": [ 0, 0, 0 ],
+                     "ntp_background": [ 255, 255, 255 ],
+                     "ntp_text": [ 255, 255, 255 ],
+                     "tab_background_text": [ 255, 255, 255 ],
+                     "tab_text": [ 255, 255, 255 ],
+                     "toolbar": [ 223, 223, 223 ]
+                  },
+                  "images": {
+                     "theme_frame": "images/theme_frame.png",
+                     "theme_ntp_background": "images/theme_ntp_background.png",
+                     "theme_tab_background": "images/theme_tab_background.png",
+                     "theme_toolbar": "images/theme_toolbar.png"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "",
+                     "ntp_background_repeat": "no-repeat"
+                  },
+                  "tints": {
+                     "background_tab": [ 0, 0, 0.87058823529412 ],
+                     "buttons": [ 0, 0, 1 ],
+                     "frame": [ -1, -1, -1 ],
+                     "frame_inactive": [ 0, 0, 0.87450980392157 ],
+                     "frame_incognito": [ 0, 0, 0.69019607843137 ],
+                     "frame_incognito_inactive": [ 0, 0, 0.80392156862745 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1"
+            },
+            "path": "eknaeafjfoolijbnnkmmjfecekhnnjnf/1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
          "ennkphjdgehloodpbhlhldgbnhmacadg": {
             "active_permissions": {
                "api": [  ],
@@ -647,6 +719,78 @@
 
             },
             "running": false,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "fclomiepeanncapljfngmgnmbnhcnhfn": {
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "disable_reasons": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13049460267150015",
+            "lastpingday": "13049449155053406",
+            "location": 1,
+            "manifest": {
+               "description": "Tema com vários memes feito em Full HD (1920x1080)",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDc+NBVn9UJk7BHXccndQ8gK4bZtl63k4BqaHctiL7DiKNrF5ycxcu+lAuBeVyIh5C+70AEoBeq1RV6Iuxo/FfCaoWfZpLb8qqeQIg5dIoqi/fzskDK9kia5xGF3Zf/OVds9pfRcaLIxn8GM6fDPxM/Gr2MuaSKlahj4XdUOs80awIDAQAB",
+               "name": "Red meme theme",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 18, 50, 114 ],
+                     "button_background": [ 0, 0, 0, 0 ],
+                     "frame": [ 66, 116, 201 ],
+                     "frame_inactive": [ 161, 182, 228 ],
+                     "frame_incognito": [ 83, 106, 139 ],
+                     "frame_incognito_inactive": [ 126, 139, 156 ],
+                     "ntp_background": [ 255, 255, 255 ],
+                     "ntp_text": [ 0, 0, 0 ],
+                     "tab_background_text": [ 64, 64, 64 ],
+                     "tab_text": [ 0, 0, 0 ],
+                     "toolbar": [ 223, 223, 223 ]
+                  },
+                  "images": {
+                     "theme_frame": "images/theme_frame.png",
+                     "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+                     "theme_ntp_background": "images/theme_ntp_background.png"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "bottom",
+                     "ntp_background_repeat": "repeat"
+                  },
+                  "tints": {
+                     "background_tab": [ -1, 0.5, 0.75 ],
+                     "buttons": [ -1, -1, -1 ],
+                     "frame": [ -1, -1, -1 ],
+                     "frame_inactive": [ -1, -1, 0.75 ],
+                     "frame_incognito": [ -1, 0.2, 0.35 ],
+                     "frame_incognito_inactive": [ -1, 0.3, 0.6 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1"
+            },
+            "path": "fclomiepeanncapljfngmgnmbnhcnhfn/1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 0,
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
@@ -1520,6 +1664,86 @@
             "was_installed_by_default": true,
             "was_installed_by_oem": false
          },
+         "npfcohnejpdhaiapljjddlllmiifppkd": {
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "disable_reasons": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13049460199666720",
+            "lastpingday": "13049449154977583",
+            "location": 1,
+            "manifest": {
+               "description": "A beautiful deep red theme with transparent bokeh circles. This version has a Light Toolbar.",
+               "icons": {
+                  "128": "icon128.png",
+                  "16": "icon16.png",
+                  "48": "icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/pfBEpvwUa2gzN+2wHOIJsAVsK//gWivYY/2vjH6G7UVMByPaE0yueYTJzy7xJC8/MW7Z0veMHlsIz9bBmns7mMsrcCijABj47MhKs5bZ7V6NP5LdgTJEt76/Xtb6zCj/23SbXnfOgNUpiNCa92bDAwRKZ00icRpKA3C4tH7eNQIDAQAB",
+               "name": "Red Bokeh - Light Theme",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 40, 40, 40 ],
+                     "button_background": [ 0, 0, 0, 0.5 ],
+                     "frame": [ 0, 0, 0, 0.5 ],
+                     "ntp_background": [ 0, 0, 0 ],
+                     "ntp_link": [ 255, 255, 255 ],
+                     "ntp_link_underline": [ 255, 255, 255 ],
+                     "ntp_section": [ 0, 0, 0, 0.6 ],
+                     "ntp_section_link": [ 255, 0, 0 ],
+                     "ntp_section_text": [ 255, 0, 0 ],
+                     "ntp_text": [ 249, 249, 249 ],
+                     "tab_background_text": [ 224, 174, 174 ],
+                     "tab_text": [ 125, 0, 0 ],
+                     "toolbar": [ 0, 0, 0, 0.8 ]
+                  },
+                  "images": {
+                     "theme_button_background": "images/button_background.png",
+                     "theme_frame": "images/frame.png",
+                     "theme_frame_overlay": "images/frame_overlay.png",
+                     "theme_ntp_attribution": "images/attribution.png",
+                     "theme_ntp_background": "images/background.png",
+                     "theme_tab_background": "images/tab_bg.png",
+                     "theme_toolbar": "images/toolbar.png"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "bottom",
+                     "ntp_background_repeat": "no-repeat"
+                  },
+                  "tints": {
+                     "buttons": [ 0, 1, 0.5 ],
+                     "frame_inactive": [ 0, 0, 0.1 ],
+                     "frame_incognito_inactive": [ 0, 0, 0.1 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.0"
+            },
+            "path": "npfcohnejpdhaiapljjddlllmiifppkd/1.0_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 0,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
          "pjkljhegncpnkpknbcohdijeoejaedia": {
             "ack_external": true,
             "active_permissions": {
@@ -1578,8 +1802,9 @@
          }
       },
       "theme": {
-         "id": "",
-         "use_system": true
+         "id": "eknaeafjfoolijbnnkmmjfecekhnnjnf",
+         "pack": "/home/dkdk/.config/google-chrome/Default/Extensions/eknaeafjfoolijbnnkmmjfecekhnnjnf/1_0/Cached Theme.pak",
+         "use_system": false
       },
       "toolbar": [ "cecdfgmilkpnjgfjnjeimlmkdldklomb", "hclgegipaehbigmbhdpfapmjadbaldib", "fngmhnnpilhplaeedifhccceomclgfbg", "djflhoibgkdhkhhcedjiklpkjnoahfmg", "laankejkbhbdhmipfmgcngdelahlfoji", "nckgahadagoaajjgafhacjanaoiihapd" ],
       "toolbarsize": -1,
@@ -1971,6 +2196,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 45,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "clients4.google.com:443": {
@@ -2188,7 +2418,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2495,7 +2727,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 32,
+                  "5": 293,
                   "6": 0
                },
                "supports_spdy": true
@@ -3675,7 +3907,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049459988080395",
+      "last_synced_time": "13049460587938211",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

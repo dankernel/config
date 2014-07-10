@@ -1,0 +1,1 @@
+requirejs.config({baseUrl:"/",waitSeconds:60}),requirejs(["core/Logger","core/CoreAPI","core/vendor/jquery.min","components/Popup/PopupController"],function(Logger,API,$,PopupController){API.Settings.init(function(){var controller=new PopupController;$(document).ready(function(){controller.init()})})});

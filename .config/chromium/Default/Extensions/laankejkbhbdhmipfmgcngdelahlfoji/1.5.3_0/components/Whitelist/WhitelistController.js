@@ -1,0 +1,1 @@
+define(["core/Logger","core/CoreAPI","components/List/ListController"],function(Logger,API,ListController){return API.Class.extend(ListController,{})});

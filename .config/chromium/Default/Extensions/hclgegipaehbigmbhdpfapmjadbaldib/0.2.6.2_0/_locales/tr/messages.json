@@ -1,0 +1,140 @@
+{
+   "ID": {
+      "message": "tr"
+   },
+   "_when_blocked": {
+      "message": "Engellleme başlığı"
+   },
+   "add_block_time": {
+      "message": "Engelleme Süresi"
+   },
+   "add_blockthis": {
+      "message": "Engelle!"
+   },
+   "add_time_1": {
+      "message": "arasında"
+   },
+   "add_time_2": {
+      "message": "ile"
+   },
+   "add_time_3": {
+      "message": ""
+   },
+   "applied": {
+      "message": "Onaylandı!"
+   },
+   "apply": {
+      "message": "Onayla"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "basic_settings": {
+      "message": "Temel ayarlar"
+   },
+   "block_already": {
+      "message": "Bu sayfa zaten engellenmiş. This block data edit do from [Ayarlar] sayfası."
+   },
+   "block_ng": {
+      "message": "Sayfa engellenemedi."
+   },
+   "blocked_": {
+      "message": "Bu sayfa engellenmiş."
+   },
+   "blocked_disabled": {
+      "message": "Engelleme fonksiyonu devre dışı."
+   },
+   "blocked_message": {
+      "message": "Sayfaya erişilemedi."
+   },
+   "bug_report": {
+      "message": "Hata raporu"
+   },
+   "changelog": {
+      "message": "Revizyon Geçmişi"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "document": {
+      "message": "Belge"
+   },
+   "example": {
+      "message": "Örnek"
+   },
+   "ext_description": {
+      "message": "Website Blocker is useful when you want to concentrate on work."
+   },
+   "ext_name": {
+      "message": "Website Engelleyici (Beta)"
+   },
+   "facebook_page": {
+      "message": "Facebook sayfası"
+   },
+   "font_family": {
+      "message": "Arial, Helvetica, Verdana, sans-serif"
+   },
+   "format": {
+      "message": "Format"
+   },
+   "input": {
+      "message": "Giriş"
+   },
+   "message_when_blocked": {
+      "message": "Engelleme mesajı"
+   },
+   "nav_about": {
+      "message": "Bu Uzantı Hakkında"
+   },
+   "nav_blocking": {
+      "message": "Websitesi Engelleme"
+   },
+   "nav_changelog": {
+      "message": "Revizyon Geçmişi"
+   },
+   "nav_function": {
+      "message": "Diğer fonksiyonları AÇ/KAPAT"
+   },
+   "nav_message": {
+      "message": "Engelleme mesajları"
+   },
+   "nav_password": {
+      "message": "Şifre"
+   },
+   "option_page_link_disabled": {
+      "message": "Ayar sayfasında link kısaltma devre dışı."
+   },
+   "options": {
+      "message": "Ayarlar"
+   },
+   "please_support_me": {
+      "message": "Lütfen bana destek ver! (PayPal)"
+   },
+   "popup_page_control_disabled": {
+      "message": "popup sayfasından başka fonksiyon kontrolü devre dışı."
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "save_and_close": {
+      "message": "Kaydet ve Kapat"
+   },
+   "setting": {
+      "message": "Ayar"
+   },
+   "special_thanks": {
+      "message": "Özel Teşekkürler"
+   },
+   "tell_a_friend": {
+      "message": "Arkadaşına öner"
+   },
+   "time_limit_disabled": {
+      "message": "Süre limiti fonksiyonunu devre dışı bırak."
+   },
+   "websites_to_block": {
+      "message": "Engllenecek Web siteleri"
+   },
+   "with_email": {
+      "message": "E-Posta ile"
+   }
+}

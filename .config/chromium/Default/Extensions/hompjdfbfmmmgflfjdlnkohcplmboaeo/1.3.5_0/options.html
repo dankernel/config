@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Allow Right Click</title>
+<script src="js/options.js"></script>
+<style>
+body {
+  font-family:helvetica, arial, sans-serif;
+  font-size:80%;
+  margin:10px;
+  max-width:660px;
+  padding-left:20px;
+  padding-top:20px;
+}
+
+#header {
+  padding-bottom:1.5em;
+  padding-top:1.5em;
+  margin-bottom:10px;
+}
+
+#header h1 {
+  font-size: 156%;
+  display:inline;
+  padding-bottom:43px;
+  padding-left:75px;
+  padding-top:40px;
+  background:url("mouse128.png") no-repeat;
+  background-size:67px;
+  background-position:1px 18px;
+}
+
+h2 {
+  background:#ebeff9;
+  border-top:1px solid #b5c7de;
+  font-size:99%;
+  padding:3px 0 2px 5px;
+  font-weight:bold;
+  margin-bottom:1em;
+  margin-top:4em;
+}
+
+.first {
+  margin-top:1em;
+}
+
+#footer {
+  margin-top:2em;
+}
+#save-button {
+  font-weight:bold;
+}
+button.disabled {
+	font-weight:normal;
+}
+textarea { font-family: arial, helvetica, sans-serif;
+font-size: 12px; }
+</style>
+</head>
+
+<body>
+<div id="header"><h1 id="title">AllowRightClick Options</h1></div>
+
+<h2 class="first">White list</h2>
+<p>The following sites are considered fair. The extension won't
+remove the context menu on them.</p>
+<p>For exemple, <em>Yahoo! mail</em> makes a fair use of the context
+menu. You should place yahoo in this list. The list is actually a <a
+	href="https://developer.mozilla.org/en/JavaScript/Guide/Regular_Expressions#Writing_a_Regular_Expression_Pattern">regular
+expression</a> against which the <em>domain</em> of the current page is
+matched. To make it simple: separate domain with a pipe (<tt>|</tt>) an
+don't use spaces nor slashes (<tt>/</tt>)</p>
+<p><textarea id="whitelist" style="width:500px; height:50px" /></textarea></p>
+
+<h2>Aggressive list</h2>
+<p>On those sites, the context-menu will be reset on <tt>div</tt>
+elements, as well.</p>
+<p><label for="aggressivelist">Be aggressive on</label><input
+	id="aggressivelist" /></p>
+<br />
+<div class="option"><input type="checkbox" id="dontsupport"><label for="dontsupport"> I don't want to support you or this extension (turn off the few ads)</label></div>
+
+
+<div id="footer">
+<button id="save-button">Save</button>
+<div id="status"></div>
+</div>
+
+
+<br /><br />
+Make sure to <i>like</i> <a href="http://www.facebook.com/pages/Allow-Right-Click-Chrome-Extension/317208101708296" style="font-weight:bold;" target="_blank">Allow Right-Click on Facebook</a>
+
+    
+</body>
+</html>

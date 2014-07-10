@@ -1,0 +1,1 @@
+define(["core/Logger","core/vendor/jquery.min","core/vendor/Brightline.min","core/CoreAPI"],function(Logger,$,Brightline,API){return API.Class.create({model:null})});

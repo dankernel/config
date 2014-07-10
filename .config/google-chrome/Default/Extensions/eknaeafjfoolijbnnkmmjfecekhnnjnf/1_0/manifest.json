@@ -1,0 +1,40 @@
+{
+   "description": "Chrome theme for Griffon2k.com",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDK2MJZ8lIv2/5xoP9yK3W6q5KG5uzMq7KsJL7crf+FIJ3W9qoUWJrZTlt6E0HCYtCq2JrfgxCkkECv+EG4lfZjkgBiqJyHaUV9DughyWpf+AV7oQWV0ZE6/0FPwTtm5QFudp5ErFsYjzICc5PpYGpsQHX07ViOZtPLx/b3Fh5cjQIDAQAB",
+   "name": "griffon2k",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 223, 223, 223 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "background_tab": [ 0, 0, 0.87058823529412 ],
+         "buttons": [ 0, 0, 1 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ 0, 0, 0.87450980392157 ],
+         "frame_incognito": [ 0, 0, 0.69019607843137 ],
+         "frame_incognito_inactive": [ 0, 0, 0.80392156862745 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
