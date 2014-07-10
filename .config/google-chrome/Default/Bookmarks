@@ -1,5 +1,5 @@
 {
-   "checksum": "b57c9775b578f1e1c69e87c0ea509267",
+   "checksum": "cff0715527e9a4cac770b1a362719ace",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -75,23 +75,11 @@
             "type": "url",
             "url": "http://ipceo.kaist.ac.kr/xe/"
          }, {
-            "date_added": "13001418551117013",
-            "id": "60",
-            "name": "php",
-            "type": "url",
-            "url": "http://earotis.just4fun.co.kr/phpmyadmin/index.php?token=95161740985b026043602a85fe4f7db7&phpMyAdmin=d48d2627e5faa7fa5d8ce5ecbd170e7211995ef9"
-         }, {
             "date_added": "12996032590966011",
             "id": "61",
             "name": "단",
             "type": "url",
             "url": "http://www.dankook.ac.kr/web/kor/home?sso=ok"
-         }, {
-            "date_added": "13049427295163198",
-            "id": "62",
-            "name": "서",
-            "type": "url",
-            "url": "http://www.just4fun.co.kr/"
          }, {
             "date_added": "12974014038608137",
             "id": "63",
@@ -104,12 +92,6 @@
             "name": "",
             "type": "url",
             "url": "http://hosting.cafe24.com/"
-         }, {
-            "date_added": "12997622765634444",
-            "id": "65",
-            "name": "태DB",
-            "type": "url",
-            "url": "http://earotis.just4fun.co.kr/xe/"
          }, {
             "date_added": "13049427295165930",
             "id": "66",
@@ -147,65 +129,11 @@
             "type": "url",
             "url": "https://drive.google.com/keep/"
          }, {
-            "date_added": "13014835983266266",
-            "id": "72",
-            "name": "소스",
-            "type": "url",
-            "url": "http://puzzleware.net/CodeHtmler/default.aspx"
-         }, {
             "date_added": "13008870436426588",
             "id": "73",
             "name": "",
             "type": "url",
             "url": "http://speller.cs.pusan.ac.kr/"
-         }, {
-            "date_added": "13009477476179934",
-            "id": "74",
-            "name": "Codegate 2013",
-            "type": "url",
-            "url": "http://codegate.org/"
-         }, {
-            "date_added": "13009878528038399",
-            "id": "75",
-            "name": "올디 단축키",
-            "type": "url",
-            "url": "http://blog.naver.com/PostView.nhn?blogId=jjysrh&logNo=60071771352"
-         }, {
-            "date_added": "13010135591416090",
-            "id": "76",
-            "name": "대회",
-            "type": "url",
-            "url": "http://www.ufcom.org/"
-         }, {
-            "date_added": "13010142804803528",
-            "id": "77",
-            "name": "정보보호학회",
-            "type": "url",
-            "url": "http://ocean.kisti.re.kr/IS_mvpopo001P.do?method=multMain&poid=kiisc&free"
-         }, {
-            "date_added": "13011687014165469",
-            "id": "78",
-            "name": "정렬",
-            "type": "url",
-            "url": "http://blog.naver.com/PostView.nhn?blogId=jimin159753&logNo=50158813425"
-         }, {
-            "date_added": "13011703799572142",
-            "id": "79",
-            "name": "so_sal :: Linux :: 디버거 GDB 디버깅 테크닉",
-            "type": "url",
-            "url": "http://sosal.tistory.com/128"
-         }, {
-            "date_added": "13012252644893354",
-            "id": "80",
-            "name": "웹마스터 도구 - 내 삭제 요청",
-            "type": "url",
-            "url": "https://www.google.com/webmasters/tools/removals?hl=ko"
-         }, {
-            "date_added": "13012395489779529",
-            "id": "81",
-            "name": "Facebook",
-            "type": "url",
-            "url": "http://www.facebook.com/"
          }, {
             "date_added": "13012420823803425",
             "id": "82",
@@ -218,114 +146,6 @@
             "name": "Kickstarter",
             "type": "url",
             "url": "http://www.kickstarter.com/"
-         }, {
-            "date_added": "13015134324189587",
-            "id": "84",
-            "name": "토렌트알지 > 유틸 > [한국어 지원] Autodesk 3ds Max 2013 x86 x64 ISZ",
-            "type": "url",
-            "url": "http://www.torrentrg.net/bbs/board.php?bo_table=torrent_util&wr_id=42171&sfl=&stx=&sst=wr_good&sod=desc&sop=and&page=2"
-         }, {
-            "date_added": "13015163237711997",
-            "id": "85",
-            "name": "Update",
-            "type": "url",
-            "url": "https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CE0QFjAD&url=http%3A%2F%2Fwww.unitystudy.net%2Fbbs%2Fboard.php%3Fbo_table%3Dwritings%26wr_id%3D43&ei=NA-zUaaPA4eCiQfI6IDQDA&usg=AFQjCNGmUzTLjemCSDszPbzR3lLER0kTSA&sig2=6eIqzxOdxfih0dt_UYCdSA&bvm=bv.47534661,d.aGc&cad=rjt"
-         }, {
-            "date_added": "13015334241608477",
-            "id": "86",
-            "name": "유니티 질문",
-            "type": "url",
-            "url": "http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=31274&page=0&sca=&sfl=&stx=&sst=&sod=&spt=0&page=0&currentId=44"
-         }, {
-            "date_added": "13015642754931943",
-            "id": "87",
-            "name": "오늘의유머 - 고양이에 관한 명언들",
-            "type": "url",
-            "url": "http://todayhumor.co.kr/board/view.php?table=humorbest&no=695326&s_no=695326&page=1"
-         }, {
-            "date_added": "13015785073542144",
-            "id": "88",
-            "name": "ncanis's Macula (흑점) :: Unity3d 게임 엔진 공부 - 1 비기너 요약",
-            "type": "url",
-            "url": "http://ncanis.tistory.com/archive/20110420"
-         }, {
-            "date_added": "13015785078575144",
-            "id": "89",
-            "name": "충돌처리(Collision) 함수",
-            "type": "url",
-            "url": "http://blog.daum.net/code7004/58"
-         }, {
-            "date_added": "13015785082263144",
-            "id": "90",
-            "name": "강체-RigidBody 기본속성 정리",
-            "type": "url",
-            "url": "http://blog.daum.net/hopefullife/184"
-         }, {
-            "date_added": "13015785086062144",
-            "id": "91",
-            "name": "유니티 스크립트 레퍼런스 – Rigidbody.isKinematic",
-            "type": "url",
-            "url": "http://www.devkorea.co.kr/reference/Documentation/ScriptReference/Rigidbody-isKinematic.html"
-         }, {
-            "date_added": "13015841239735616",
-            "id": "92",
-            "name": "프로젝트 오일러",
-            "type": "url",
-            "url": "http://euler.synap.co.kr/prob_list.php"
-         }, {
-            "date_added": "13016078561311415",
-            "id": "93",
-            "name": "허브",
-            "type": "url",
-            "url": "http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=762070528&NaPm=ct=hi3u5sko|ci=982003ef5d34013aaaeb2575b0f8fbfd90d94942|tr=slsl|sn=17703|hk=d7e8c485db206fa040caa5ea99a5c5071b3a9767"
-         }, {
-            "date_added": "13016388818843957",
-            "id": "94",
-            "name": "[Unity3D]오브젝트 텍스쳐 교체로 2D애니메이션 효과 주기. : 네이버 블로그",
-            "type": "url",
-            "url": "http://blog.naver.com/PostView.nhn?blogId=cdjlsn&logNo=30144440772"
-         }, {
-            "date_added": "13016389205226988",
-            "id": "95",
-            "name": "icoder's storage - [Unity3D 강좌] 2DToolkit : Creating a sprite animation",
-            "type": "url",
-            "url": "http://icoder.tistory.com/entry/Unity3D-%EA%B0%95%EC%A2%8C-2DToolkit-Creating-a-sprite-animation"
-         }, {
-            "date_added": "13017123192335851",
-            "id": "96",
-            "name": "추천 사이트",
-            "type": "url",
-            "url": "https://ieonline.microsoft.com/#ieslice"
-         }, {
-            "date_added": "13021733253065538",
-            "id": "97",
-            "name": "단국대 임베디드",
-            "type": "url",
-            "url": "http://embedded.zz.mu/xe/index.php?mid=Home"
-         }, {
-            "date_added": "13021978348750196",
-            "id": "98",
-            "name": "우분투 백업",
-            "type": "url",
-            "url": "http://rance18.egloos.com/6673"
-         }, {
-            "date_added": "13022057210928459",
-            "id": "99",
-            "name": "오늘의유머 - 교통사고 피해자 아버지의 위엄",
-            "type": "url",
-            "url": "http://www.todayhumor.co.kr/board/view.php?table=humorbest&no=738924&s_no=738924&page=1"
-         }, {
-            "date_added": "13022162591772225",
-            "id": "100",
-            "name": "DBpia - 검색결과",
-            "type": "url",
-            "url": "http://www.dbpia.co.kr/SearchResult/Search?q=%28%28%5B10701%C2%A7coldb%C2%A73%C2%A714%C2%A73%5D+OR+%5B10703%C2%A7coldb%C2%A73%C2%A714%C2%A73%5D%29+AND+%5Bcomputer%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D%29&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24computer%5E*&searchWordCondition=&Collection=0&searchReset=&nSort=1&nSorttype=desc&Page=2&nPagesize=20&fCategory=&fContentsType=&fPublication=&fPublisher=&fPublishYear=&fRegister=&fDpTypeCode=&oCategory=&oPublishYear=&oRegister=&SearchAll=computer&SearchAuthor=&SearchBook=&SearchPublisher=&Multimedia=0&specificParam=1&nSearchKeyword=&nSearchField="
-         }, {
-            "date_added": "13022163329022465",
-            "id": "101",
-            "name": "SLRCLUB, 디지털 사진가를 위한 커뮤니티",
-            "type": "url",
-            "url": "http://www.slrclub.com/info.php"
          }, {
             "date_added": "13022559969636000",
             "id": "102",
@@ -486,7 +306,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "4",
+      "sync_transaction_version": "37",
       "synced": {
          "children": [ {
             "date_added": "13049387842272701",
