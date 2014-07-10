@@ -101,13 +101,13 @@
    },
    "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1412787550.594272,
+      "expiry": 1412788052.141929,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404839276.381816,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
-      "sts_observed": 1405011550.594272
+      "sts_observed": 1405012052.141929
    },
    "Zq5gv55UOHUWND3ERNKxEDwE9ZTXG3PdEe77DoOnkfE=": {
       "dynamic_spki_hashes_expiry": 0.0,
