@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13049437471599926",
-         "next_check": "13049458370952874"
+         "next_check": "13049458165800424"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -2129,6 +2129,13 @@
                },
                "supports_spdy": false
             },
+            "doc-0c-0g-docs.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "docs.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2505,7 +2512,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "mail-attachment.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2726,6 +2736,34 @@
                "supports_spdy": false
             },
             "p4-esws7vvzrnagw-65jwmoc3mysy72ih-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ffcnkkrg7le4i-yawdwrjhn4rq5ucw-146501-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ffcnkkrg7le4i-yawdwrjhn4rq5ucw-146501-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ffcnkkrg7le4i-yawdwrjhn4rq5ucw-146501-s1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ffcnkkrg7le4i-yawdwrjhn4rq5ucw-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3658,7 +3696,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049455774554454",
+      "last_synced_time": "13049456387985677",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
