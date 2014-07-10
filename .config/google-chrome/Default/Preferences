@@ -2185,6 +2185,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 61,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "encrypted-tbn1.gstatic.com:443": {
@@ -2201,7 +2206,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 101,
                   "6": 0
                },
                "supports_spdy": true
@@ -2210,6 +2215,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 64,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2569,7 +2579,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 10
+                  "4": 10,
+                  "5": 34,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3286,7 +3298,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 54,
+                  "5": 67,
                   "6": 0
                },
                "supports_spdy": true
@@ -3721,7 +3733,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049481160191868",
+      "last_synced_time": "13049481874556812",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
