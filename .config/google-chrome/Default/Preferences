@@ -1926,6 +1926,20 @@
                },
                "supports_spdy": true
             },
+            "bagjunggyu.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "bagjunggyu.blogspot.kr:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "byseob.blogspot.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2516,6 +2530,13 @@
                   "4": 100
                },
                "supports_spdy": true
+            },
+            "lh6.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "mail-attachment.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -3136,7 +3157,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 52,
+                  "5": 58,
                   "6": 0
                },
                "supports_spdy": true
@@ -3221,6 +3242,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "www.blogger.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "www.dorajistyle.pe.kr:80": {
                "alternate_protocol": {
@@ -3696,7 +3724,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049456387985677",
+      "last_synced_time": "13049456883438941",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
