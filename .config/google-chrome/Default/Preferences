@@ -2264,6 +2264,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "csi.gstatic.com:443": {
@@ -3874,6 +3877,7 @@
          "lovestudycom.tistory.com": 2.223901085741545,
          "lowid.tistory.com": 1.2239010857415449,
          "lupusmaru.egloos.com": 0.5227586988632231,
+         "mail.google.com": 1.2239010857415449,
          "mailman.archlinux.org": 2.223901085741545,
          "minsone.github.io": 1.2239010857415449,
          "mobicon.tistory.com": 3.069389038663465,
@@ -3923,7 +3927,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049461289607476",
+      "last_synced_time": "13049462981291823",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
