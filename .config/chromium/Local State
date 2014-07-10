@@ -9,8 +9,8 @@
       "last_redirect_origin": ""
    },
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "50510260",
-   "http_received_content_length": "50510260",
+   "http_original_content_length": "50514939",
+   "http_received_content_length": "50514939",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -192,7 +192,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1404990968",
+         "last_timestamp_sec": "1404991568",
          "launch_count": 1,
          "launch_time_sec": "1404986468",
          "page_load_count": 0,
