@@ -13,6 +13,7 @@
          "time_period": 4
       },
       "clear_lso_data_enabled": true,
+      "custom_chrome_frame": true,
       "last_known_google_url": "https://www.google.co.kr/",
       "last_prompted_google_url": "https://www.google.co.kr/",
       "pepper_flash_settings_enabled": true,
@@ -590,78 +591,6 @@
             },
             "page_ordinal": "n",
             "path": "ejjicmeblgpmajnghnpcppodonldlgfn/4.5.3_0",
-            "preferences": {
-
-            },
-            "regular_only_preferences": {
-
-            },
-            "state": 1,
-            "was_installed_by_default": false,
-            "was_installed_by_oem": false
-         },
-         "eknaeafjfoolijbnnkmmjfecekhnnjnf": {
-            "active_permissions": {
-               "api": [  ],
-               "manifest_permissions": [  ]
-            },
-            "content_settings": [  ],
-            "creation_flags": 9,
-            "events": [  ],
-            "from_bookmark": false,
-            "from_webstore": true,
-            "granted_permissions": {
-               "api": [  ],
-               "manifest_permissions": [  ]
-            },
-            "incognito_content_settings": [  ],
-            "incognito_preferences": {
-
-            },
-            "install_time": "13049312879284500",
-            "lastpingday": "13049449155129769",
-            "location": 1,
-            "manifest": {
-               "description": "Chrome theme for Griffon2k.com",
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDK2MJZ8lIv2/5xoP9yK3W6q5KG5uzMq7KsJL7crf+FIJ3W9qoUWJrZTlt6E0HCYtCq2JrfgxCkkECv+EG4lfZjkgBiqJyHaUV9DughyWpf+AV7oQWV0ZE6/0FPwTtm5QFudp5ErFsYjzICc5PpYGpsQHX07ViOZtPLx/b3Fh5cjQIDAQAB",
-               "name": "griffon2k",
-               "theme": {
-                  "colors": {
-                     "bookmark_text": [ 255, 255, 255 ],
-                     "button_background": [ 0, 0, 0, 0 ],
-                     "frame": [ 0, 0, 0 ],
-                     "frame_inactive": [ 0, 0, 0 ],
-                     "frame_incognito": [ 0, 0, 0 ],
-                     "frame_incognito_inactive": [ 0, 0, 0 ],
-                     "ntp_background": [ 255, 255, 255 ],
-                     "ntp_text": [ 255, 255, 255 ],
-                     "tab_background_text": [ 255, 255, 255 ],
-                     "tab_text": [ 255, 255, 255 ],
-                     "toolbar": [ 223, 223, 223 ]
-                  },
-                  "images": {
-                     "theme_frame": "images/theme_frame.png",
-                     "theme_ntp_background": "images/theme_ntp_background.png",
-                     "theme_tab_background": "images/theme_tab_background.png",
-                     "theme_toolbar": "images/theme_toolbar.png"
-                  },
-                  "properties": {
-                     "ntp_background_alignment": "",
-                     "ntp_background_repeat": "no-repeat"
-                  },
-                  "tints": {
-                     "background_tab": [ 0, 0, 0.87058823529412 ],
-                     "buttons": [ 0, 0, 1 ],
-                     "frame": [ -1, -1, -1 ],
-                     "frame_inactive": [ 0, 0, 0.87450980392157 ],
-                     "frame_incognito": [ 0, 0, 0.69019607843137 ],
-                     "frame_incognito_inactive": [ 0, 0, 0.80392156862745 ]
-                  }
-               },
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "1"
-            },
-            "path": "eknaeafjfoolijbnnkmmjfecekhnnjnf/1_0",
             "preferences": {
 
             },
@@ -1649,8 +1578,8 @@
          }
       },
       "theme": {
-         "id": "eknaeafjfoolijbnnkmmjfecekhnnjnf",
-         "pack": "/home/dkdk/.config/google-chrome/Default/Extensions/eknaeafjfoolijbnnkmmjfecekhnnjnf/1_0/Cached Theme.pak"
+         "id": "",
+         "use_system": true
       },
       "toolbar": [ "cecdfgmilkpnjgfjnjeimlmkdldklomb", "hclgegipaehbigmbhdpfapmjadbaldib", "fngmhnnpilhplaeedifhccceomclgfbg", "djflhoibgkdhkhhcedjiklpkjnoahfmg", "laankejkbhbdhmipfmgcngdelahlfoji", "nckgahadagoaajjgafhacjanaoiihapd" ],
       "toolbarsize": -1,
@@ -2176,7 +2105,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 149,
                   "6": 0
                },
                "supports_spdy": true
@@ -2233,6 +2162,10 @@
                "supports_spdy": true
             },
             "fbstatic-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "feedburner.google.com:80": {
@@ -2253,6 +2186,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2511,7 +2447,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 140,
+                  "5": 234,
                   "6": 0
                },
                "supports_spdy": true
@@ -3739,7 +3675,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049459294320560",
+      "last_synced_time": "13049459988080395",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
