@@ -2155,6 +2155,13 @@
                },
                "supports_spdy": false
             },
+            "doc-0k-a4-docs.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "docs.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3732,7 +3739,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049458008857133",
+      "last_synced_time": "13049459294320560",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
