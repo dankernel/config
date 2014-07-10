@@ -2848,8 +2848,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 93,
-                  "6": 0
+                  "5": 165,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -3046,6 +3046,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
