@@ -1623,7 +1623,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 87,
+                  "6": 0
                },
                "supports_spdy": true
             },
