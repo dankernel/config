@@ -90,10 +90,10 @@
             } ]
          }
       },
-      "resource_cache_update": "1405010680.91231"
+      "resource_cache_update": "1405097080.916679"
    },
    "policy": {
-      "last_statistics_update": "13049484211080399"
+      "last_statistics_update": "13049570611081413"
    },
    "profile": {
       "info_cache": {
@@ -223,7 +223,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405096638",
+         "last_timestamp_sec": "1405097238",
          "launch_count": 23,
          "launch_time_sec": "1405089738",
          "page_load_count": 0,
