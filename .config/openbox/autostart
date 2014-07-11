@@ -1,5 +1,7 @@
 xmodmap ~/.Xmodmap &
 nabi &
+conky &
+gnome-terminal --geometry 93x30 &
 
 arandr ~/.screenlayout/dual.sh &
 
