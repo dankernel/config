@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "1014329801",
-   "http_received_content_length": "1014329801",
+   "http_original_content_length": "1014928194",
+   "http_received_content_length": "1014928194",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405100573.055751,
+            "active_time": 1405101258.424518,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/google-chrome/Default": {
@@ -209,28 +209,28 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404837811",
-      "launch_count": "24"
+      "launch_count": "23"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 6810,
-      "session_id": 23,
+      "session_id": 22,
       "stability": {
          "breakpad_registration_fail": 23,
          "breakpad_registration_ok": 0,
-         "crash_count": 20,
+         "crash_count": 19,
          "debugger_not_present": 23,
          "debugger_present": 0,
-         "execution_phase": 700,
-         "exited_cleanly": true,
+         "execution_phase": 500,
+         "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405100999",
-         "launch_count": 24,
-         "launch_time_sec": "1405100999",
+         "last_timestamp_sec": "1405101438",
+         "launch_count": 23,
+         "launch_time_sec": "1405089738",
          "page_load_count": 0,
          "plugin_stats2": [ {
             "crashes": 0,
             "instances": 0,
-            "launches": 33,
+            "launches": 35,
             "loading_errors": 0,
             "name": "Shockwave Flash"
          } ],

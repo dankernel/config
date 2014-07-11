@@ -19,10 +19,10 @@
       "pepper_flash_settings_enabled": true,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 748,
+         "bottom": 768,
          "left": 0,
          "maximized": true,
-         "right": 1050,
+         "right": 1366,
          "top": 0,
          "work_area_bottom": 768,
          "work_area_left": 0,
@@ -2695,7 +2695,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 35,
                   "6": 0
                },
                "supports_spdy": true
@@ -3012,7 +3012,7 @@
                "settings": {
                   "4": 100,
                   "5": 39,
-                  "6": 4
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3373,6 +3373,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "www.google-analytics.com:80": {
@@ -3389,7 +3394,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 53,
+                  "5": 55,
                   "6": 0
                },
                "supports_spdy": true
@@ -3824,7 +3829,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049574183311460",
+      "last_synced_time": "13049574855835545",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
