@@ -2601,7 +2601,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 257,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -3119,7 +3119,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 86,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3188,7 +3190,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 39,
+                  "6": 0
                },
                "supports_spdy": true
             },
