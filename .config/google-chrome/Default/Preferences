@@ -1808,7 +1808,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1829,6 +1831,9 @@
                "supports_spdy": false
             },
             "4t4qjto8n6vcba9cabf6v2lrng9ast6r-a-fc-opensocial.googleusercontent.com:443": {
+               "supports_spdy": true
+            },
+            "5-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
             "6-channel-proxy-13-prn1.facebook.com:443": {
@@ -1966,6 +1971,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "cdn.syndication.twimg.com:443": {
@@ -2019,7 +2029,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2614,8 +2626,8 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
-                  "6": 0
+                  "5": 49,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -2970,8 +2982,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 171,
-                  "6": 0
+                  "5": 56,
+                  "6": 3
                },
                "supports_spdy": true
             },
@@ -3204,7 +3216,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 39,
+                  "5": 410,
                   "6": 0
                },
                "supports_spdy": true
@@ -3346,8 +3358,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 76,
-                  "6": 0
+                  "5": 53,
+                  "6": 1
                },
                "supports_spdy": true
             },
@@ -3365,8 +3377,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "5": 19,
+                  "6": 7
                },
                "supports_spdy": true
             },
@@ -3781,7 +3793,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049565530590304",
+      "last_synced_time": "13049565923120328",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
