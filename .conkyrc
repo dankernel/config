@@ -1,0 +1,70 @@
+background no
+font Bandal:size=10
+#xftfont Bandal:size=10
+use_xft yes
+xftalpha 0.9
+update_interval 3.0
+total_run_times 0
+own_window yes
+own_window_type override
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_pager,skip_taskbar
+own_window_colour ffffff
+double_buffer yes
+minimum_size 220 5
+maximum_width 220
+draw_shades yes
+draw_outline no
+draw_borders no
+#border_width 5
+#border_margin 10
+draw_graph_borders no
+default_color d0d0d0
+default_shade_color black
+default_outline_color green
+alignment top_right
+gap_x 5
+gap_y 35
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale yes
+#uppercase yes # set to yes if you want all text to be in uppercase
+TEXT
+${font NanumGothic:size=18}${alignc}${time %Y %B %e %a}${font}
+${alignc 40}${font Arial black:size=20}${time %H:%M:%S}${font}
+System ${hr 1}
+  Hostname: $alignr$nodename
+  Kernel: ${alignr}${kernel}
+  Uptime: ${alignr}${uptime}
+
+Processes ${hr 1}
+  (${acpitemp}°C) ${alignr}${processes} (${running_processes running})
+  CPU1 ${cpu cpu1}% ${cpubar cpu1 4}
+  CPU2 ${cpu cpu2}% ${cpubar cpu2 4}
+  CPU2 ${cpu cpu3}% ${cpubar cpu3 4}
+  CPU2 ${cpu cpu4}% ${cpubar cpu4 4}
+  ${cpugraph cpu1 20,107} ${alignr}${cpugraph cpu2 20,107}
+  ${cpugraph cpu3 20,107} ${alignr}${cpugraph cpu4 20,107}
+
+Ram ${alignr}${mem} / ${memmax} (${memperc}%)
+  ${membar 4}
+
+CPU TOP ${alignr} CPU% MEM%
+  ${top name 1}${alignr}${top cpu 1}${top mem 1}
+  ${top name 2}${alignr}${top cpu 2}${top mem 2}
+  ${top name 3}${alignr}${top cpu 3}${top mem 3}
+
+Memory TOP ${alignr} CPU% MEM%
+  ${top_mem name 1}${alignr}${top_mem cpu 1}${top_mem mem 1}
+  ${top_mem name 2}${alignr}${top_mem cpu 2}${top_mem mem 2}
+  ${top_mem name 3}${alignr}${top_mem cpu 3}${top_mem mem 3}
+
+Filesystem ${hr 1}
+  DISK: ${alignr}${fs_free /} / ${fs_size /}
+  ${fs_bar 4 /}
+
+Network : ${addr enp2s0f0} ${hr 1}
+  Down ${downspeed enp2s0f0} k/s ${alignr}Up ${upspeed enp2s0f0} k/s
+  ${downspeedgraph enp2s0f0 25,107} ${alignr}${upspeedgraph enp2s0f0 25,107}
+  Total ${totaldown enp2s0f0} ${alignr}Total ${totalup enp2s0f0}
