@@ -1818,6 +1818,9 @@
             "1-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
+            "3-channel-proxy-13-prn1.facebook.com:443": {
+               "supports_spdy": true
+            },
             "4.bp.blogspot.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -1918,7 +1921,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 50,
+                  "5": 55,
                   "6": 0
                },
                "supports_spdy": true
@@ -2014,6 +2017,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2158,7 +2164,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3773,7 +3781,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049564812009599",
+      "last_synced_time": "13049565530590304",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

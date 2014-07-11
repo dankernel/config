@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "944404198",
-   "http_received_content_length": "944404198",
+   "http_original_content_length": "950949543",
+   "http_received_content_length": "950949543",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405090262.395819,
+            "active_time": 1405091984.181492,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [ "Default" ],
+      "last_active_profiles": [  ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/google-chrome/Default": {
@@ -223,14 +223,14 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405091238",
+         "last_timestamp_sec": "1405091838",
          "launch_count": 23,
          "launch_time_sec": "1405089738",
          "page_load_count": 0,
          "plugin_stats2": [ {
             "crashes": 0,
             "instances": 0,
-            "launches": 29,
+            "launches": 30,
             "loading_errors": 0,
             "name": "Shockwave Flash"
          } ],
