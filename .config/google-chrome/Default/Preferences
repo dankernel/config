@@ -74,8 +74,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13049554894714328",
-         "next_check": "13049572249261208"
+         "last_check": "13049572249266097",
+         "next_check": "13049588541972135"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]

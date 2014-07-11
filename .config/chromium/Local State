@@ -8,9 +8,12 @@
    "browser": {
       "last_redirect_origin": ""
    },
+   "gl_renderer_string": "Mesa DRI Intel(R) Sandybridge Mobile ",
+   "gl_vendor_string": "Intel Open Source Technology Center",
+   "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "201051753",
-   "http_received_content_length": "201051753",
+   "http_original_content_length": "285474458",
+   "http_received_content_length": "285474458",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -95,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405098350.211706,
+            "active_time": 1405099118.611176,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -178,23 +181,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "3"
+      "launch_count": "4"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 2,
+      "session_id": 3,
       "stability": {
-         "breakpad_registration_fail": 3,
+         "breakpad_registration_fail": 4,
          "breakpad_registration_ok": 0,
          "crash_count": 2,
-         "debugger_not_present": 3,
+         "debugger_not_present": 4,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405098415",
-         "launch_count": 3,
-         "launch_time_sec": "1405098115",
+         "last_timestamp_sec": "1405099110",
+         "launch_count": 4,
+         "launch_time_sec": "1405099118",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
