@@ -1529,6 +1529,9 @@
    "net": {
       "http_server_properties": {
          "servers": {
+            "0-channel-proxy-06-frc1.facebook.com:443": {
+               "supports_spdy": true
+            },
             "1-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1605,6 +1608,13 @@
             "calendar.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "cdn.mathjax.org:80": {
+               "alternate_protocol": {
+                  "port": 80,
                   "protocol_str": "quic"
                },
                "supports_spdy": false
@@ -1812,6 +1822,18 @@
                },
                "supports_spdy": false
             },
+            "id.google.co.kr:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
             "lh3.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1873,7 +1895,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 10
+                  "4": 10,
+                  "5": 261,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1994,6 +2018,13 @@
                },
                "supports_spdy": false
             },
+            "p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2021,6 +2052,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "pixel.facebook.com:443": {
+               "supports_spdy": true
             },
             "plus.google.com:443": {
                "alternate_protocol": {
@@ -2075,6 +2109,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "scontent-a.xx.fbcdn.net:443": {
+               "supports_spdy": true
             },
             "scontent-b.xx.fbcdn.net:443": {
                "supports_spdy": true
@@ -2190,7 +2227,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 62,
+                  "5": 120,
                   "6": 0
                },
                "supports_spdy": true
@@ -2552,7 +2589,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049573029095194",
+      "last_synced_time": "13049573986602183",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
