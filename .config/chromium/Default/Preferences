@@ -1825,7 +1825,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1847,7 +1849,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1857,7 +1861,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 10
+                  "4": 10,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1925,6 +1931,48 @@
                },
                "supports_spdy": false
             },
+            "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-873897-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -1981,7 +2029,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 30,
+                  "5": 72,
                   "6": 0
                },
                "supports_spdy": true
@@ -2015,6 +2063,13 @@
                "supports_spdy": false
             },
             "s.ytimg.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "s1.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -2058,6 +2113,9 @@
                   "5": 100,
                   "6": 0
                },
+               "supports_spdy": true
+            },
+            "ssl.pstatic.net:443": {
                "supports_spdy": true
             },
             "talkgadget.google.com:443": {
@@ -2113,7 +2171,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 86,
+                  "5": 96,
                   "6": 0
                },
                "supports_spdy": true
@@ -2494,7 +2552,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049572770667610",
+      "last_synced_time": "13049573029095194",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
