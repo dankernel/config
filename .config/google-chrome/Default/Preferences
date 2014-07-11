@@ -75,7 +75,7 @@
       },
       "autoupdate": {
          "last_check": "13049458165802182",
-         "next_check": "13049493430701270"
+         "next_check": "13049554894711586"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1809,6 +1809,9 @@
                },
                "supports_spdy": true
             },
+            "1-channel-proxy-06-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "1.bp.blogspot.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -1898,6 +1901,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2560,6 +2566,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "lh5.googleusercontent.com:80": {
@@ -2581,6 +2592,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "lh6.googleusercontent.com:80": {
@@ -2589,6 +2605,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "lqo-thequestionsnetw.netdna-ssl.com:443": {
+               "supports_spdy": true
             },
             "mail-attachment.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -3764,7 +3783,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049486981596609",
+      "last_synced_time": "13049554616371057",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
