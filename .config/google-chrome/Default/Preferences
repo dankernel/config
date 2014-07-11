@@ -2157,7 +2157,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "drive.google.com:443": {
                "alternate_protocol": {
@@ -2275,7 +2278,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2957,7 +2962,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 171,
                   "6": 0
                },
                "supports_spdy": true
@@ -3768,7 +3773,7 @@
       "history_delete_directives": true,
       "keep_everything_synced": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049563511258079",
+      "last_synced_time": "13049564812009599",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
