@@ -63,6 +63,10 @@
       "suggest_url_post_params": "",
       "synced_guid": "E9EB31B0-37B2-4B09-BC05-669B3ED211A2"
    },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://ad.naver.com/", [ "http://ad.naver.com/", 2.2733802, "http://adcreative.naver.com/", 2.9340205999999998 ] ], [ "http://blog.embian.com/", [ "http://apihub.daum.net/", 3.2643407999999994, "http://dmaps.daum.net/", 3.2643407999999994, "http://go.daum.net/", 2.2733802, "http://i1.daumcdn.net/", 3.5946609999999994, "http://m1.daumcdn.net/", 5.576582199999999, "http://m2.daumcdn.net/", 2.2733802, "http://s1.daumcdn.net/", 6.567542799999998, "http://static.image2play.com/", 2.6037003999999997, "http://track.tiara.daum.net/", 3.2643407999999994, "http://www.tistory.com/", 2.2733802 ] ], [ "http://castbox.shopping.naver.com/", [ "http://img.naver.net/", 2.2733802, "http://shopping.phinf.naver.net/", 6.897862999999998, "http://static.shopping.naver.net/", 2.6037003999999997 ] ], [ "http://facebook.com/", [ "http://www.facebook.com/", 2.2733802, "https://www.facebook.com/", 2.2733802 ] ], [ "http://google.com/", [ "http://www.google.co.kr/", 2.2733802, "https://www.google.co.kr/", 2.2733802 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://p4-dib2b67anxms2-vkmre243ifejouco-if-v6exp3-v4.metric.gstatic.com/", 0.99028441512, "http://pagead2.googlesyndication.com/", 2.2660542442556633, "http://s0.2mdn.net/", 0.21520612271823925, "http://www.gstatic.com/", 0.8241802505560427 ] ], [ "http://mail.google.com/", [ "https://mail.google.com/", 2.2733802 ] ], [ "http://nemonein.egloos.com/", [ "http://cdn.mathjax.org/", 2.379082664, "http://logo21.egloos.com/", 2.379082664, "http://md.egloos.com/", 15.539039431999996, "http://md.egloos.net/", 5.669071855999999, "http://nemonein.egloos.com/", 2.379082664, "http://pds17.egloos.com/", 1.8307511319999998, "http://pds25.egloos.com/", 1.8307511319999998, "http://profile.egloos.net/", 1.8307511319999998, "http://static.image2play.com/", 2.1610713319999997, "http://statweb.egloos.com/", 2.1610713319999997 ] ], [ "http://nv1.ad.naver.com/", [ "http://adcreative.naver.com/", 2.2733802, "http://nv1.adcreative.naver.net/", 2.9340205999999998, "http://static.image2play.com/", 2.2733802 ] ], [ "http://nv2.ad.naver.com/", [ "http://i2p.enswer.net/", 2.2733802, "http://img.naver.net/", 2.2733802, "http://nv2.adcreative.naver.net/", 3.2643407999999994 ] ], [ "http://p4-a6ub7on62vqz6-44dmmcmtwbagpukk-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-a6ub7on62vqz6-44dmmcmtwbagpukk-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.6037003999999997 ] ], [ "http://p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-if-v6exp3-v4.metric.gstatic.com/", 2.2086570657060003, "http://static.image2play.com/", 2.2086570657060003 ] ], [ "http://p4-an3afepdnv34c-syatxlqkorctcjkb-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-an3afepdnv34c-syatxlqkorctcjkb-if-v6exp3-v4.metric.gstatic.com/", 2.2086570657060003, "http://static.image2play.com/", 2.529573049612 ] ], [ "http://p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.6037003999999997 ] ], [ "http://p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.2733802 ] ], [ "http://p4-dib2b67anxms2-vkmre243ifejouco-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dib2b67anxms2-vkmre243ifejouco-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.2733802 ] ], [ "http://p4-dpntwcj4svfxq-g3guwv7mutdiexu4-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dpntwcj4svfxq-g3guwv7mutdiexu4-if-v6exp3-v4.metric.gstatic.com/", 2.2086570657060003, "http://static.image2play.com/", 2.2086570657060003 ] ], [ "http://p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.6037003999999997 ] ], [ "http://p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com/", 2.2086570657060003, "http://static.image2play.com/", 2.529573049612 ] ], [ "http://p4-ffkzjyf55smbm-4kmhcquojnwxflbu-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-ffkzjyf55smbm-4kmhcquojnwxflbu-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.6037003999999997 ] ], [ "http://p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com/", [ "http://p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com/", 2.2733802, "http://static.image2play.com/", 2.2733802 ] ], [ "http://se.naver.com/", [ "http://lcs.naver.com/", 2.2733802, "http://se.naver.com/", 3.924981199999999, "http://sstatic.naver.net/", 3.2643407999999994, "http://static.image2play.com/", 2.2733802 ] ], [ "http://search.naver.com/", [ "http://lcs.naver.com/", 2.2733802, "http://n.search.naver.com/", 2.2733802, "http://p.search.naver.com/", 2.2733802, "http://spi.naver.net/", 2.6037003999999997, "http://sstatic.naver.net/", 34.97508000000003, "http://static.image2play.com/", 2.2733802, "http://static.naver.net/", 2.2733802, "http://thumbvideo.naver.net/", 3.2643407999999994, "http://tv01.search.naver.net/", 3.2643407999999994, "http://tv03.search.naver.net/", 6.237222599999998 ] ], [ "http://sports.news.naver.com/", [ "http://gn.naver.com/", 2.6037003999999997, "http://i2p.enswer.net/", 2.2733802, "http://imgsports.naver.net/", 3.5946609999999994, "http://lcs.naver.com/", 2.2733802, "http://spi.naver.net/", 2.2733802, "http://sports.phinf.naver.net/", 5.576582199999999, "http://static.image2play.com/", 2.2733802, "http://static.naver.com/", 3.924981199999999, "http://static.naver.net/", 2.2733802, "http://tv03.search.naver.net/", 3.2643407999999994 ] ], [ "http://static.nid.naver.com/", [ "http://static.nid.naver.com/", 3.2643407999999994 ] ], [ "http://statweb.egloos.com/", [ "http://estat.zum.com/", 1.9005147582400002, "http://static.image2play.com/", 1.53861594712, "http://statweb.egloos.com/", 1.53861594712 ] ], [ "http://todayhumor.co.kr/", [ "http://www.todayhumor.co.kr/", 1.3271990828822122 ] ], [ "http://track.tiara.daum.net/", [ "http://s1.daumcdn.net/", 1.500430932 ] ], [ "http://www.naver.com/", [ "http://castbox.shopping.naver.com/", 2.2733802, "http://img.naver.net/", 14.825547799999995, "http://l.m.naver.com/", 2.9340205999999998, "http://lcs.naver.com/", 2.2733802, "http://nv1.ad.naver.com/", 2.2733802, "http://nv2.ad.naver.com/", 2.2733802, "http://sstatic.naver.com/", 2.2733802, "http://sstatic.naver.net/", 2.2733802, "http://static.nid.naver.com/", 2.2733802, "http://www.naver.com/", 4.915941799999999 ] ], [ "http://www.todayhumor.co.kr/", [ "http://code.jquery.com/", 1.8307511319999998, "http://googleads.g.doubleclick.net/", 3.700363463999999, "http://i2p.enswer.net/", 2.080644576307409, "http://pagead2.googlesyndication.com/", 6.724601385332605, "http://static.image2play.com/", 3.40630774542029, "http://thimg.todayhumor.co.kr/", 2.6089293020164477, "http://www.google-analytics.com/", 4.593324273667408, "http://www.gstatic.com/", 1.8554838085912515, "http://www.todayhumor.co.kr/", 121.89621625321676, "https://ssl.projectnaptha.com/", 2.2733802 ] ], [ "http://www.youtube.com/", [ "http://i1.ytimg.com/", 1.4322022204109872, "http://r2---sn-n3cgv5qc5oq-bh2e7.googlevideo.com/", 2.2202100411266157, "http://r6---sn-n3cgv5qc5oq-bh2e7.googlevideo.com/", 1.1018820204109874, "http://s.youtube.com/", 1.2416730230004407, "http://s.ytimg.com/", 2.7027448255898934, "http://static.image2play.com/", 1.2924112178215335, "http://www.google.com/", 1.2924112178215335, "http://www.youtube.com/", 1.2416730230004407 ] ], [ "https://accounts.google.com/", [ "https://apis.google.com/", 0.9688163303796197, "https://oauth.googleusercontent.com/", 0.9688163303796197, "https://ssl.gstatic.com/", 0.9688163303796197, "https://static.image2play.com/", 1.8307511319999998 ] ], [ "https://clients5.google.com/", [ "https://accounts.google.com/", 0.05402160624230852, "https://clients5.google.com/", 0.44940573500224035, "https://googleads.g.doubleclick.net/", 0.05402160624230852, "https://static.image2play.com/", 1.0024654497285013, "https://www.google.com/", 0.05402160624230852 ] ], [ "https://clients6.google.com/", [ "https://apis.google.com/", 1.3271990828822122, "https://clients6.google.com/", 7.198376018343564, "https://static.image2play.com/", 1.8307511319999998 ] ], [ "https://login.microsoftonline.com/", [ "https://static.image2play.com/", 2.2733802 ] ], [ "https://mail.google.com/", [ "https://accounts.google.com/", 2.2733802, "https://apis.google.com/", 2.9340205999999998, "https://clients5.google.com/", 2.2733802, "https://clients6.google.com/", 2.2733802, "https://lh5.googleusercontent.com/", 2.6037003999999997, "https://mail.google.com/", 11.852665999999996, "https://plus.google.com/", 2.6037003999999997, "https://ssl.gstatic.com/", 8.879784199999998, "https://static.image2play.com/", 3.2643407999999994, "https://talkgadget.google.com/", 2.2733802 ] ], [ "https://plus.google.com/", [ "https://apis.google.com/", 0.3157180528736994, "https://csi.gstatic.com/", 0.6535877139792, "https://plus.google.com/", 1.2468199502473505, "https://ssl.gstatic.com/", 0.39446871844283615, "https://static.image2play.com/", 0.2847028082093396 ] ], [ "https://pod51057.outlook.com/", [ "https://pod51057.outlook.com/", 8.549463999999997, "https://r4.res.outlook.com/", 20.77131139999999, "https://xsi.outlook.com/", 2.6037003999999997 ] ], [ "https://sts.dankook.ac.kr/", [ "https://static.image2play.com/", 2.2733802, "https://sts.dankook.ac.kr/", 5.576582199999999 ] ], [ "https://talkgadget.google.com/", [ "https://accounts.google.com/", 0.6579400627022601, "https://apis.google.com/", 0.9576862387694259, "https://clients6.google.com/", 0.6579400627022601, "https://csi.gstatic.com/", 1.32060461512, "https://lh4.googleusercontent.com/", 3.2643407999999994, "https://lh6.googleusercontent.com/", 2.9340205999999998, "https://plus.google.com/", 1.144118959649426, "https://ssl.gstatic.com/", 2.4773709774765917, "https://static.image2play.com/", 1.46449209424, "https://talkgadget.google.com/", 4.533048968186753 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-dragon-a.akamaihd.net/", 1.78381158488933, "https://fbstatic-a.akamaihd.net/", 8.601626682451469, "https://sky-lighter.appspot.com/", 0.6349800717622123 ] ], [ "https://www.google.co.kr/", [ "https://apis.google.com/", 0.4551625899359883, "https://clients5.google.com/", 0.5592070505377439, "https://id.google.co.kr/", 0.22927092811524763, "https://lh5.googleusercontent.com/", 0.4551625899359883, "https://plus.google.com/", 0.5592070505377439, "https://ssl.gstatic.com/", 0.4551625899359883, "https://static.image2play.com/", 0.5437243172931855, "https://www.google.co.kr/", 3.6426900486068003, "https://www.gstatic.com/", 0.5004843569741131 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 3.5946609999999994, "https://calendar.google.com/", 2.9340205999999998, "https://clients2.google.com/", 2.2733802, "https://clients5.google.com/", 2.2733802, "https://lh5.googleusercontent.com/", 2.2733802, "https://plus.google.com/", 2.6037003999999997, "https://ssl.gstatic.com/", 2.6037003999999997, "https://static.image2play.com/", 2.2733802, "https://www.google.com/", 7.2281831999999975, "https://www.gstatic.com/", 2.2733802 ] ], [ "https://www.outlook.com/", [ "https://static.image2play.com/", 2.2733802 ] ], [ "https://xsi.outlook.com/", [ "https://static.image2play.com/", 1.500430932 ] ] ],
+      "startup_list": [ 1, "http://facebook.com/", "http://google.com/", "http://mail.google.com/", "http://outlook.com/", "http://www.google.co.kr/", "http://www.google.com/", "https://accounts.google.com/", "https://mail.google.com/", "https://www.google.co.kr/", "https://www.google.com/" ]
+   },
    "download": {
       "directory_upgrade": true
    },
@@ -1896,7 +1900,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 261,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -1912,6 +1916,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "p4-a6ub7on62vqz6-44dmmcmtwbagpukk-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-675293-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
@@ -2032,6 +2043,34 @@
                },
                "supports_spdy": false
             },
+            "p4-ffkzjyf55smbm-4kmhcquojnwxflbu-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-go5vvsgttxixm-45c5ee73mkfodzq5-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2097,6 +2136,13 @@
                "supports_spdy": false
             },
             "s.ytimg.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "s0.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -2551,7 +2597,7 @@
          "pref_version": 1
       },
       "created_by_version": "35.0.1916.153",
-      "exit_type": "Crashed",
+      "exit_type": "Normal",
       "exited_cleanly": true,
       "is_managed": false,
       "local_profile_id": 3309446,
@@ -2589,7 +2635,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049573986602183",
+      "last_synced_time": "13049574161149029",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

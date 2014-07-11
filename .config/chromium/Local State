@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "310644757",
-   "http_received_content_length": "310644757",
+   "http_original_content_length": "341610769",
+   "http_received_content_length": "341610769",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [ "Default" ],
+      "last_active_profiles": [  ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -192,10 +192,10 @@
          "crash_count": 2,
          "debugger_not_present": 4,
          "debugger_present": 0,
-         "execution_phase": 500,
-         "exited_cleanly": false,
+         "execution_phase": 700,
+         "exited_cleanly": true,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405100318",
+         "last_timestamp_sec": "1405100566",
          "launch_count": 4,
          "launch_time_sec": "1405099118",
          "page_load_count": 0,
