@@ -29,14 +29,14 @@
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
-         "bottom": 534,
-         "left": 117,
+         "bottom": 596,
+         "left": 688,
          "maximized": false,
-         "right": 377,
-         "top": 74,
-         "work_area_bottom": 1024,
+         "right": 948,
+         "top": 136,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1280,
+         "work_area_right": 1366,
          "work_area_top": 0
       }
    },
@@ -1535,6 +1535,13 @@
             "1-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
+            "1-ps.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "6-channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1758,7 +1765,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 51,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1768,7 +1777,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 65,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1778,7 +1789,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 77,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1788,7 +1801,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 108,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1866,6 +1881,18 @@
                "settings": {
                   "4": 100,
                   "5": 42,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "i1.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
                   "6": 0
                },
                "supports_spdy": true
@@ -2143,6 +2170,13 @@
                },
                "supports_spdy": false
             },
+            "partner.googleadservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "pixel.facebook.com:443": {
                "supports_spdy": true
             },
@@ -2157,6 +2191,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "pubads.g.doubleclick.net:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "r13---sn-ogueynls.c.pack.google.com:80": {
                "alternate_protocol": {
@@ -2185,6 +2226,18 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "s.ytimg.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 175,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "s.ytimg.com:80": {
                "alternate_protocol": {
@@ -2317,7 +2370,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 96,
+                  "5": 122,
                   "6": 0
                },
                "supports_spdy": true
@@ -2372,6 +2425,13 @@
                },
                "supports_spdy": true
             },
+            "www.googletagservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2390,6 +2450,32 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "www.muylinux.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "www.muymovil.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "www.youtube.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "www.youtube.com:80": {
                "alternate_protocol": {
@@ -2701,7 +2787,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049622508468439",
+      "last_synced_time": "13049623164037303",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
