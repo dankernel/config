@@ -765,9 +765,15 @@
     <maximized>true</maximized>
     # 'Horizontal', 'Vertical' or boolean (yes/no)
   </application>
-
-  # end of the example
 -->
+  <application name="terminator">
+    <decor>no</decor>
+    <position>
+      <x>0</x>
+      <y>0</y>
+    </position>
+  </application>
+
 </applications>
 
 </openbox_config>

@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 768,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1366,
          "top": 0,
          "work_area_bottom": 768,
@@ -1861,7 +1861,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 53,
+                  "5": 57,
                   "6": 0
                },
                "supports_spdy": true
@@ -2392,6 +2392,13 @@
             "www.facebook.com:443": {
                "supports_spdy": true
             },
+            "www.gnome.or.kr:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2437,7 +2444,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 105,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -2837,7 +2844,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049624585888462",
+      "last_synced_time": "13049625301379695",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
