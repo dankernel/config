@@ -192,7 +192,7 @@
   <!-- Chrome -->
   <keybind key="Super-c">
   	<action name="Execute">
-  		<command>google-chrome-stable</command>
+  		<command>chromium</command>
   	</action>
   </keybind>
 
@@ -200,6 +200,13 @@
   <keybind key="Super-t">
     <action name="Execute">
       <command>gnome-terminal</command>
+    </action>
+  </keybind>
+
+  <!-- gmrun -->
+  <keybind key="Super-g">
+    <action name="Execute">
+      <command>gmrun</command>
     </action>
   </keybind>
 
