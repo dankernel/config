@@ -1,7 +1,9 @@
 xmodmap ~/.Xmodmap &
 nabi &
 conky &
-terminator --geometry=1130x750
+terminator --geometry=1130x750 &
+
+hsetroot -fill ~/.config/wallpaper/Archlinux_red.jpg
 
 arandr ~/.screenlayout/dual.sh &
 

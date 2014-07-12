@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 768,
          "left": 0,
-         "maximized": false,
+         "maximized": true,
          "right": 1366,
          "top": 0,
          "work_area_bottom": 768,
@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13049624896419639",
-         "next_check": "13049643280399701"
+         "next_check": "13049645531544399"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1542,6 +1542,19 @@
                },
                "supports_spdy": false
             },
+            "4-channel-proxy-06-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "4.bp.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "6-channel-proxy-07-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "6-channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1635,6 +1648,13 @@
                "supports_spdy": false
             },
             "cdn.mathjax.org:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "chart.googleapis.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -1861,7 +1881,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 57,
+                  "5": 59,
                   "6": 0
                },
                "supports_spdy": true
@@ -1915,6 +1935,32 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "img1.blogblog.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "img1.blogblog.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "img2.blogblog.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "lh3.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2199,7 +2245,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 72,
+                  "5": 76,
                   "6": 0
                },
                "supports_spdy": true
@@ -2284,11 +2330,28 @@
                },
                "supports_spdy": false
             },
+            "scontent-a-sjc.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
             "scontent-a.xx.fbcdn.net:443": {
                "supports_spdy": true
             },
             "scontent-b.xx.fbcdn.net:443": {
                "supports_spdy": true
+            },
+            "seungigi.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "seungigi.blogspot.kr:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "sky-lighter.appspot.com:443": {
                "alternate_protocol": {
@@ -2388,6 +2451,32 @@
             },
             "twitter.com:443": {
                "supports_spdy": true
+            },
+            "www.blogblog.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "www.blogger.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 44,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.blogger.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "www.facebook.com:443": {
                "supports_spdy": true
@@ -2812,7 +2901,7 @@
       "name": "첫 번째 사용자",
       "password_manager_groups_for_domains": [ 4 ],
       "per_host_zoom_levels": {
-         "kldp.org": 1.2239010857415449,
+         "kldp.org": 3.069389038663465,
          "lowid.tistory.com": 1.2239010857415449,
          "wiki.archlinux.org": 0.5227586988632231
       }
@@ -2844,7 +2933,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049625301379695",
+      "last_synced_time": "13049625955518619",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
