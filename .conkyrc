@@ -3,7 +3,7 @@ font Bandal:size=10
 #xftfont Bandal:size=10
 use_xft yes
 xftalpha 0.9
-update_interval 3.0
+update_interval 2.0
 total_run_times 0
 own_window yes
 own_window_type override
