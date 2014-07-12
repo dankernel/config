@@ -1861,7 +1861,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 53,
                   "6": 0
                },
                "supports_spdy": true
@@ -2163,6 +2163,18 @@
                },
                "supports_spdy": false
             },
+            "pagead2.googlesyndication.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 56,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
             "pagead2.googlesyndication.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2219,6 +2231,18 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "s-v6exp1-ds.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "s.youtube.com:80": {
                "alternate_protocol": {
@@ -2338,6 +2362,30 @@
                },
                "supports_spdy": false
             },
+            "tpc.googlesyndication.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 44,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "translate.google.co.kr:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 82,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
             "twitter.com:443": {
                "supports_spdy": true
             },
@@ -2370,7 +2418,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 102,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -2757,6 +2805,8 @@
       "name": "첫 번째 사용자",
       "password_manager_groups_for_domains": [ 4 ],
       "per_host_zoom_levels": {
+         "kldp.org": 1.2239010857415449,
+         "lowid.tistory.com": 1.2239010857415449,
          "wiki.archlinux.org": 0.5227586988632231
       }
    },
@@ -2787,7 +2837,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049623363033418",
+      "last_synced_time": "13049624143930666",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
