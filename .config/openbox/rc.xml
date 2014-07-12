@@ -197,7 +197,7 @@
   </keybind>
 
   <!-- firefox -->
-  <keybind key="Super-c">
+  <keybind key="Super-f">
   	<action name="Execute">
   		<command>firefox</command>
   	</action>

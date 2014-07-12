@@ -2903,6 +2903,7 @@
       "per_host_zoom_levels": {
          "kldp.org": 3.069389038663465,
          "lowid.tistory.com": 1.2239010857415449,
+         "sulac.egloos.com": 2.223901085741545,
          "wiki.archlinux.org": 0.5227586988632231
       }
    },
@@ -2933,7 +2934,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049625955518619",
+      "last_synced_time": "13049626569079236",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
