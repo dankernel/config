@@ -196,6 +196,14 @@
   	</action>
   </keybind>
 
+  <!-- firefox -->
+  <keybind key="Super-c">
+  	<action name="Execute">
+  		<command>firefox</command>
+  	</action>
+  </keybind>
+
+
   <!-- Terminal -->
   <keybind key="Super-t">
     <action name="Execute">
