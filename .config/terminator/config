@@ -1,0 +1,23 @@
+[global_config]
+  handle_size = 3
+  inactive_color_offset = 0.4
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    background_image = None
+    background_darkness = 0.82
+    background_type = transparent
+    use_system_font = False
+    foreground_color = "#ffffff"
+    font = 나눔고딕코딩 18
+[layouts]
+  [[default]]
+    [[[child1]]]
+      profile = default
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
