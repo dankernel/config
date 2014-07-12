@@ -16,6 +16,7 @@ if exists("syntax_on")
 endif
 let g:colors_name="candycode"
 colorscheme candycode
+highlight Normal ctermfg=grey ctermbg=none
 
 set history=1000
 set hlsearch
