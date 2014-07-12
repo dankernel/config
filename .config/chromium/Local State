@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "341722401",
-   "http_received_content_length": "341722401",
+   "http_original_content_length": "356317824",
+   "http_received_content_length": "356317824",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405148382.211138,
+            "active_time": 1405148977.388543,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -181,23 +181,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "5"
+      "launch_count": "6"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 4,
+      "session_id": 5,
       "stability": {
-         "breakpad_registration_fail": 5,
+         "breakpad_registration_fail": 6,
          "breakpad_registration_ok": 0,
          "crash_count": 2,
-         "debugger_not_present": 5,
+         "debugger_not_present": 6,
          "debugger_present": 0,
-         "execution_phase": 700,
-         "exited_cleanly": true,
+         "execution_phase": 500,
+         "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405148388",
-         "launch_count": 5,
-         "launch_time_sec": "1405148378",
+         "last_timestamp_sec": "1405148826",
+         "launch_count": 6,
+         "launch_time_sec": "1405148526",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
