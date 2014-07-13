@@ -1590,6 +1590,9 @@
             "0-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
+            "0-channel-proxy-07-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "0.docs.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1938,7 +1941,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "drive.google.com:443": {
                "alternate_protocol": {
@@ -2239,7 +2245,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
+                  "5": 116,
                   "6": 0
                },
                "supports_spdy": true
@@ -3308,7 +3314,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049766003086449",
+      "last_synced_time": "13049766206005607",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
