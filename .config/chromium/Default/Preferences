@@ -1538,6 +1538,23 @@
             "0-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
+            "0.docs.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "0.drive.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "1-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1682,6 +1699,37 @@
                },
                "supports_spdy": true
             },
+            "ci3.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "ci4.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "ci5.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "ci6.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "clients1.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1754,6 +1802,18 @@
                },
                "supports_spdy": true
             },
+            "content.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 58,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
             "csi.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1787,6 +1847,20 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "docs.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "drive.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "encrypted-tbn0.gstatic.com:443": {
                "alternate_protocol": {
@@ -1990,7 +2064,21 @@
                },
                "supports_spdy": false
             },
+            "lh3.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "lh3.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "lh4.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
@@ -2009,6 +2097,13 @@
                },
                "supports_spdy": true
             },
+            "lh5.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "lh5.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2020,6 +2115,13 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "lh6.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "lh6.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2173,6 +2275,13 @@
                "supports_spdy": false
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-d7yeq6vqrrdpo-6by73t76ovwfo47l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -2625,7 +2734,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 40,
                   "6": 0
                },
                "supports_spdy": true
@@ -2963,6 +3072,7 @@
       "password_manager_groups_for_domains": [ 4 ],
       "per_host_zoom_levels": {
          "forum.falinux.com": 3.069389038663465,
+         "hanamizuki97.egloos.com": 2.223901085741545,
          "kldp.org": 3.069389038663465,
          "lowid.tistory.com": 1.2239010857415449,
          "sulac.egloos.com": 2.223901085741545,
@@ -2997,7 +3107,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049756383611785",
+      "last_synced_time": "13049756782615058",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
