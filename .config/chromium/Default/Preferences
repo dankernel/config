@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
@@ -2029,6 +2029,25 @@
                },
                "supports_spdy": true
             },
+            "maps.googleapis.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
+            },
+            "maps.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "oauth.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2384,7 +2403,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 100,
+                  "5": 70,
                   "6": 0
                },
                "supports_spdy": true
