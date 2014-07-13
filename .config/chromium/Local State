@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "406320937",
-   "http_received_content_length": "406320937",
+   "http_original_content_length": "406623289",
+   "http_received_content_length": "406623289",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405283281.785564,
+            "active_time": 1405283958.56473,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -125,6 +125,7 @@
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
                "settings": {
                   "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
+                  "apdfllckaahabafndbhieahigkjlhalf": "533DDD7A3543718271120CD99D2F7379D4118370B2E04F572A693EE77A8F83CD",
                   "blpcfgokakmgnkcojhhkbfbldkacnbeo": "42BCCD3B3DB2E61DAA2D1E09983B81A0A1B32110963AFCA16C641BDF55FC36C4",
                   "cecdfgmilkpnjgfjnjeimlmkdldklomb": "7AD1EACB3DA388B6C6F435F43B543C00298006DD5FADB9885CD020094DA127B3",
                   "coobgpohoikkiipiblmjeljniedjpjpf": "7CF3F3F0FCEECBA861A07CC77341980490258837D7B506525DBDD335096CCE40",
@@ -166,7 +167,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "8F83069C87273625710A7FF630E705A8BAB62FA585AD156594A5BBC8C8DF1547"
+            "/home/dkdk/.config/chromium/Default": "6AAFB165EA76BF7FFCEE1A2D70E8B005087E0990D70C87B5734990C4EF4F040E"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -195,7 +196,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405283309",
+         "last_timestamp_sec": "1405283909",
          "launch_count": 9,
          "launch_time_sec": "1405213109",
          "page_load_count": 0,

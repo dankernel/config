@@ -130,6 +130,64 @@
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
+         "apdfllckaahabafndbhieahigkjlhalf": {
+            "active_permissions": {
+               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zs",
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13049757205654371",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://drive.google.com/?usp=chrome_app"
+                  },
+                  "urls": [ "http://docs.google.com/", "http://drive.google.com/", "https://docs.google.com/", "https://drive.google.com/" ]
+               },
+               "background": {
+                  "allow_js_access": false
+               },
+               "current_locale": "ko",
+               "default_locale": "en_US",
+               "description": "Google 드라이브: 모든 콘텐츠를 한 곳에서 작성, 공유 및 보관하세요.",
+               "icons": {
+                  "128": "128.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIl5KlKwL2TSkntkpY3naLLz5jsN0YwjhZyObcTOK6Nda4Ie21KRqZau9lx5SHcLh7pE2/S9OiArb+na2dn7YK5EvH+aRXS1ec3uxVlBhqLdnleVgwgwlg5fH95I52IeHcoeK6pR4hW/Nv39GNlI/Uqk6O6GBCCsAxYrdxww9BiQIDAQAB",
+               "manifest_version": 2,
+               "name": "Google 드라이브",
+               "offline_enabled": true,
+               "options_page": "https://drive.google.com/settings",
+               "permissions": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "6.3"
+            },
+            "page_ordinal": "n",
+            "path": "apdfllckaahabafndbhieahigkjlhalf/6.3_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
          "blpcfgokakmgnkcojhhkbfbldkacnbeo": {
             "active_permissions": {
                "api": [  ],
@@ -1726,7 +1784,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 126,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2154,7 +2214,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
+                  "5": 124,
                   "6": 0
                },
                "supports_spdy": true
@@ -2528,6 +2588,13 @@
                },
                "supports_spdy": true
             },
+            "spreadsheets.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2620,6 +2687,18 @@
                "supports_spdy": true
             },
             "twitter.com:443": {
+               "supports_spdy": true
+            },
+            "www-gm-opensocial.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 34,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "www.blogblog.com:80": {
@@ -3086,6 +3165,9 @@
    "savefile": {
       "default_directory": "/home/dkdk/Downloads"
    },
+   "selectfile": {
+      "last_directory": "/home/dkdk/disk_hdd/2014년도_상반기_3번째_커널스터디/CFS 실험 01"
+   },
    "session": {
       "restore_on_startup": 4,
       "restore_on_startup_migrated": true,
@@ -3107,7 +3189,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049756782615058",
+      "last_synced_time": "13049757572945858",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
