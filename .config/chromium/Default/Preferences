@@ -82,7 +82,7 @@
       "commands": {
 
       },
-      "known_disabled": [  ],
+      "known_disabled": [ "hompjdfbfmmmgflfjdlnkohcplmboaeo" ],
       "last_chrome_version": "35.0.1916.153",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
@@ -2429,7 +2429,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 192,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -2988,7 +2988,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049705170313327",
+      "last_synced_time": "13049710411857126",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
