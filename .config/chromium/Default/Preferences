@@ -2245,7 +2245,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
+                  "5": 116,
                   "6": 0
                },
                "supports_spdy": true
@@ -2756,7 +2756,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 271,
+                  "5": 217,
                   "6": 0
                },
                "supports_spdy": true
@@ -2990,7 +2990,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 42,
+                  "5": 43,
                   "6": 0
                },
                "supports_spdy": true
@@ -3314,7 +3314,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049759850065154",
+      "last_synced_time": "13049760268991978",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
