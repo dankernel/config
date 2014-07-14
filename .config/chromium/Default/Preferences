@@ -18,14 +18,14 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 1024,
+         "bottom": 768,
          "left": 0,
          "maximized": true,
-         "right": 1280,
+         "right": 1366,
          "top": 0,
-         "work_area_bottom": 1024,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1280,
+         "work_area_right": 1366,
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13049753002527323",
-         "next_check": "13049769795519591"
+         "next_check": "13049787602464674"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1598,7 +1598,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "0.drive.google.com:443": {
                "alternate_protocol": {
@@ -1611,6 +1614,9 @@
                "supports_spdy": true
             },
             "1-channel-proxy-06-frc1.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "1-channel-proxy-07-ash2.facebook.com:443": {
                "supports_spdy": true
             },
             "1-ps.googleusercontent.com:80": {
@@ -3314,7 +3320,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049767704791383",
+      "last_synced_time": "13049773651719407",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

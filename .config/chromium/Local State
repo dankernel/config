@@ -1,8 +1,8 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13049683200000000",
-      "last_launch_ping": "13049683200000000",
+      "last_app_launch_ping": "13049769600000000",
+      "last_launch_ping": "13049769600000000",
       "launch_count": 0
    },
    "browser": {
@@ -12,13 +12,13 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2024469583",
-   "http_received_content_length": "2024469583",
+   "http_original_content_length": "2028356198",
+   "http_received_content_length": "2028356198",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1405277915.105439"
+      "promo_resource_cache_update": "1405299990.958505"
    },
    "plugins": {
       "metadata": {
@@ -90,15 +90,15 @@
             } ]
          }
       },
-      "resource_cache_update": "1405213170.090644"
+      "resource_cache_update": "1405300045.723098"
    },
    "policy": {
-      "last_statistics_update": "13049686710074280"
+      "last_statistics_update": "13049773585699935"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405294193.329073,
+            "active_time": 1405300195.074004,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -182,23 +182,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "10"
+      "launch_count": "11"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 9,
+      "session_id": 10,
       "stability": {
-         "breakpad_registration_fail": 10,
+         "breakpad_registration_fail": 11,
          "breakpad_registration_ok": 0,
-         "crash_count": 6,
-         "debugger_not_present": 10,
+         "crash_count": 7,
+         "debugger_not_present": 11,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405294185",
-         "launch_count": 10,
-         "launch_time_sec": "1405292385",
+         "last_timestamp_sec": "1405294485",
+         "launch_count": 11,
+         "launch_time_sec": "1405299985",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
