@@ -1620,6 +1620,9 @@
                },
                "supports_spdy": false
             },
+            "3-channel-proxy-06-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "4-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1669,6 +1672,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -1777,6 +1783,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -1907,6 +1916,10 @@
                "supports_spdy": true
             },
             "fbcdn-profile-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "fbstatic-a.akamaihd.net:443": {
@@ -1991,6 +2004,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2081,6 +2097,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 10
+               },
                "supports_spdy": true
             },
             "mail.google.com:443": {
@@ -2088,7 +2107,17 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 10
+               },
                "supports_spdy": true
+            },
+            "maps-api-ssl.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "maps.googleapis.com:443": {
                "alternate_protocol": {
@@ -2476,6 +2505,13 @@
                },
                "supports_spdy": false
             },
+            "s2.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "scontent-a-sjc.xx.fbcdn.net:443": {
                "supports_spdy": true
             },
@@ -2703,6 +2739,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3074,7 +3113,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049810262132880",
+      "last_synced_time": "13049810991075927",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
