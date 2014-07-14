@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2049622544",
-   "http_received_content_length": "2049622544",
+   "http_original_content_length": "2049638848",
+   "http_received_content_length": "2049638848",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -220,7 +220,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405345638",
+         "last_timestamp_sec": "1405346238",
          "launch_count": 13,
          "launch_time_sec": "1405334238",
          "page_load_count": 0,
