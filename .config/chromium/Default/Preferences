@@ -1793,7 +1793,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2052,6 +2054,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2497,7 +2504,12 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "sky-lighter.appspot.com:443": {
                "alternate_protocol": {
@@ -2517,6 +2529,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3034,7 +3051,7 @@
       "default_directory": "/home/dkdk/Downloads"
    },
    "selectfile": {
-      "last_directory": "/home/dkdk/disk_hdd/2014년도_상반기_3번째_커널스터디/CFS 실험 01"
+      "last_directory": "/home/dkdk/code/Exercise"
    },
    "session": {
       "restore_on_startup": 4,
@@ -3057,7 +3074,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049808024865575",
+      "last_synced_time": "13049808394971019",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
