@@ -1203,62 +1203,12 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
-            "idle_install_info": {
-               "creation_flags": 9,
-               "delay_install_reason": 2,
-               "from_bookmark": false,
-               "from_webstore": true,
-               "install_time": "13049840232871379",
-               "location": 1,
-               "manifest": {
-                  "background": {
-                     "scripts": [ "scripts/extension.js" ]
-                  },
-                  "browser_action": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     },
-                     "default_title": "행아웃"
-                  },
-                  "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
-                  "current_locale": "ko",
-                  "default_locale": "en",
-                  "description": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다.",
-                  "externally_connectable": {
-                     "matches": [ "https://*.google.com/*" ]
-                  },
-                  "icons": {
-                     "128": "images_3/icon-128x128.png",
-                     "48": "images_3/icon-48x48.png"
-                  },
-                  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
-                  "manifest_version": 2,
-                  "minimum_chrome_version": "26.0.0.0",
-                  "name": "행아웃",
-                  "options_page": "settingsdialog.html",
-                  "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
-                  "system_indicator": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     }
-                  },
-                  "update_url": "https://clients2.google.com/service/update2/crx",
-                  "version": "2014.710.434.3",
-                  "web_accessible_resources": [ "*" ]
-               },
-               "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.710.434.3_0",
-               "state": 1,
-               "was_installed_by_default": false,
-               "was_installed_by_oem": false
-            },
             "incognito_content_settings": [  ],
             "incognito_preferences": {
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13049460114785060",
+            "install_time": "13049847494314067",
             "lastpingday": "13049794749388242",
             "location": 1,
             "manifest": {
@@ -1296,10 +1246,10 @@
                   }
                },
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2014.625.433.1",
+               "version": "2014.710.434.3",
                "web_accessible_resources": [ "*" ]
             },
-            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.625.433.1_0",
+            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.710.434.3_0",
             "preferences": {
 
             },
@@ -3210,7 +3160,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049839277108139",
+      "last_synced_time": "13049847494949270",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
