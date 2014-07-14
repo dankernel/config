@@ -1716,7 +1716,10 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
             },
             "cdn.mathjax.org:80": {
                "alternate_protocol": {
@@ -3143,7 +3146,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049822900941055",
+      "last_synced_time": "13049823562151862",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
