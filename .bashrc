@@ -26,6 +26,7 @@ alias ker='cd ~/kernel'
 alias code='cd ~/code'
 
 alias mkp='. ~/sh/mk_project.sh'
+alias backup='. ~/sh/backup.sh'
 
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
