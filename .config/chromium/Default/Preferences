@@ -1614,6 +1614,9 @@
                },
                "supports_spdy": true
             },
+            "1-channel-proxy-04-frc3.facebook.com:443": {
+               "supports_spdy": true
+            },
             "1-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1770,7 +1773,12 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "ci5.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -1824,8 +1832,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "5": 161,
+                  "6": 4
                },
                "supports_spdy": true
             },
@@ -2018,6 +2026,13 @@
                },
                "supports_spdy": false
             },
+            "html5shiv.googlecode.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "i.ytimg.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2152,7 +2167,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 34,
+                  "5": 61,
                   "6": 0
                },
                "supports_spdy": true
@@ -2597,6 +2612,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "spreadsheets.google.com:443": {
@@ -2644,6 +2664,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3160,7 +3183,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049861386740021",
+      "last_synced_time": "13049861981202521",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
