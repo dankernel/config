@@ -1627,6 +1627,9 @@
                },
                "supports_spdy": false
             },
+            "2-channel-proxy-07-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "3-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1741,6 +1744,9 @@
                "supports_spdy": false
             },
             "cdn.syndication.twimg.com:443": {
+               "supports_spdy": true
+            },
+            "channel-proxy-07-ash2.facebook.com:443": {
                "supports_spdy": true
             },
             "chart.apis.google.com:80": {
@@ -2121,6 +2127,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 126,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "lh5.google.com:443": {
@@ -2333,6 +2344,27 @@
                "supports_spdy": false
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-cuucs2fkzteq4-xkoexhetridxfghs-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3199,7 +3231,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050002332845528",
+      "last_synced_time": "13050002890702285",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
