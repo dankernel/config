@@ -2186,7 +2186,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 121,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
@@ -2202,6 +2202,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3231,7 +3236,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050002890702285",
+      "last_synced_time": "13050003557537263",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
