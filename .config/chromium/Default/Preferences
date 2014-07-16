@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13049874840682493",
-         "next_check": "13049893886437545"
+         "next_check": "13050015443531104"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1549,13 +1549,7 @@
          "name": "SEARCH_ENGINE",
          "source": "1004"
       }, {
-         "invalidation-list": [ {
-            "isUnknownVersion": true,
-            "objectId": {
-               "name": "SESSION",
-               "source": 1004
-            }
-         } ],
+         "invalidation-list": [  ],
          "name": "SESSION",
          "source": "1004"
       }, {
@@ -1634,6 +1628,9 @@
                "supports_spdy": false
             },
             "3-channel-proxy-06-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "3-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
             "4-channel-proxy-06-ash2.facebook.com:443": {
@@ -1742,6 +1739,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "cdn.syndication.twimg.com:443": {
+               "supports_spdy": true
             },
             "chart.apis.google.com:80": {
                "alternate_protocol": {
@@ -2668,6 +2668,9 @@
                },
                "supports_spdy": false
             },
+            "syndication.twitter.com:443": {
+               "supports_spdy": true
+            },
             "talkgadget.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2710,6 +2713,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3191,7 +3197,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049865942986805",
+      "last_synced_time": "13050001772305285",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
