@@ -2751,7 +2751,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 34,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3280,7 +3282,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050038965970559",
+      "last_synced_time": "13050041814695969",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
