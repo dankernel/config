@@ -29,14 +29,14 @@
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
-         "bottom": 596,
-         "left": 688,
+         "bottom": 913,
+         "left": 29,
          "maximized": false,
-         "right": 948,
-         "top": 136,
-         "work_area_bottom": 768,
+         "right": 1258,
+         "top": 222,
+         "work_area_bottom": 1024,
          "work_area_left": 0,
-         "work_area_right": 1366,
+         "work_area_right": 1280,
          "work_area_top": 0
       }
    },
@@ -1627,6 +1627,9 @@
                },
                "supports_spdy": false
             },
+            "2-channel-proxy-06-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
             "2-channel-proxy-07-ash2.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1744,6 +1747,9 @@
                "supports_spdy": false
             },
             "cdn.syndication.twimg.com:443": {
+               "supports_spdy": true
+            },
+            "channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
             "channel-proxy-07-ash2.facebook.com:443": {
@@ -1925,6 +1931,13 @@
                },
                "supports_spdy": true
             },
+            "dl.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "docs.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -2082,6 +2095,27 @@
                   "6": 0
                },
                "supports_spdy": true
+            },
+            "images1-hangout-opensocial.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "images2-hangout-opensocial.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "images3-hangout-opensocial.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "img1.blogblog.com:443": {
                "alternate_protocol": {
@@ -2871,6 +2905,13 @@
                },
                "supports_spdy": true
             },
+            "www.googleadservices.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3239,7 +3280,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050015605595114",
+      "last_synced_time": "13049984069123648",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
