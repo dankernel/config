@@ -15,6 +15,7 @@ alias mv='mv -i'
 alias vv='vim main.c'
 alias c='clear'
 alias v='vim'
+alias s='screen'
 
 alias u='cd ../'
 alias uu='cd ../../'

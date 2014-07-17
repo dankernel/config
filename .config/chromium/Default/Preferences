@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13050015443532989",
-         "next_check": "13050034321327048"
+         "next_check": "13050071468623788"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1850,8 +1850,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 180,
-                  "6": 2
+                  "5": 100,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3280,7 +3280,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13049984069123648",
+      "last_synced_time": "13050068475911856",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

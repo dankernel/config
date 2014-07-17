@@ -207,12 +207,12 @@
   <!-- Terminal -->
   <keybind key="Super-t">
     <action name="Execute">
-      <command>terminator</command>
+      <command>terminator --geometry=1130x750</command>
     </action>
   </keybind>
 
   <!-- gmrun -->
-  <keybind key="Super-g">
+  <keybind key="W-r">
     <action name="Execute">
       <command>gmrun</command>
     </action>
