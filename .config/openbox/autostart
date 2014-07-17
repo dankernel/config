@@ -2,12 +2,12 @@ xmodmap ~/.Xmodmap &
 nabi &
 conky &
 
-"terminal
+#terminal
 terminator --geometry=1130x750 &
 
-"wallpaper
+#wallpaper
 hsetroot -fill ~/.config/wallpaper/Archlinux_red.jpg
 
-"screen
+#screen
 arandr ~/.screenlayout/dual.sh &
 

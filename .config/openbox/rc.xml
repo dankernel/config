@@ -207,7 +207,7 @@
   <!-- Terminal -->
   <keybind key="Super-t">
     <action name="Execute">
-      <command>gnome-terminal</command>
+      <command>terminator</command>
     </action>
   </keybind>
 
@@ -218,6 +218,17 @@
     </action>
   </keybind>
 
+  <!-- amixer -->
+  <keybind key="W-F11">
+    <action name="Execute">
+      <execute>amixer -q set PCM 2%-</execute>
+    </action>
+  </keybind>
+  <keybind key="W-F12">
+    <action name="Execute">
+      <execute>amixer -q set PCM 2%+</execute>
+    </action>
+  </keybind>
 
 
 
