@@ -12,8 +12,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2175999729",
-   "http_received_content_length": "2175999729",
+   "http_original_content_length": "2176003845",
+   "http_received_content_length": "2176003845",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -100,7 +100,7 @@
          "Default": {
             "active_time": 1405577382.671663,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
-            "background_apps": true,
+            "background_apps": false,
             "is_ephemeral": false,
             "is_omitted_from_profile_list": false,
             "is_using_default_name": true,
@@ -217,10 +217,10 @@
          "crash_count": 12,
          "debugger_not_present": 16,
          "debugger_present": 0,
-         "execution_phase": 500,
-         "exited_cleanly": false,
+         "execution_phase": 700,
+         "exited_cleanly": true,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405590553",
+         "last_timestamp_sec": "1405591081",
          "launch_count": 16,
          "launch_time_sec": "1405596852",
          "page_load_count": 0,
