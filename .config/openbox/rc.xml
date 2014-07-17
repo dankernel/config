@@ -219,14 +219,14 @@
   </keybind>
 
   <!-- amixer -->
-  <keybind key="W-F11">
+  <keybind key="W-9">
     <action name="Execute">
-      <execute>amixer -q set PCM 2%-</execute>
+      <execute>amixer -q set Master 2%-</execute>
     </action>
   </keybind>
-  <keybind key="W-F12">
+  <keybind key="W-0">
     <action name="Execute">
-      <execute>amixer -q set PCM 2%+</execute>
+      <execute>amixer -q set Master 2%+</execute>
     </action>
   </keybind>
 
