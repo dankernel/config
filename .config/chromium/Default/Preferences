@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
