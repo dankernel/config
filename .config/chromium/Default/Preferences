@@ -20,7 +20,7 @@
       "window_placement": {
          "bottom": 1024,
          "left": 0,
-         "maximized": true,
+         "maximized": false,
          "right": 1280,
          "top": 0,
          "work_area_bottom": 1024,
@@ -3308,7 +3308,7 @@
          "sulac.egloos.com": 2.223901085741545,
          "wiki.archlinux.org": 0.5227586988632231,
          "www.cplusplus.com": 2.223901085741545,
-         "www.todayhumor.co.kr": 0.5227586988632231
+         "www.todayhumor.co.kr": 1.2239010857415449
       }
    },
    "reverse_autologin": {
@@ -3341,7 +3341,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050175066101159",
+      "last_synced_time": "13050175746744206",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
