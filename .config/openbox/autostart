@@ -3,7 +3,7 @@ nabi &
 conky &
 
 #terminal
-terminator --geometry=1130x750 &
+terminator --geometry=1130x750 -T main &
 
 #wallpaper
 hsetroot -fill ~/.config/wallpaper/Archlinux_red.jpg
