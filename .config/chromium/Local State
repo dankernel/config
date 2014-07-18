@@ -1,8 +1,8 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13050028800000000",
-      "last_launch_ping": "13050028800000000",
+      "last_app_launch_ping": "13050115200000000",
+      "last_launch_ping": "13050115200000000",
       "launch_count": 0
    },
    "browser": {
@@ -12,13 +12,13 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2176003845",
-   "http_received_content_length": "2176003845",
+   "http_original_content_length": "2185675408",
+   "http_received_content_length": "2185675408",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1405584011.446686"
+      "promo_resource_cache_update": "1405688451.994751"
    },
    "plugins": {
       "metadata": {
@@ -90,17 +90,17 @@
             } ]
          }
       },
-      "resource_cache_update": "1405581821.864937"
+      "resource_cache_update": "1405688504.58854"
    },
    "policy": {
-      "last_statistics_update": "13050055361851870"
+      "last_statistics_update": "13050162044543062"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405577382.671663,
+            "active_time": 1405688720.643096,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
-            "background_apps": false,
+            "background_apps": true,
             "is_ephemeral": false,
             "is_omitted_from_profile_list": false,
             "is_using_default_name": true,
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -206,23 +206,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "16"
+      "launch_count": "17"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 15,
+      "session_id": 16,
       "stability": {
-         "breakpad_registration_fail": 16,
+         "breakpad_registration_fail": 17,
          "breakpad_registration_ok": 0,
          "crash_count": 12,
-         "debugger_not_present": 16,
+         "debugger_not_present": 17,
          "debugger_present": 0,
-         "execution_phase": 700,
-         "exited_cleanly": true,
+         "execution_phase": 500,
+         "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405591081",
-         "launch_count": 16,
-         "launch_time_sec": "1405596852",
+         "last_timestamp_sec": "1405688743",
+         "launch_count": 17,
+         "launch_time_sec": "1405688443",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
