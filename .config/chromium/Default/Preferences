@@ -2286,7 +2286,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 34,
+                  "5": 44,
                   "6": 0
                },
                "supports_spdy": true
@@ -2313,6 +2313,27 @@
                "supports_spdy": false
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3307,7 +3328,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050164095035589",
+      "last_synced_time": "13050173693152393",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
