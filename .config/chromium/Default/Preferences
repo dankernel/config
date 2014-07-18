@@ -1787,6 +1787,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "ci4.googleusercontent.com:443": {
@@ -2236,7 +2241,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
+                  "5": 206,
                   "6": 0
                },
                "supports_spdy": true
@@ -2537,6 +2542,13 @@
                "supports_spdy": false
             },
             "p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-fc6fuq5iunhro-2qycxtmwdf4rh7yx-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3295,7 +3307,8 @@
          "lowid.tistory.com": 1.2239010857415449,
          "sulac.egloos.com": 2.223901085741545,
          "wiki.archlinux.org": 0.5227586988632231,
-         "www.cplusplus.com": 2.223901085741545
+         "www.cplusplus.com": 2.223901085741545,
+         "www.todayhumor.co.kr": 0.5227586988632231
       }
    },
    "reverse_autologin": {
@@ -3328,7 +3341,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050173693152393",
+      "last_synced_time": "13050175066101159",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
