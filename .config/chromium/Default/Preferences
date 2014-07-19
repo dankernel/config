@@ -1811,7 +1811,12 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "supports_spdy": false
+               "settings": {
+                  "4": 100,
+                  "5": 52,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "ci6.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -1879,6 +1884,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2215,7 +2225,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 39,
+                  "5": 62,
                   "6": 0
                },
                "supports_spdy": true
@@ -2231,6 +2241,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2534,6 +2549,13 @@
                },
                "supports_spdy": false
             },
+            "p4-dslkxio5mhq42-coztrv6eohb3fd7f-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2625,6 +2647,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 211,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3308,7 +3335,7 @@
          "sulac.egloos.com": 2.223901085741545,
          "wiki.archlinux.org": 0.5227586988632231,
          "www.cplusplus.com": 2.223901085741545,
-         "www.todayhumor.co.kr": 1.2239010857415449
+         "www.todayhumor.co.kr": 0.5227586988632231
       }
    },
    "reverse_autologin": {
@@ -3341,7 +3368,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050253801060242",
+      "last_synced_time": "13050254366364287",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
