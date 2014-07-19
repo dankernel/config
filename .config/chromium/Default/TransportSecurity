@@ -1,13 +1,13 @@
 {
    "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1416593679.879572,
+      "expiry": 1416666594.731388,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986478.547828,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
-      "sts_observed": 1405707279.879572
+      "sts_observed": 1405780194.731388
    },
    "4AGT3lHihuMSd5rUj7B4u6At0jlSH3HFePovjPR+oLE=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -41,13 +41,13 @@
    },
    "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1416597907.170241,
+      "expiry": 1416673549.896717,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986489.106872,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": true,
-      "sts_observed": 1405704553.170241
+      "sts_observed": 1405780195.896717
    },
    "C6hhjoa/UfPQDtK7OhzQayqV5YYV+Gd1zl/FgGIO4iI=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -81,13 +81,13 @@
    },
    "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1413476984.371534,
+      "expiry": 1413484299.828908,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986513.73998,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
-      "sts_observed": 1405700984.371534
+      "sts_observed": 1405708299.828908
    },
    "XOQLzqdQxNgMj/4MVc4Rpg9bCVZob5H6tbzVJkKXVZA=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -201,12 +201,12 @@
    },
    "zT2yfhXnvFIT0l2WlyrtGvGo8Nad75m8nLqfTnk6/SU=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1437236027.044145,
+      "expiry": 1437236027.044144,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986514.282474,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
-      "sts_observed": 1405700027.044145
+      "sts_observed": 1405700027.044144
    }
 }
