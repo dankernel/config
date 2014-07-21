@@ -2398,6 +2398,34 @@
                },
                "supports_spdy": false
             },
+            "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i1-dnssec-vd.gexperiments2.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i2-dnssec-nd.gexperiments1.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-s1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-170889-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2741,6 +2769,27 @@
                },
                "supports_spdy": false
             },
+            "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i1-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i2-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-571840-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2756,6 +2805,13 @@
                "supports_spdy": false
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-hzo3nhh3rhr2m-wgngqxflbp6qepsl-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3511,7 +3567,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050425356868301",
+      "last_synced_time": "13050425829418308",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
