@@ -18,14 +18,14 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 768,
+         "bottom": 1024,
          "left": 0,
          "maximized": true,
-         "right": 1366,
+         "right": 1280,
          "top": 0,
-         "work_area_bottom": 768,
+         "work_area_bottom": 1024,
          "work_area_left": 0,
-         "work_area_right": 1366,
+         "work_area_right": 1280,
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
@@ -74,7 +74,7 @@
       },
       "autoupdate": {
          "last_check": "13050174000657608",
-         "next_check": "13050345440274333"
+         "next_check": "13050419544842328"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -3410,7 +3410,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050342442262365",
+      "last_synced_time": "13050417317139247",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

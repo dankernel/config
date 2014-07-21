@@ -1,5 +1,5 @@
 {
-   "checksum": "47649ae054a5e7093c18aa0cbf411c66",
+   "checksum": "e72c8c43a9c14ef9d28c7cd3d2cfc3c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -105,12 +105,6 @@
             "type": "url",
             "url": "https://play.google.com/apps/publish/v2/?dev_acc=05517820568356218229"
          }, {
-            "date_added": "13049460110410034",
-            "id": "68",
-            "name": "특",
-            "type": "url",
-            "url": "http://www.kipris.or.kr/kor/main/main.jsp"
-         }, {
             "date_added": "12974295109801107",
             "id": "69",
             "name": "",
@@ -144,6 +138,7 @@
             "date_added": "13007554490051640",
             "id": "83",
             "name": "Kickstarter",
+            "sync_transaction_version": "4",
             "type": "url",
             "url": "http://www.kickstarter.com/"
          }, {
@@ -299,7 +294,7 @@
             "url": "http://embedded.ip.ne.kr:9090/en/ajp/index.php"
          } ],
          "date_added": "13049460069558832",
-         "date_modified": "13049737933734027",
+         "date_modified": "13050417263904746",
          "id": "1",
          "name": "북마크바",
          "type": "folder"
@@ -312,7 +307,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "3",
+      "sync_transaction_version": "4",
       "synced": {
          "children": [ {
             "date_added": "13049387842272701",

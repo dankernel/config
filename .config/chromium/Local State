@@ -1,8 +1,8 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13050288000000000",
-      "last_launch_ping": "13050288000000000",
+      "last_app_launch_ping": "13050374400000000",
+      "last_launch_ping": "13050374400000000",
       "launch_count": 0
    },
    "browser": {
@@ -12,13 +12,13 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2248873517",
-   "http_received_content_length": "2248873517",
+   "http_original_content_length": "2250808770",
+   "http_received_content_length": "2250808770",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1405868518.822508"
+      "promo_resource_cache_update": "1405943653.380684"
    },
    "plugins": {
       "metadata": {
@@ -98,7 +98,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1405868812.497925,
+            "active_time": 1405943656.130437,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -109,7 +109,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -206,23 +206,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "19"
+      "launch_count": "20"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 18,
+      "session_id": 19,
       "stability": {
-         "breakpad_registration_fail": 19,
+         "breakpad_registration_fail": 20,
          "breakpad_registration_ok": 0,
-         "crash_count": 14,
-         "debugger_not_present": 19,
+         "crash_count": 15,
+         "debugger_not_present": 20,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1405868813",
-         "launch_count": 19,
-         "launch_time_sec": "1405868513",
+         "last_timestamp_sec": "1405943947",
+         "launch_count": 20,
+         "launch_time_sec": "1405943647",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
