@@ -1598,10 +1598,6 @@
                "supports_spdy": true
             },
             "0.docs.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "0.drive.google.com:443": {
@@ -1656,6 +1652,9 @@
                "supports_spdy": true
             },
             "5-channel-proxy-07-ash2.facebook.com:443": {
+               "supports_spdy": true
+            },
+            "5-channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
             },
             "6-channel-proxy-07-ash2.facebook.com:443": {
@@ -2028,6 +2027,20 @@
             },
             "external.xx.fbcdn.net:443": {
                "supports_spdy": true
+            },
+            "f.vimeocdn.com:443": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "f.vimeocdn.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             },
             "fbcdn-photos-a-a.akamaihd.net:443": {
                "supports_spdy": true
@@ -2524,6 +2537,13 @@
                },
                "supports_spdy": false
             },
+            "p4-c6ocrbn34crju-elnukui7gjdj2ttw-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-286838-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2749,6 +2769,13 @@
                "supports_spdy": false
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
+            "p4-fzylqoa23knr4-gh5vs354mhucxd6r-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3210,6 +3237,13 @@
                },
                "supports_spdy": true
             },
+            "www.googletagmanager.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "www.googletagservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -3567,7 +3601,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050426591186639",
+      "last_synced_time": "13050427737776657",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
