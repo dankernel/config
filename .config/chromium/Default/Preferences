@@ -1833,7 +1833,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 52,
+                  "5": 167,
                   "6": 0
                },
                "supports_spdy": true
@@ -2123,6 +2123,9 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": false
+            },
+            "graph.facebook.com:443": {
+               "supports_spdy": true
             },
             "html5shiv.googlecode.com:80": {
                "alternate_protocol": {
@@ -3410,7 +3413,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050417317139247",
+      "last_synced_time": "13050418077172026",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
