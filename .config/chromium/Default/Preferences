@@ -73,8 +73,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13050437162098996",
-         "next_check": "13050453959585070"
+         "last_check": "13050453959587160",
+         "next_check": "13050471873420234"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
