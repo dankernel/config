@@ -2475,6 +2475,13 @@
                },
                "supports_spdy": false
             },
+            "p4-cf5y77oim3wqc-cnzihyn7ytbvsdhm-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
+            },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -3413,7 +3420,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050423509279421",
+      "last_synced_time": "13050424781961018",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
