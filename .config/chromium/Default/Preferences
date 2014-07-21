@@ -2224,7 +2224,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3571,6 +3573,7 @@
          "hanamizuki97.egloos.com": 2.223901085741545,
          "kldp.org": 3.069389038663465,
          "lowid.tistory.com": 1.2239010857415449,
+         "search.naver.com": 3.069389038663465,
          "sulac.egloos.com": 2.223901085741545,
          "wiki.archlinux.org": 0.5227586988632231,
          "www.cplusplus.com": 2.223901085741545,
@@ -3607,7 +3610,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050431929270346",
+      "last_synced_time": "13050432578981902",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
