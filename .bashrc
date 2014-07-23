@@ -5,27 +5,31 @@
 export TERM='xterm-256color'
 export LS_COLORS="di=91;40":"ex=0;42":"ln=96;40":"so=93;40"
 
+#Ls
 alias ls='ls --color=auto -Crh'
 alias l='ls --color=auto -al'
 alias ll='ls --color=auto -Ctrhl'
 
+#App
+alias s='screen'
+alias v='vim'
+alias vv='vim main.c'
+alias p='ping google.com'
+
+#System
+alias port='netstat -an | grep "LISTEN "'
 alias cp='cp -i'
 alias mv='mv -i'
-
-alias vv='vim main.c'
-alias c='clear'
-alias v='vim'
-alias s='screen'
-
-alias u='cd ../'
-alias uu='cd ../../'
 alias du='du -sh ./*'
+alias c='clear'
 
-alias port='netstat -an | grep "LISTEN "'
-
+#Cd
+alias u='cd ../'
 alias ker='cd ~/kernel'
 alias code='cd ~/code'
+alias uu='cd ../../'
 
+#Sheel
 alias mkp='. ~/sh/mk_project.sh'
 alias backup='. ~/sh/backup.sh'
 
