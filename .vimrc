@@ -66,8 +66,11 @@ set directory=~/.vim
 set foldmethod=marker
 set foldlevel=0
 let g:is_bash = 1
-""""""""""""""""""""""""""""""""""""""""""""""""
 
+"Cuesor
+set viewoptions=cursor
+au BufWinLeave *.c,*.cc,*.h,*.html,*.php,Makefile,*.mak mkview
+au BufWinEnter *.c,*.cc,*.h,*.html,*.php,Makefile,*.mak silent loadview
 
 "아래 바.
 set laststatus=2
