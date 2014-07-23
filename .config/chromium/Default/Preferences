@@ -76,8 +76,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13050513106983841",
-         "next_check": "13050602572400735"
+         "last_check": "13050570175373968",
+         "next_check": "13050589935446038"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -153,7 +153,7 @@
 
             },
             "install_time": "13049757205654371",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -212,7 +212,7 @@
 
             },
             "install_time": "13049460112595885",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -275,7 +275,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111377495",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -338,7 +338,7 @@
 
             },
             "install_time": "13049460113322978",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -399,7 +399,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112001210",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -506,7 +506,7 @@
 
             },
             "install_time": "13049460113728114",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -561,7 +561,7 @@
 
             },
             "install_time": "13049460585901235",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -685,7 +685,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460116195381",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -752,7 +752,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111794570",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -819,7 +819,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112971666",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -887,7 +887,7 @@
 
             },
             "install_time": "13049460113454621",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -947,8 +947,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13049460114141883",
-            "lastpingday": "13050432000419814",
+            "install_time": "13050570176230067",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -981,10 +981,10 @@
                "options_page": "options.html",
                "permissions": [ "tabs", "http://stayfocusd.dev/", "http://*.stayfocusd.com/", "https://www.googleapis.com/", "https://accounts.google.com/", "notifications", "storage", "identity" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "1.5.3",
+               "version": "1.5.5",
                "web_accessible_resources": [ "common/img/eye_19x19_red.png", "common/img/logo_full.png", "common/css/content.css", "common/img/smartBombBG.png", "common/img/eye_48x48_nuclear.png", "common/img/eye_48x48_red.png", "components/ActivityMonitor/ActivityMonitorController.js", "components/ActivityMonitor/ActivityMonitorModel.js", "components/ActivityMonitor/views/overlay/ActivityMonitorOverlayView.js", "components/ActivityMonitor/views/overlay/overlay.tpl", "components/InfoBar/InfoBarController.js", "components/InfoBar/InfoBarView.js", "components/InfoBar/InfoBarModel.js", "components/InfoBar/infoBar.tpl", "components/List/ListController.js", "components/List/ListView.js", "components/List/ListModel.js", "components/List/list.tpl", "core/vendor/text.js", "core/vendor/jquery.min.js", "core/vendor/Brightline.min.js", "core/vendor/DropletJS.Class.min.js", "core/vendor/DropletJS.PubSub.min.js", "core/vendor/DropletJS.Sequencer.min.js", "core/main.js", "core/API.js", "core/ChromeAPI.js", "core/Component.js", "core/ComponentFactory.js", "core/CoreAPI.js", "core/DateUtils.js", "core/DomainParser.js", "core/GeneralUtils.js", "core/License.js", "core/Logger.js", "core/Message.js", "core/Notification.js", "core/NuclearOption.js", "core/ObjectUtils.js", "core/ReferrerMonitor.js", "core/SmartBomb.js", "core/StayFocusd.js", "core/Storage.js", "core/Settings.js" ]
             },
-            "path": "laankejkbhbdhmipfmgcngdelahlfoji/1.5.3_0",
+            "path": "laankejkbhbdhmipfmgcngdelahlfoji/1.5.5_0",
             "preferences": {
 
             },
@@ -1155,7 +1155,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112362947",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -1212,7 +1212,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049847494314067",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "background": {
@@ -1281,7 +1281,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460074386989",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 10,
             "manifest": {
                "app": {
@@ -1393,7 +1393,7 @@
 
             },
             "install_time": "13049460112830599",
-            "lastpingday": "13050432000419814",
+            "lastpingday": "13050485999705670",
             "location": 1,
             "manifest": {
                "app": {
@@ -1856,7 +1856,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 128,
+                  "5": 186,
                   "6": 0
                },
                "supports_spdy": true
@@ -3641,7 +3641,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050566536605289",
+      "last_synced_time": "13050570177124421",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
