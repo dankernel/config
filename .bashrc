@@ -15,6 +15,7 @@ alias s='screen'
 alias v='vim'
 alias vv='vim main.c'
 alias p='ping google.com'
+alias config='gnome-control-center'
 
 #System
 alias port='netstat -an | grep "LISTEN "'
