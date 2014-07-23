@@ -3075,6 +3075,9 @@
             "ssl.pstatic.net:443": {
                "supports_spdy": true
             },
+            "static.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
             "stats.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
