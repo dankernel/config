@@ -5,6 +5,9 @@
    "bookmark_bar": {
       "show_on_all_tabs": true
    },
+   "bookmark_editor": {
+      "expanded_nodes": [  ]
+   },
    "browser": {
       "clear_data": {
          "form_data": true,
@@ -74,7 +77,7 @@
       },
       "autoupdate": {
          "last_check": "13050513106983841",
-         "next_check": "13050532148371926"
+         "next_check": "13050602572400735"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -2068,6 +2071,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "gm1.ggpht.com:443": {
@@ -3595,7 +3601,7 @@
       "default_directory": "/home/dkdk/Downloads"
    },
    "selectfile": {
-      "last_directory": "/home/dkdk/Downloads"
+      "last_directory": "/home/dkdk/code/Exercise"
    },
    "session": {
       "restore_on_startup": 4,
@@ -3618,7 +3624,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050511670619204",
+      "last_synced_time": "13050586788109906",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
