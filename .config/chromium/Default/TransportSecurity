@@ -1,13 +1,13 @@
 {
    "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1416978538.068849,
+      "expiry": 1417051741.952567,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986478.547828,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
-      "sts_observed": 1406092138.068849
+      "sts_observed": 1406165341.952567
    },
    "4AGT3lHihuMSd5rUj7B4u6At0jlSH3HFePovjPR+oLE=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -41,13 +41,13 @@
    },
    "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1416992643.237311,
+      "expiry": 1417058695.763463,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986489.106872,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": true,
-      "sts_observed": 1406099289.237311
+      "sts_observed": 1406165341.763463
    },
    "C6hhjoa/UfPQDtK7OhzQayqV5YYV+Gd1zl/FgGIO4iI=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -74,7 +74,7 @@
       "expiry": 1437634562.195364,
       "mode": "force-https",
       "pkp_include_subdomains": false,
-      "pkp_observed": 1406092057.053199,
+      "pkp_observed": 1406092057.0532,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
       "sts_observed": 1406098562.195364
@@ -104,7 +104,7 @@
       "expiry": 1437629069.961662,
       "mode": "force-https",
       "pkp_include_subdomains": false,
-      "pkp_observed": 1406092040.007265,
+      "pkp_observed": 1406092040.007264,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
       "sts_observed": 1406093069.961662
@@ -224,7 +224,7 @@
       "expiry": 1437628041.406294,
       "mode": "force-https",
       "pkp_include_subdomains": false,
-      "pkp_observed": 1406092041.406295,
+      "pkp_observed": 1406092041.406296,
       "static_spki_hashes": [  ],
       "sts_include_subdomains": false,
       "sts_observed": 1406092041.406294

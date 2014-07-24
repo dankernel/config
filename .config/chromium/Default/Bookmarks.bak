@@ -1,5 +1,5 @@
 {
-   "checksum": "e72c8c43a9c14ef9d28c7cd3d2cfc3c5",
+   "checksum": "76c563396484ac7f1330e7f98f68d365",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -33,18 +33,6 @@
             "type": "url",
             "url": "https://www.facebook.com/"
          }, {
-            "date_added": "12973950431134371",
-            "id": "53",
-            "name": "",
-            "type": "url",
-            "url": "https://twitter.com/"
-         }, {
-            "date_added": "12974014038606137",
-            "id": "54",
-            "name": "",
-            "type": "url",
-            "url": "http://me2day.net/"
-         }, {
             "date_added": "12974014038607137",
             "id": "55",
             "name": "",
@@ -63,12 +51,6 @@
             "type": "url",
             "url": "http://todayhumor.co.kr/"
          }, {
-            "date_added": "12982181095730788",
-            "id": "58",
-            "name": "",
-            "type": "url",
-            "url": "http://www.tarapod.co.kr/photo_order/book_main.html"
-         }, {
             "date_added": "13049460110403142",
             "id": "59",
             "name": "CCE",
@@ -77,7 +59,8 @@
          }, {
             "date_added": "12996032590966011",
             "id": "61",
-            "name": "단",
+            "name": "",
+            "sync_transaction_version": "14",
             "type": "url",
             "url": "http://www.dankook.ac.kr/web/kor/home?sso=ok"
          }, {
@@ -125,28 +108,45 @@
          }, {
             "date_added": "13008870436426588",
             "id": "73",
-            "name": "",
+            "name": "한",
+            "sync_transaction_version": "15",
             "type": "url",
             "url": "http://speller.cs.pusan.ac.kr/"
          }, {
             "date_added": "13012420823803425",
             "id": "82",
-            "name": "임베디드",
+            "name": "LAB",
+            "sync_transaction_version": "8",
             "type": "url",
             "url": "https://sites.google.com/a/embedded.dankook.ac.kr/www/members"
          }, {
             "date_added": "13007554490051640",
             "id": "83",
-            "name": "Kickstarter",
-            "sync_transaction_version": "4",
+            "name": "",
+            "sync_transaction_version": "9",
             "type": "url",
             "url": "http://www.kickstarter.com/"
          }, {
+            "date_added": "13049737933734027",
+            "id": "126",
+            "name": "NAS",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://embedded.ip.ne.kr:9090/kr"
+         }, {
             "date_added": "13022559969636000",
             "id": "102",
-            "name": "시프_동우형님_사이트",
+            "name": "Cdang",
+            "sync_transaction_version": "10",
             "type": "url",
             "url": "http://cdang.net/"
+         }, {
+            "date_added": "13040712999543499",
+            "id": "123",
+            "name": "",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "https://gist.github.com/"
          }, {
             "date_added": "13022601196244164",
             "id": "103",
@@ -268,12 +268,6 @@
             "type": "url",
             "url": "https://www.google.co.kr/search?q=html5+%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8+%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0&oq=html5+%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8+%EA%B0%80&aqs=chrome.1.69i57j0.7164j0j7&sourceid=chrome&espv=210&es_sm=122&ie=UTF-8#newwindow=1&q=c%EC%96%B8%EC%96%B4+execle"
          }, {
-            "date_added": "13040712999543499",
-            "id": "123",
-            "name": "Gists",
-            "type": "url",
-            "url": "https://gist.github.com/"
-         }, {
             "date_added": "13048968555173457",
             "id": "124",
             "name": "빵집 - Google 검색",
@@ -285,16 +279,9 @@
             "name": "Bricsys - Forum - Running Bricscad 10.6.x Linux in ArchLinux...",
             "type": "url",
             "url": "http://www.bricsys.com/common/support/forumthread.jsp?id=13736"
-         }, {
-            "date_added": "13049737933734027",
-            "id": "126",
-            "name": "AjaXplorer",
-            "sync_transaction_version": "3",
-            "type": "url",
-            "url": "http://embedded.ip.ne.kr:9090/en/ajp/index.php"
          } ],
          "date_added": "13049460069558832",
-         "date_modified": "13050417263904746",
+         "date_modified": "13050586813587189",
          "id": "1",
          "name": "북마크바",
          "type": "folder"
@@ -307,7 +294,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "4",
+      "sync_transaction_version": "18",
       "synced": {
          "children": [ {
             "date_added": "13049387842272701",

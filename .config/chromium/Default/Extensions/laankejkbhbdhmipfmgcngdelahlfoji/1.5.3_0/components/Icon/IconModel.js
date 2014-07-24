@@ -1,1 +1,0 @@
-define(["core/Logger","core/CoreAPI"],function(Logger,API){return API.Class.create({badgeVisible:!1})});

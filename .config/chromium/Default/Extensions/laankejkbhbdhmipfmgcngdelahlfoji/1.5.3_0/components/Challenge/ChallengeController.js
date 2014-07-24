@@ -1,1 +1,0 @@
-define(["core/Logger","core/CoreAPI"],function(Logger,API){return API.Class.create({view:null,model:null,construct:function(){}})});

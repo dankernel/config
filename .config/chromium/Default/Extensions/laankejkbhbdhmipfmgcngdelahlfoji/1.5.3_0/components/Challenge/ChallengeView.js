@@ -1,1 +1,0 @@
-define(["core/Logger","core/CoreAPI","core/vendor/jquery.min"],function(Logger,API,$){return API.Class.create({model:null,setJQuery:function(jQuery){$=jQuery||$},inject:function($container,content){$container=$container||$("body");var self=this;$container.html(content).promise().done(function(){self.bindUIHandlers()})},bindUIHandlers:function(){}})});
