@@ -42,8 +42,8 @@ Processes ${hr 1}
   (${acpitemp}°C) ${alignr}${processes} (${running_processes running})
   CPU1 ${cpu cpu1}% ${cpubar cpu1 4}
   CPU2 ${cpu cpu2}% ${cpubar cpu2 4}
-  CPU2 ${cpu cpu3}% ${cpubar cpu3 4}
-  CPU2 ${cpu cpu4}% ${cpubar cpu4 4}
+  CPU3 ${cpu cpu3}% ${cpubar cpu3 4}
+  CPU4 ${cpu cpu4}% ${cpubar cpu4 4}
   ${cpugraph cpu1 20,107} ${alignr}${cpugraph cpu2 20,107}
   ${cpugraph cpu3 20,107} ${alignr}${cpugraph cpu4 20,107}
 
