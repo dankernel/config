@@ -77,7 +77,7 @@
       },
       "autoupdate": {
          "last_check": "13050570175373968",
-         "next_check": "13050651716647029"
+         "next_check": "13050651014065264"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1701,11 +1701,6 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
-               },
                "supports_spdy": true
             },
             "cache.pack.google.com:80": {
@@ -1795,9 +1790,6 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100
-               },
                "supports_spdy": true
             },
             "clients2.google.com:443": {
@@ -1837,9 +1829,7 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -1871,11 +1861,6 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2223,11 +2208,6 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2913,11 +2893,6 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
-               },
                "supports_spdy": true
             },
             "ssl.pstatic.net:443": {
@@ -3041,9 +3016,6 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100
-               },
                "supports_spdy": true
             },
             "www.google.co.kr:80": {
@@ -3057,6 +3029,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3453,7 +3428,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050640779126182",
+      "last_synced_time": "13050641247640848",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
