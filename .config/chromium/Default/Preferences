@@ -3621,7 +3621,7 @@
       "default_directory": "/home/dkdk/Downloads"
    },
    "selectfile": {
-      "last_directory": "/home/dkdk/code/Exercise"
+      "last_directory": "/home/dkdk/code/CFS_MEMO"
    },
    "session": {
       "restore_on_startup": 4,
@@ -3644,7 +3644,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050578366803597",
+      "last_synced_time": "13050579800009561",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
