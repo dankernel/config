@@ -785,10 +785,11 @@
     </position>
   </application>
 
+  <!-- 1366x768 -->
   <application class="Nabi" name="nabi">
     <position>
-      <x>188</x>
-      <y>104</y>
+      <x>1350</x>
+      <y>740</y>
     </position>
   </application>
 
