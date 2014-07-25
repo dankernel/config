@@ -785,6 +785,13 @@
     </position>
   </application>
 
+  <application class="Nabi" name="nabi">
+    <position>
+      <x>188</x>
+      <y>104</y>
+    </position>
+  </application>
+
 </applications>
 
 </openbox_config>
