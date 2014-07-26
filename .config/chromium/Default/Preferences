@@ -21,11 +21,11 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 813,
-         "left": 454,
+         "bottom": 878,
+         "left": 552,
          "maximized": false,
-         "right": 1820,
-         "top": 45,
+         "right": 1918,
+         "top": 110,
          "work_area_bottom": 768,
          "work_area_left": 0,
          "work_area_right": 1366,
@@ -2976,7 +2976,9 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100
+                  "4": 100,
+                  "5": 173,
+                  "6": 0
                },
                "supports_spdy": true
             },
