@@ -21,11 +21,11 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 878,
-         "left": 552,
+         "bottom": 768,
+         "left": 0,
          "maximized": false,
-         "right": 1918,
-         "top": 110,
+         "right": 1366,
+         "top": 0,
          "work_area_bottom": 768,
          "work_area_left": 0,
          "work_area_right": 1366,
@@ -46,24 +46,8 @@
    "countryid_at_install": 19282,
    "default_apps_install_state": 3,
    "default_search_provider": {
-      "alternate_urls": [ "{google:baseURL}#q={searchTerms}", "{google:baseURL}search#q={searchTerms}", "{google:baseURL}webhp#q={searchTerms}" ],
       "enabled": true,
-      "encodings": "UTF-8",
-      "icon_url": "http://www.google.com/favicon.ico",
       "id": "2",
-      "image_url": "{google:baseURL}searchbyimage/upload",
-      "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight}",
-      "instant_url": "{google:baseURL}webhp?sourceid=chrome-instant&{google:RLZ}{google:forceInstantResults}{google:instantExtendedEnabledParameter}{google:ntpIsThemedParameter}{google:omniboxStartMarginParameter}ie={inputEncoding}",
-      "instant_url_post_params": "",
-      "keyword": "google.co.kr",
-      "name": "Google",
-      "new_tab_url": "{google:baseURL}_/chrome/newtab?{google:RLZ}{google:instantExtendedEnabledParameter}{google:ntpIsThemedParameter}ie={inputEncoding}",
-      "prepopulate_id": "1",
-      "search_terms_replacement_key": "espv",
-      "search_url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:bookmarkBarPinned}{google:searchClient}{google:sourceId}{google:instantExtendedEnabledParameter}{google:omniboxStartMarginParameter}ie={inputEncoding}",
-      "search_url_post_params": "",
-      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}sugkey={google:suggestAPIKeyParameter}",
-      "suggest_url_post_params": "",
       "synced_guid": "E9EB31B0-37B2-4B09-BC05-669B3ED211A2"
    },
    "download": {
@@ -77,7 +61,7 @@
       },
       "autoupdate": {
          "last_check": "13050570175373968",
-         "next_check": "13050816900164951"
+         "next_check": "13050859635109785"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -86,7 +70,7 @@
 
       },
       "known_disabled": [ "hompjdfbfmmmgflfjdlnkohcplmboaeo" ],
-      "last_chrome_version": "35.0.1916.153",
+      "last_chrome_version": "36.0.1985.125",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_permissions": {
@@ -377,7 +361,7 @@
          },
          "djflhoibgkdhkhhcedjiklpkjnoahfmg": {
             "active_permissions": {
-               "api": [ "storage", "tabs", "unlimitedStorage", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "api": [ "storage", "tabs", "unlimitedStorage", "webRequest", "webRequestBlocking" ],
                "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*", "http://spoofer-extension.appspot.com/*", "https://spoofer-extension.appspot.com/*" ],
                "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
@@ -924,6 +908,68 @@
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
+         "kmendfapggjehodndflmmgagdbamhnfd": {
+            "active_permissions": {
+               "api": [ "hid", "usb", {
+                  "usbDevices": [ {
+                     "interfaceId": -1,
+                     "productId": 512,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 529,
+                     "vendorId": 4176
+                  } ]
+               }, "webConnectable" ],
+               "explicit_host": [ "https://www.gstatic.com/*" ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13050858271048546",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "util.js", "b64.js", "closeable.js", "countdown.js", "sha256.js", "llgnubby.js", "llhidgnubby.js", "llusbgnubby.js", "gnubbies.js", "gnubby.js", "gnubby-u2f.js", "gnubbycodetypes.js", "gnubbyfactory.js", "gnubbymsgtypes.js", "usbgnubbyfactory.js", "devicestatuscodes.js", "enroller.js", "enrollhelper.js", "usbenrollhelper.js", "requestqueue.js", "signer.js", "signhelper.js", "singlesigner.js", "multiplesigner.js", "usbsignhelper.js", "webrequest.js", "background.js" ]
+               },
+               "description": "CryptoToken Component Extension",
+               "externally_connectable": {
+                  "accepts_tls_channel_id": true,
+                  "matches": [ "https://login.corp.google.com/*", "https://accounts.google.com/*", "https://security.google.com/*" ]
+               },
+               "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zRobvA+AVlvNqkHSSVhh1sEWsHSqz4oR/XptkDe/Cz3+gW9ZGumZ20NCHjaac8j1iiesdigp8B1LJsd/2WWv2Dbnto4f8GrQ5MVphKyQ9WJHwejEHN2K4vzrTcwaXqv5BSTXwxlxS/mXCmXskTfryKTLuYrcHEWK8fCHb+0gvr8b/kvsi75A1aMmb6nUnFJvETmCkOCPNX5CHTdy634Ts/x0fLhRuPlahk63rdf7agxQv5viVjQFk+tbgv6aa9kdSd11Js/RZ9yZjrFgHOBWgP4jTBqud4+HUglrzu8qynFipyNRLCZsaxhm+NItTyNgesxLdxZcwOz56KD1Q4IQIDAQAB",
+               "manifest_version": 2,
+               "name": "CryptoTokenExtension",
+               "permissions": [ "hid", "usb", {
+                  "usbDevices": [ {
+                     "productId": 512,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 529,
+                     "vendorId": 4176
+                  } ]
+               }, "https://www.gstatic.com/" ],
+               "version": "0.0.1"
+            },
+            "path": "/usr/lib/chromium/resources/cryptotoken",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
          "laankejkbhbdhmipfmgcngdelahlfoji": {
             "active_permissions": {
                "api": [ "identity", "notifications", "storage", "tabs" ],
@@ -1266,7 +1312,7 @@
          "nmmhkkegccagdldgiimedpiccmgmieda": {
             "ack_external": true,
             "active_permissions": {
-               "api": [ "identity", "webRequestInternal", "webview" ],
+               "api": [ "identity", "webview" ],
                "explicit_host": [ "https://checkout.google.com/*", "https://sandbox.google.com/*", "https://www.google.com/*", "https://www.googleapis.com/*" ],
                "manifest_permissions": [  ]
             },
@@ -1331,7 +1377,7 @@
             },
             "content_settings": [  ],
             "creation_flags": 1,
-            "events": [ "alarms.onAlarm", "identity.onSignInChanged", "notifications.onButtonClicked", "notifications.onClicked", "notifications.onClosed", "notifications.onPermissionLevelChanged", "notifications.onShowSettings", "pushMessaging.onMessage", "runtime.onInstalled", "runtime.onStartup", "runtime.onSuspend" ],
+            "events": [ "alarms.onAlarm", "identity.onSignInChanged", "notifications.onButtonClicked", "notifications.onClicked", "notifications.onClosed", "notifications.onPermissionLevelChanged", "notifications.onShowSettings", "pushMessaging.onMessage", "runtime.onInstalled", "runtime.onStartup", "runtime.onSuspend", "storage.onChanged" ],
             "from_bookmark": false,
             "from_webstore": false,
             "incognito_content_settings": [  ],
@@ -1470,7 +1516,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJ5GHXwKxGKYkR/UrKdEs4jKAaBwiFEhADGAMSFIQiOPDTJ76NCsHhKOzFknri/7lp",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJmngewpk2f6cRq0KrnrD2KekaBwiCLBADGAsSFFGo+eA4XTt0Hyb0F/mgzUS5M9Rk",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -1681,8 +1727,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "ajax.googleapis.com:443": {
                "alternate_protocol": {
@@ -1700,10 +1745,14 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "android.clients.google.com:443": {
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "apis.google.com:443": {
@@ -1713,7 +1762,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 51,
+                  "5": 67,
                   "6": 0
                },
                "supports_spdy": true
@@ -1722,8 +1771,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "calendar.google.com:443": {
                "alternate_protocol": {
@@ -1736,8 +1784,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "cdn.syndication.twimg.com:443": {
                "supports_spdy": true
@@ -1755,15 +1802,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "chart.googleapis.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "chrome.google.com:443": {
                "alternate_protocol": {
@@ -1861,8 +1906,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "code.angularjs.org:443": {
                "supports_spdy": true
@@ -1871,8 +1915,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "content.googleapis.com:443": {
                "alternate_protocol": {
@@ -1897,8 +1940,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "cx.atdmt.com:443": {
                "supports_spdy": true
@@ -1907,8 +1949,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "developer.android.com:443": {
                "alternate_protocol": {
@@ -1921,8 +1962,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "docs.google.com:443": {
                "alternate_protocol": {
@@ -1935,8 +1975,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "encrypted-tbn0.gstatic.com:443": {
                "alternate_protocol": {
@@ -1973,15 +2012,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "f.vimeocdn.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "fbcdn-photos-a-a.akamaihd.net:443": {
                "supports_spdy": true
@@ -1996,8 +2033,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "fonts.googleapis.com:443": {
                "alternate_protocol": {
@@ -2010,8 +2046,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "gg.google.com:443": {
                "alternate_protocol": {
@@ -2031,8 +2066,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "googleads.g.doubleclick.net:443": {
                "alternate_protocol": {
@@ -2050,15 +2084,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "googleads4.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "graph.facebook.com:443": {
                "supports_spdy": true
@@ -2067,8 +2099,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "i.ytimg.com:443": {
                "alternate_protocol": {
@@ -2088,8 +2119,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "id.google.co.kr:443": {
                "alternate_protocol": {
@@ -2102,29 +2132,25 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "images2-hangout-opensocial.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "images3-hangout-opensocial.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "img.youtube.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "img1.blogblog.com:443": {
                "alternate_protocol": {
@@ -2137,22 +2163,19 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "img2.blogblog.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "lh3.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "lh3.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2165,8 +2188,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "lh4.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2179,8 +2201,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "lh5.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2198,8 +2219,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "lh6.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2226,8 +2246,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "maps.googleapis.com:443": {
                "alternate_protocol": {
@@ -2240,8 +2259,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "oauth.googleusercontent.com:443": {
                "alternate_protocol": {
@@ -2259,512 +2277,439 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-675293-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-675293-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i1-dnssec-vd.gexperiments2.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i2-dnssec-nd.gexperiments1.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-170889-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-170889-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-812705-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-812705-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-179253-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-179253-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-b523q7jvn6okg-vjrqgg2mjgdlu2mr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-bu3ms2s25adx2-bp65mouc7c6loive-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-497044-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-497044-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-c6ocrbn34crju-elnukui7gjdj2ttw-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-286838-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-286838-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cf5y77oim3wqc-cnzihyn7ytbvsdhm-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-d7yeq6vqrrdpo-6by73t76ovwfo47l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dbipx4dyku7zy-2q5mwq6gdlln5j77-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dkvawbnyzoply-qy6qqicxrspeeks2-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dl6kdg4txgtmo-ugdvhocijr27rx5l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-873897-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-873897-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dslkxio5mhq42-coztrv6eohb3fd7f-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-e42yzm54pmy6m-gpd56dlqyjjqjt5a-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-e4e4sp2k2akiy-6jutx2k5e3zzjog6-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-435685-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-435685-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-fc6fuq5iunhro-2qycxtmwdf4rh7yx-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-ffkzjyf55smbm-4kmhcquojnwxflbu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-fzylqoa23knr4-gh5vs354mhucxd6r-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-go5vvsgttxixm-45c5ee73mkfodzq5-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-h6xc4dqj5oae6-ufz3tcj4dqlbgmbb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-571840-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-571840-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "p4-hzo3nhh3rhr2m-wgngqxflbp6qepsl-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "pagead2.googlesyndication.com:443": {
                "alternate_protocol": {
@@ -2777,15 +2722,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "partner.googleadservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "pixel.facebook.com:443": {
                "supports_spdy": true
@@ -2797,7 +2740,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 219,
+                  "5": 316,
                   "6": 0
                },
                "supports_spdy": true
@@ -2806,29 +2749,25 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "r13---sn-ogueynls.c.pack.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "r2---sn-n3cgv5qc5oq-bh2e7.googlevideo.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "r6---sn-n3cgv5qc5oq-bh2e7.googlevideo.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "s-v6exp1-ds.metric.gstatic.com:443": {
                "alternate_protocol": {
@@ -2841,8 +2780,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "s.ytimg.com:443": {
                "alternate_protocol": {
@@ -2855,8 +2793,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "s0.2mdn.net:443": {
                "alternate_protocol": {
@@ -2869,22 +2806,19 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "s1.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "s2.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "scontent-a-sjc.xx.fbcdn.net:443": {
                "supports_spdy": true
@@ -2899,15 +2833,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "seungigi.blogspot.kr:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "sites.google.com:443": {
                "alternate_protocol": {
@@ -2932,8 +2864,7 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
@@ -2969,8 +2900,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "syndication.twitter.com:443": {
                "supports_spdy": true
@@ -2998,15 +2928,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "tools.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "tpc.googlesyndication.com:443": {
                "alternate_protocol": {
@@ -3036,8 +2964,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.blogger.com:443": {
                "alternate_protocol": {
@@ -3050,8 +2977,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.facebook.com:443": {
                "supports_spdy": true
@@ -3060,8 +2986,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.google-analytics.com:443": {
                "alternate_protocol": {
@@ -3079,8 +3004,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.google.co.kr:443": {
                "alternate_protocol": {
@@ -3098,8 +3022,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.google.com:443": {
                "alternate_protocol": {
@@ -3117,8 +3040,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.googleadservices.com:443": {
                "alternate_protocol": {
@@ -3131,8 +3053,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.googleapis.com:443": {
                "alternate_protocol": {
@@ -3150,15 +3071,13 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.googletagservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.gstatic.com:443": {
                "alternate_protocol": {
@@ -3176,22 +3095,19 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.muylinux.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.muymovil.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "www.youtube.com:443": {
                "alternate_protocol": {
@@ -3204,8 +3120,7 @@
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
-               },
-               "supports_spdy": false
+               }
             },
             "yt3.ggpht.com:443": {
                "alternate_protocol": {
@@ -3493,7 +3408,7 @@
       "default_directory": "/home/dkdk/Downloads"
    },
    "selectfile": {
-      "last_directory": "/home/dkdk/code/CFS_MEMO"
+      "last_directory": "/home/dkdk/code/Exercise"
    },
    "session": {
       "restore_on_startup": 4,
@@ -3502,6 +3417,7 @@
       "startup_urls_migration_time": "13049460069298976"
    },
    "sync": {
+      "app_list": true,
       "app_settings": true,
       "apps": true,
       "autofill": true,
@@ -3516,7 +3432,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13050812179779015",
+      "last_synced_time": "13050858397991760",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
@@ -3526,6 +3442,7 @@
       "session_sync_guid": "session_syncL614G7xUzDkn/mti7Dj4Ww==",
       "sessions": true,
       "suppress_start": false,
+      "synced_notification_app_info": true,
       "synced_notifications": true,
       "tabs": true,
       "themes": true,

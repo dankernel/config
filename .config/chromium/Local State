@@ -8,17 +8,30 @@
    "browser": {
       "last_redirect_origin": ""
    },
+   "data_reduction": {
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1215433" ],
+      "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1215433" ],
+      "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "last_update_date": "13050774000000000"
+   },
    "gl_renderer_string": "Mesa DRI Intel(R) Sandybridge Mobile ",
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2569898035",
-   "http_received_content_length": "2569898035",
+   "http_original_content_length": "2571115024",
+   "http_received_content_length": "2571115024",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1406333579.225179"
+      "promo_resource_cache_update": "1406384674.345066"
    },
    "plugins": {
       "metadata": {
@@ -98,7 +111,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1406338556.9914,
+            "active_time": 1406384735.12026,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -109,7 +122,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [ "Default" ],
+      "last_active_profiles": [  ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -117,9 +130,12 @@
                "show_home_button": "9463DEC4C15E47646D05FD921E0E475249EA15DE77808C4664EF238C54D89FC7"
             },
             "default_search_provider": {
-               "keyword": "EB9B89034B457FE16B6729E86545B6155D16D62DECE03613F9EEA8D9CBC479AF",
-               "name": "0B5FC00383E95E9BDECC08879BFDD8C66DA5D8B7F247C6E742D31615239779EA",
-               "search_url": "7D5FC0AFD888075F00548076224586A84FEEFB8CB9EDE6D92EF4EC63B061EEBC"
+               "keyword": "42142BFC0323D5EF138C9ED2128F1DEB2FD3E3F7AF30AD930F60A1C5B87E5276",
+               "name": "D29ED831358AACE7408781A9A65FA083D8CBA1662ED7E0356AEB94734C60D047",
+               "search_url": "D02C7D9E52A3893EB51633C2C0CA63BB6AC27B4E406A7C47D6A896AF4042FDDE"
+            },
+            "default_search_provider_data": {
+               "template_url_data": "575D258E47F940C6887685ABA99A5839CBFE4BA30863349DFE0D0C375AAB8816"
             },
             "extensions": {
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
@@ -129,7 +145,7 @@
                   "blpcfgokakmgnkcojhhkbfbldkacnbeo": "2A985A4E848F14891CB56963A99FFBA09DEB9ABBFE1D1F3FA440FBF85B042C29",
                   "cecdfgmilkpnjgfjnjeimlmkdldklomb": "0D7C9BA78F29A98F85DCC48016A16B0164504FF9AF788E1FADD1BCE46B36B70F",
                   "coobgpohoikkiipiblmjeljniedjpjpf": "E19B78D8445D6559B9904A3988F378DE7D13D3F26D64E02F2905019CF22A4545",
-                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "401800840E0C9FD1C2D894D07085675C810407790A5940D19A08BD881F3E3767",
+                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "2578212AD7D745D92A455B9BF9882147ADB312E88E4B4436111558BC8CD73113",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
                   "ejjicmeblgpmajnghnpcppodonldlgfn": "031A4A117962055F44F5B3150374AB4F568834099C69191F4B4E8C6172A27640",
                   "eknaeafjfoolijbnnkmmjfecekhnnjnf": "0E58D4B4E6674134ACD8EE679B0EF3D125F6073BA63E4E7B53E92B83946693F6",
@@ -138,14 +154,15 @@
                   "hclgegipaehbigmbhdpfapmjadbaldib": "7141E4C957A3CD961FF6FE23235644D394F99F56B61487A0EDC17C2265609F2E",
                   "hompjdfbfmmmgflfjdlnkohcplmboaeo": "8F8B4187BE8B36E7C0A0FBBEC9C65AA0BE4384E386040DB7D8DB6A7CC8CA8244",
                   "kcbmakmdbnehgbakmgibcpjpafenmohd": "AD021CD4354DF65F0C92F7A896038371760D5659B6B8AE1DA695E32D6972A3A3",
+                  "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
                   "laankejkbhbdhmipfmgcngdelahlfoji": "88FB8FD9E204175787F6A58F8F1048930B46F8A7C12AD5B3F09AC4325A0E3437",
                   "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                   "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                   "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
                   "molncoemjfmpgdkbdlbjmhlcgniigdnf": "954589FC9B0736547FDC8EA077AF8E0BEB2CD1A8259D3E999B82A618365F7C10",
                   "nckgahadagoaajjgafhacjanaoiihapd": "AC63DBD5A12316B376441E29F6B4B6D2AEF98B8CFC3E32E3B86A0E1F7E9B1FBA",
-                  "nmmhkkegccagdldgiimedpiccmgmieda": "648A2F545898313E17E59A6A55BDF11A2983FB57A773A45CE2785CC7EFC02903",
-                  "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "35402B53028BED713492E83C0640ECFC3A05FAA0898107467628679E21065C75",
+                  "nmmhkkegccagdldgiimedpiccmgmieda": "029AE6C450677A1267B73700E6F8FDA06C9A589585A895533BC3804C75B00399",
+                  "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "1F1C45023E7A35E031EDF0D3EF021901B62E177EBB00A17DAC7591CAE62A4349",
                   "pjkljhegncpnkpknbcohdijeoejaedia": "BF3EBF889F17E60A83D00F1D98898C3AAA11204422763F1CF20E9E9EDEC9F8F3"
                }
             },
@@ -157,6 +174,9 @@
             "homepage": "1EB0B7B1A3C356CC932643256FBF999CC548D0C80B070C5EB5890F33333671BE",
             "homepage_is_newtabpage": "547DD594A200A6C826A149309738E7FAD622F4D7B1B875CD6ECB2E96F2940E21",
             "pinned_tabs": "699F1AC92729A024B80605AFC3C63BFB2A35B70C4214581BBE108F851528E9E8",
+            "prefs": {
+               "preference_reset_time": "95C909F3D0669D5931907B455F099C510E7770D9F0BA6FF13E4C76101B44F757"
+            },
             "profile": {
                "reset_prompt_memento": "D4530CB53DD89D7863C8A6CB3762FD06DE5DBC9965D16D3A72FE1B19AD4A6C8F"
             },
@@ -167,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "4233334EAC8D357DF58E9D3F3B0C312E5BFF2F82A24C14254C72F091E2618012"
+            "/home/dkdk/.config/chromium/Default": "146CD0B4D0583B46CD248786D52BE2A6F810F9251FAEB1BE08F5D9E62249AB54"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -206,30 +226,30 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "27"
+      "launch_count": "28"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 26,
+      "session_id": 27,
       "stability": {
-         "breakpad_registration_fail": 27,
+         "breakpad_registration_fail": 28,
          "breakpad_registration_ok": 0,
-         "crash_count": 22,
-         "debugger_not_present": 27,
+         "crash_count": 23,
+         "debugger_not_present": 28,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1406338673",
-         "launch_count": 27,
-         "launch_time_sec": "1406333573",
+         "last_timestamp_sec": "1406384968",
+         "launch_count": 28,
+         "launch_time_sec": "1406384668",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
          "session_end_completed": true,
-         "stats_buildtime": "1402460974",
-         "stats_version": "35.0.1916.153-64-devel"
+         "stats_buildtime": "1405598799",
+         "stats_version": "36.0.1985.125-64-devel"
       }
    },
    "was": {
