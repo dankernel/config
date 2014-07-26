@@ -43,6 +43,10 @@ if [ -f /etc/bashrc ]; then
 fi
 export PATH=${PATH}:$HOME/gsutil
 export PYTHONPATH=${PYTHONPATH}:$HOME/gsutil/third_party/boto:$HOME/gsutil
+export PATH="$PATH:/opt/java/bin:/opt/android-sdk/tools:/opt/android-sdk/platform-tools:/usr/share/java/apache-ant/bin:/opt/android-ndk:/opt/android-ndk/build/tools:"
+export JAVA_HOME="/opt/java/"
+export CLASSPATH=".:/opt/java/jre/lib/rt.jar:/opt/android-sdk/platforms/android-16/android.jar" 
+
 
 PS1="\[\033[35m\][\u@\w]\[\033[00m\] $ "
 
