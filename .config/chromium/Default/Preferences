@@ -1758,11 +1758,6 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
-               },
                "supports_spdy": true
             },
             "cache.pack.google.com:80": {
@@ -1889,9 +1884,7 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -1923,9 +1916,7 @@
                   "protocol_str": "quic"
                },
                "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2248,11 +2239,6 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2720,6 +2706,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
