@@ -1669,6 +1669,9 @@
             "1-channel-proxy-07-ash2.facebook.com:443": {
                "supports_spdy": true
             },
+            "1-channel-proxy-13-prn1.facebook.com:443": {
+               "supports_spdy": true
+            },
             "2-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1721,30 +1724,10 @@
                "supports_spdy": true
             },
             "ad.doubleclick.net:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
-            },
-            "ad.doubleclick.net:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
             },
             "ajax.googleapis.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
-            },
-            "ajax.googleapis.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
             },
             "android.clients.google.com:443": {
                "settings": {
@@ -1761,24 +1744,8 @@
                },
                "supports_spdy": true
             },
-            "cache.pack.google.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
             "calendar.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
-            },
-            "cdn.mathjax.org:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
             },
             "cdn.syndication.twimg.com:443": {
                "supports_spdy": true
@@ -2389,6 +2356,24 @@
                   "protocol_str": "quic"
                }
             },
+            "p4-bewojpnaa5rfm-wxbplaurl6gibetl-993588-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-bewojpnaa5rfm-wxbplaurl6gibetl-993588-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-bewojpnaa5rfm-wxbplaurl6gibetl-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2521,6 +2506,12 @@
                   "protocol_str": "quic"
                }
             },
+            "p4-d3pq4t4qzv2hc-eykyp2tlyujfy4hb-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "p4-d7yeq6vqrrdpo-6by73t76ovwfo47l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2588,6 +2579,24 @@
                }
             },
             "p4-e4e4sp2k2akiy-6jutx2k5e3zzjog6-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-eggcgmxiqwu42-anesppp3tnszy47u-162242-i1-v6exp3-ds.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-eggcgmxiqwu42-anesppp3tnszy47u-162242-i2-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-eggcgmxiqwu42-anesppp3tnszy47u-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3432,7 +3441,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051386781599298",
+      "last_synced_time": "13051387785212210",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
