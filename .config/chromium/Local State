@@ -9,10 +9,10 @@
       "last_redirect_origin": ""
    },
    "data_reduction": {
-      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "3689245" ],
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "9298484" ],
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "3689245" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "9298484" ],
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
@@ -25,8 +25,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2574976470",
-   "http_received_content_length": "2574976470",
+   "http_original_content_length": "2580585709",
+   "http_received_content_length": "2580585709",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -111,7 +111,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1406912221.917384,
+            "active_time": 1406912450.624558,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -141,29 +141,29 @@
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
                "settings": {
                   "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
-                  "apdfllckaahabafndbhieahigkjlhalf": "B7456A7FFBA1E156A594F55A501671834A9F62396648B8449F9F2621F2014EEF",
-                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "B4707B47EB5C986D31BAA5551805C8855D4B11FB5D8320FB72E56FF3E2D209C0",
-                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "0DCA0351708C4595C8BA56F682643A51977E0E10EC8052028F5AE210B6786B94",
-                  "coobgpohoikkiipiblmjeljniedjpjpf": "31F34143E4554CDF3EF00387F40794FEC39E7043156CCC56721CF644FE3A9857",
-                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "B628598C7AB2891D4537018272A651E62C3E04A0E339AFE8C7EEFB03F96F2112",
+                  "apdfllckaahabafndbhieahigkjlhalf": "CE976314F74DF007DAE272FA237A88593D7A5202E02A355FF339E20B4D738CF2",
+                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "8D9AF9F6B2EB393F81F7A90475CBCA1AD5B38A958362ACBAE2269B9B49778015",
+                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "1CBA6FE4E2796CBD2A4345BF9F739BD1D87146A2851171DBD6A927274E20FA40",
+                  "coobgpohoikkiipiblmjeljniedjpjpf": "04AFD539F7C350FEF78ABF4212772BFC666CC4F95AD5B077940EE3E895489476",
+                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "059776D5BD21738011FF263545E445396220A4006C83CD6693E59E0C219276ED",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-                  "ejjicmeblgpmajnghnpcppodonldlgfn": "3C13467D5C3AE8378E7153DDBB383192834CE7B5194717005F689CD6BC650CA2",
-                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "DBCD76028F9035DB3ADA9F7E6C799E555BAE2EDA6AA872BFBBDC7F9A77AAC185",
+                  "ejjicmeblgpmajnghnpcppodonldlgfn": "D7DE5490E3F349D8596C6EBE6ABBBA4C357B61ECF382CE80C409A7AAB84BC662",
+                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "6652F22B57BAD08D805ED9B4A550E4F6E71C7CF827EBCDEFE660A031FE233AB8",
                   "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-                  "fngmhnnpilhplaeedifhccceomclgfbg": "A6E4496BE61E738E64B664D2621826F985109726E930092A7586BC4FC3F80810",
-                  "hclgegipaehbigmbhdpfapmjadbaldib": "FD5ECA858004D1E3BEE2FB99FD10753B9FF07C64CFC67F3507A320905BB72389",
-                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "CE8B78AF6CADA23434AB8AEB666DC7EC1F822632FE40D9B05880DD0F32F29472",
-                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "7ABE03910892FCE78A624872EAB3AAE5DCAAA437252F349ECDF9A451808D59EE",
+                  "fngmhnnpilhplaeedifhccceomclgfbg": "098B71799A4D6625ADFDF3A297366CE08149563633C79C28574C11697AEFC551",
+                  "hclgegipaehbigmbhdpfapmjadbaldib": "4E737284ACE6C6E0705A61B3D3C4DF2E1598476F77E97A5058C9F94A9EF561A9",
+                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "51A8092F3BD112D6CE9880A2FA33E92B907DB6CEE8A4E5FAD43EA3CC565B9D9C",
+                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "835B3BE34067F79F3F07BFC3E5E5634D1CC7F32BA85D430401E970880E79F006",
                   "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
-                  "laankejkbhbdhmipfmgcngdelahlfoji": "2B1F8BD9FB13D24CF8079301C7289BA7A6E979B1ECB473CD17F9D59485056300",
+                  "laankejkbhbdhmipfmgcngdelahlfoji": "F30295470D89182F7B32C2EC90FF799EA472B74263088E3B05E37F773561AC83",
                   "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                   "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                   "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "F8FD0D47223EAAAE882B56671C2492537AF77226B7F40D29EC5A8EE60D4E08EB",
-                  "nckgahadagoaajjgafhacjanaoiihapd": "6D9F5D0EACDC83D13B379952636D87DF9898F01E10B5CF1E95846C98BD2C3F42",
-                  "nmmhkkegccagdldgiimedpiccmgmieda": "331182BCD8E3C52D7C0B805E9676C2928CD4E08FFF8EEBB866B44F7E39BD4672",
+                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "E2118C111759B14B6A3994446DDD19EC4FFB2C1F26D0CA987FB021FADFD5A2B6",
+                  "nckgahadagoaajjgafhacjanaoiihapd": "BBA59EBE354CCDC8358ED75BBB35B3047436C29E38ACAB6CE05E0E25D17EE83F",
+                  "nmmhkkegccagdldgiimedpiccmgmieda": "9A2888ACD2D9464F10D2E84DB88E6659F99D5B65E5E58755578E4D9EAB630833",
                   "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "1F1C45023E7A35E031EDF0D3EF021901B62E177EBB00A17DAC7591CAE62A4349",
-                  "pjkljhegncpnkpknbcohdijeoejaedia": "D07F5952C08920FECA21DFB39183420D02D877134C6E3FD904B05DB24E9E23F2"
+                  "pjkljhegncpnkpknbcohdijeoejaedia": "6CB707C57C0A07EA2ABCB1C002A48A21495B73A3B93532E1457D5957FCA2C502"
                }
             },
             "google": {
@@ -187,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "BC67CC8A9E94CBD900A4FD39A6A874A6D9F95F894794209C0DA71269E3C18433"
+            "/home/dkdk/.config/chromium/Default": "C132FE01D1B011FFEC62E3ADB89359778A178037A3786BE6DB2FA01C461147B1"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -240,7 +240,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1406912191",
+         "last_timestamp_sec": "1406912791",
          "launch_count": 29,
          "launch_time_sec": "1406910691",
          "page_load_count": 0,

@@ -60,8 +60,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13050859639021056",
-         "next_check": "13051386060862508"
+         "last_check": "13051386060877078",
+         "next_check": "13051403982456116"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -137,7 +137,7 @@
 
             },
             "install_time": "13049757205654371",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -196,7 +196,7 @@
 
             },
             "install_time": "13049460112595885",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -259,7 +259,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111377495",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -322,7 +322,7 @@
 
             },
             "install_time": "13049460113322978",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -383,7 +383,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112001210",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -490,7 +490,7 @@
 
             },
             "install_time": "13049460113728114",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -545,7 +545,7 @@
 
             },
             "install_time": "13049460585901235",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -669,7 +669,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460116195381",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -736,7 +736,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111794570",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -803,7 +803,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112971666",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -871,7 +871,7 @@
 
             },
             "install_time": "13049460113454621",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -994,7 +994,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13050570176230067",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -1201,7 +1201,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112362947",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -1258,7 +1258,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049847494314067",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "background": {
@@ -1327,7 +1327,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460074386989",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 10,
             "manifest": {
                "app": {
@@ -1439,7 +1439,7 @@
 
             },
             "install_time": "13049460112830599",
-            "lastpingday": "13050831599260537",
+            "lastpingday": "13051382394111627",
             "location": 1,
             "manifest": {
                "app": {
@@ -1871,7 +1871,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 86,
                   "6": 0
                },
                "supports_spdy": true
@@ -2015,9 +2015,17 @@
                "supports_spdy": true
             },
             "fbcdn-profile-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "fbstatic-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "feeds.feedburner.com:80": {
@@ -3422,7 +3430,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051385834180146",
+      "last_synced_time": "13051386581120092",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
