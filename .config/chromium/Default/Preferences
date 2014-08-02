@@ -21,14 +21,14 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 744,
+         "bottom": 768,
          "left": 28,
          "maximized": true,
          "right": 1308,
-         "top": -24,
-         "work_area_bottom": 1024,
+         "top": 0,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1280,
+         "work_area_right": 1366,
          "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
@@ -61,7 +61,7 @@
       },
       "autoupdate": {
          "last_check": "13051386060877078",
-         "next_check": "13051403982456116"
+         "next_check": "13051471724245647"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1742,6 +1742,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 56,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "calendar.google.com:443": {
@@ -1759,23 +1764,7 @@
             "channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
             },
-            "chart.apis.google.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
-            "chart.googleapis.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
             "chrome.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "ci3.googleusercontent.com:443": {
@@ -1811,6 +1800,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "clients2.google.com:443": {
@@ -1843,6 +1835,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -1943,6 +1940,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "encrypted-tbn2.gstatic.com:443": {
@@ -2001,6 +2001,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -2088,6 +2091,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "images1-hangout-opensocial.googleusercontent.com:443": {
@@ -2169,6 +2177,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2524,6 +2537,32 @@
                   "protocol_str": "quic"
                }
             },
+            "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-780695-i1-v6exp3-v4.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               }
+            },
+            "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-780695-i2-v6exp3-ds.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
+            "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-if-v6exp3-v4.metric.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "p4-dkvawbnyzoply-qy6qqicxrspeeks2-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2721,6 +2760,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "pagead2.googlesyndication.com:80": {
@@ -2858,6 +2900,11 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "spreadsheets.google.com:443": {
@@ -2922,6 +2969,9 @@
                   "port": 443,
                   "protocol_str": "quic"
                },
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "themes.googleusercontent.com:80": {
@@ -2940,6 +2990,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3088,6 +3141,9 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },
@@ -3443,7 +3499,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051387996205540",
+      "last_synced_time": "13051459021624924",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
