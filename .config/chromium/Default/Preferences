@@ -3527,7 +3527,7 @@
       "enabled": false
    },
    "savefile": {
-      "default_directory": "/home/dkdk/android"
+      "default_directory": "/home/dkdk/android/003/src/com/example/hal"
    },
    "selectfile": {
       "last_directory": "/home/dkdk/code/Exercise"
