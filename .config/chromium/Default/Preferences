@@ -1724,6 +1724,15 @@
                "supports_spdy": true
             },
             "ad.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
                "supports_spdy": true
             },
             "ajax.googleapis.com:443": {
@@ -1735,6 +1744,9 @@
                   "5": 32,
                   "6": 0
                },
+               "supports_spdy": true
+            },
+            "api.facebook.com:443": {
                "supports_spdy": true
             },
             "apis.google.com:443": {
@@ -1786,10 +1798,6 @@
                "supports_spdy": true
             },
             "ci6.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "clients1.google.com:443": {
@@ -1817,10 +1825,6 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "clients4.google.com:443": {
@@ -1859,20 +1863,8 @@
                },
                "supports_spdy": true
             },
-            "cm.g.doubleclick.net:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
             "code.angularjs.org:443": {
                "supports_spdy": true
-            },
-            "code.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               }
             },
             "content.googleapis.com:443": {
                "alternate_protocol": {
@@ -2077,6 +2069,18 @@
                   "port": 80,
                   "protocol_str": "quic"
                }
+            },
+            "googleads4.g.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "googleads4.g.doubleclick.net:80": {
                "alternate_protocol": {
@@ -2500,6 +2504,12 @@
                   "protocol_str": "quic"
                }
             },
+            "p4-ccxyinvdmrxai-ovzt6jov62aoebyw-if-v6exp3-v4.metric.gstatic.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "p4-cf5y77oim3wqc-cnzihyn7ytbvsdhm-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2851,6 +2861,9 @@
                   "protocol_str": "quic"
                }
             },
+            "public-api.wordpress.com:443": {
+               "supports_spdy": true
+            },
             "r13---sn-ogueynls.c.pack.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
@@ -2907,6 +2920,18 @@
                   "port": 80,
                   "protocol_str": "quic"
                }
+            },
+            "s0.doubleclick.net:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 36,
+                  "6": 0
+               },
+               "supports_spdy": true
             },
             "s1.2mdn.net:80": {
                "alternate_protocol": {
@@ -3060,7 +3085,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 32,
+                  "5": 38,
                   "6": 0
                },
                "supports_spdy": true
@@ -3563,7 +3588,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051497537246784",
+      "last_synced_time": "13051498178420456",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
