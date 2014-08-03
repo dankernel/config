@@ -1690,6 +1690,12 @@
             "4-channel-proxy-06-ash2.facebook.com:443": {
                "supports_spdy": true
             },
+            "4.bp.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "5-channel-proxy-06-frc1.facebook.com:443": {
                "supports_spdy": true
             },
@@ -1704,6 +1710,18 @@
             },
             "6-channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
+            },
+            "94ioh47ambsoose19no6q65gdjs5tj70-a-blogger-opensocial.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "9dl7h78ivl8smpn7vl3d9mo2g1ajbhaj-a-blogger-opensocial.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
             },
             "accounts.google.co.kr:443": {
                "supports_spdy": true
@@ -1761,6 +1779,18 @@
                },
                "supports_spdy": true
             },
+            "arsviator.blogspot.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "arsviator.blogspot.kr:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "calendar.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1784,6 +1814,12 @@
             },
             "channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
+            },
+            "chart.googleapis.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
             },
             "chrome.google.com:443": {
                "supports_spdy": true
@@ -1867,10 +1903,6 @@
                "supports_spdy": true
             },
             "content.googleapis.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "csi.gstatic.com:443": {
@@ -1894,12 +1926,6 @@
             "cx.atdmt.com:443": {
                "supports_spdy": true
             },
-            "depsky.googlecode.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
             "developer.android.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -1918,30 +1944,10 @@
                   "protocol_str": "quic"
                }
             },
-            "dl.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               }
-            },
             "docs.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
-            "drive.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               }
-            },
             "encrypted-tbn0.gstatic.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "encrypted-tbn1.gstatic.com:443": {
@@ -1957,17 +1963,9 @@
                "supports_spdy": true
             },
             "encrypted-tbn2.gstatic.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "encrypted-tbn3.gstatic.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "supports_spdy": true
             },
             "external.xx.fbcdn.net:443": {
@@ -2161,6 +2159,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -2995,6 +2998,12 @@
                   "protocol_str": "quic"
                }
             },
+            "ss.textcube.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3097,6 +3106,12 @@
             "twitter.com:443": {
                "supports_spdy": true
             },
+            "www-blogger-opensocial.googleusercontent.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "www-gm-opensocial.googleusercontent.com:443": {
                "alternate_protocol": {
                   "port": 443,
@@ -3114,6 +3129,11 @@
                "alternate_protocol": {
                   "port": 443,
                   "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100,
+                  "5": 49,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -3592,7 +3612,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051502333533736",
+      "last_synced_time": "13051502643093835",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
