@@ -1,12 +1,12 @@
 {
    "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1417910974.376665,
+      "expiry": 1417911437.568714,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986478.547828,
       "sts_include_subdomains": false,
-      "sts_observed": 1407024574.376665
+      "sts_observed": 1407025037.568714
    },
    "3YDrgnwwy9l5dtRTrEH3bFZd2CI9f8JuYjdzuVLIX5k=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -91,12 +91,12 @@
    },
    "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1414800574.32474,
+      "expiry": 1414801037.817214,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986513.73998,
       "sts_include_subdomains": false,
-      "sts_observed": 1407024574.32474
+      "sts_observed": 1407025037.817214
    },
    "VgOO6m5x2WOOdzJyxAvIfYkApcVS3oQxwx+D4wSrtYw=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -154,12 +154,12 @@
    },
    "df0sSkr4gOg4VK8d/NNTAWFtAN/MjCgPCJ5ml+ucdZE=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1438560574.835111,
+      "expiry": 1438561038.285856,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986513.926898,
       "sts_include_subdomains": false,
-      "sts_observed": 1407024574.835111
+      "sts_observed": 1407025038.285856
    },
    "kTBZlNzaAygsyUNLLJvF9CS33eqAcPjUb75PGjCOtnM=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -226,11 +226,11 @@
    },
    "zT2yfhXnvFIT0l2WlyrtGvGo8Nad75m8nLqfTnk6/SU=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1438560575.06468,
+      "expiry": 1438561038.127785,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 1404986514.282474,
       "sts_include_subdomains": false,
-      "sts_observed": 1407024575.06468
+      "sts_observed": 1407025038.127785
    }
 }
