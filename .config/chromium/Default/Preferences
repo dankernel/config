@@ -61,7 +61,7 @@
       },
       "autoupdate": {
          "last_check": "13051511107058647",
-         "next_check": "13051593285924478"
+         "next_check": "13052156397975266"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1506,8 +1506,8 @@
          "username": "earotis@gmail.com"
       }
    },
-   "homepage": "http://facebook.com/",
-   "homepage_is_newtabpage": true,
+   "homepage": "https://pod51057.outlook.com/owa/#path=/mail",
+   "homepage_is_newtabpage": false,
    "intl": {
       "accept_languages": "ko-KR,ko,en-US,en"
    },
@@ -1516,7 +1516,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJ2emKyIXLFboR4ElMKePshY4aBwiCLBADGAsSFK8eewBuatL7N1jCWwy3uSj7IeOu",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJZs5CRf+cDY0Rq03v/6Lw8Y8aBwiCLBADGAsSFIzUEz51DaJq6Vlbc47Ty2sJKUFw",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -3179,7 +3179,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 84,
+                  "5": 98,
                   "6": 0
                },
                "supports_spdy": true
@@ -3532,7 +3532,8 @@
                "popups": 1
             },
             "https://[*.]www.facebook.com:443,*": {
-               "fullscreen": 1
+               "fullscreen": 1,
+               "multiple-automatic-downloads": 1
             },
             "https://[*.]www.g-pin.go.kr:443,*": {
                "plugins": 1
@@ -3614,7 +3615,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13051578404795299",
+      "last_synced_time": "13052154588952849",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,

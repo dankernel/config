@@ -1,37 +1,37 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13051497600000000",
-      "last_launch_ping": "13051497600000000",
+      "last_app_launch_ping": "13052102400000000",
+      "last_launch_ping": "13052102400000000",
       "launch_count": 0
    },
    "browser": {
       "last_redirect_origin": ""
    },
    "data_reduction": {
-      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308" ],
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3447496" ],
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3447496" ],
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "last_update_date": "13051551600000000"
+      "last_update_date": "13052070000000000"
    },
    "gl_renderer_string": "Mesa DRI Intel(R) Sandybridge Mobile ",
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2621685964",
-   "http_received_content_length": "2621685964",
+   "http_original_content_length": "2625133460",
+   "http_received_content_length": "2625133460",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1407103845.218365"
+      "promo_resource_cache_update": "1407680606.691718"
    },
    "plugins": {
       "metadata": {
@@ -106,12 +106,12 @@
       "resource_cache_update": "1406333633.8473"
    },
    "policy": {
-      "last_statistics_update": "13051577439660583"
+      "last_statistics_update": "13052154201405766"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1407104762.627996,
+            "active_time": 1407680996.76464,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -122,7 +122,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [  ],
+      "last_active_profiles": [ "Default" ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -171,8 +171,8 @@
                   "last_username": "7BDCBDD372CC3A25D5EE1C7CCAC8DBE081A038F96EC82F8DABFEF80C8EF04E6C"
                }
             },
-            "homepage": "1EB0B7B1A3C356CC932643256FBF999CC548D0C80B070C5EB5890F33333671BE",
-            "homepage_is_newtabpage": "547DD594A200A6C826A149309738E7FAD622F4D7B1B875CD6ECB2E96F2940E21",
+            "homepage": "3E5D1FB0BAAC97799DDBDD686256DAB32E1A506063742DC2C56D508C04E56FE0",
+            "homepage_is_newtabpage": "C77EA32F1872FF78A94FD3CF2AC2625671D07B6EC18468CE474F383FE0BAFEFA",
             "pinned_tabs": "699F1AC92729A024B80605AFC3C63BFB2A35B70C4214581BBE108F851528E9E8",
             "prefs": {
                "preference_reset_time": "95C909F3D0669D5931907B455F099C510E7770D9F0BA6FF13E4C76101B44F757"
@@ -187,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "9F4DBCF425D7E740FBE5085F8D138CE387C620C52BC7B05FDC2E496789F9772F"
+            "/home/dkdk/.config/chromium/Default": "4A9CB2416B4AF2FBA5CA84429FC41B0DA8644409E5D4D7072D99705E6FC3087D"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -226,23 +226,23 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "31"
+      "launch_count": "32"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 30,
+      "session_id": 31,
       "stability": {
-         "breakpad_registration_fail": 31,
+         "breakpad_registration_fail": 32,
          "breakpad_registration_ok": 0,
-         "crash_count": 26,
-         "debugger_not_present": 31,
+         "crash_count": 27,
+         "debugger_not_present": 32,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1407105939",
-         "launch_count": 31,
-         "launch_time_sec": "1407103839",
+         "last_timestamp_sec": "1407680901",
+         "launch_count": 32,
+         "launch_time_sec": "1407680601",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,

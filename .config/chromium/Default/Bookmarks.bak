@@ -1,5 +1,5 @@
 {
-   "checksum": "5836652a4d4ee218e13b30c87002702a",
+   "checksum": "d0c30d0f140f9eb64d272397e4b3fe0a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -230,9 +230,16 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "24",
+      "sync_transaction_version": "25",
       "synced": {
          "children": [ {
+            "date_added": "13051479514430163",
+            "id": "133",
+            "name": "뽐뿌:창업/자영업 - \"절대 망하지 않는 사업을 하는 4가지 방법\"에 대한 제 견해입니다..",
+            "sync_transaction_version": "25",
+            "type": "url",
+            "url": "http://m.ppomppu.co.kr/new/bbs_view.php?id=soho&no=2319"
+         }, {
             "date_added": "13051132944405993",
             "id": "127",
             "name": "뽐뿌:뽐뿌게시판 - [홈플러스] 진로 석수 2L 6병 (현재 1+1...즉 12병!) (4740/3만이상무배)",
@@ -505,7 +512,7 @@
             "url": "http://storefarm.naver.com/1234/products/209229558?NaPm=ct%3Dhvxhnxmo%7Cci%3D497e6f7fdb6fbf31980377306eaadde74e78b302%7Ctr%3Dslsl%7Csn%3D156063%7Cic%3D%7Chk%3D060157c221eab9b0f2068d59f1d2288281090bc2"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13051384303386695",
+         "date_modified": "13051577454088561",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"
