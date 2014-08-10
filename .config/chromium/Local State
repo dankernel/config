@@ -9,10 +9,10 @@
       "last_redirect_origin": ""
    },
    "data_reduction": {
-      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "82706" ],
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "85747" ],
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "82706" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "85747" ],
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
@@ -25,8 +25,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2625226390",
-   "http_received_content_length": "2625226390",
+   "http_original_content_length": "2625229431",
+   "http_received_content_length": "2625229431",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -141,29 +141,29 @@
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
                "settings": {
                   "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
-                  "apdfllckaahabafndbhieahigkjlhalf": "00FE69170F27E51FD6FB0F93DAC8A4357978C71F5E51DE3C12D728C76F64BE37",
-                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "C6917DC08844CA02D77BF99CF54E6A3CCF4CED21646F4B924808CA89A366832F",
-                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "22A41660E11FBEAE4A47BB01C76E8965637944F90A97703F35ACAF9167609389",
-                  "coobgpohoikkiipiblmjeljniedjpjpf": "6C3C98533E816D041AE8954756E5B57796644CD658E4B7C83D2136AFAD8E1148",
-                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "6561E5ACAC4D5E52DAAC80928DF9EF76B32766D6FB8F776ECCAF9DA6C10CEBB6",
+                  "apdfllckaahabafndbhieahigkjlhalf": "BD94F6DEA4E738C553CED41E6CBAD3E3E90A56FD864F9EA4E76551B13FB3FD0F",
+                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "E39DFE1271C796A49259A4C9CA440042D74C4EB19A9D09E7EB2A27AEBEF6DD56",
+                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "3C706CF01ACD2F0C37805E96C80765DFB49C455A056A59939565F005DDA6F839",
+                  "coobgpohoikkiipiblmjeljniedjpjpf": "23994543F30FE7BDB59CFA22F05B3E59B0633F44D392531383767687BBE4F120",
+                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "45344E92305CB727CBE96A7EE2485DA0DBA2FF70986BE99A7F5CD0485FF2356D",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-                  "ejjicmeblgpmajnghnpcppodonldlgfn": "2A4EA8ECA50DF3DC40E7A872B0B01F8AEAFA06C6B99527FCD8B74BB78176E3F1",
-                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "1D03BD79694B59C292D815B5D9E10FA8DA5B6713B0873D0DBBCB9ED8F3DE32E6",
+                  "ejjicmeblgpmajnghnpcppodonldlgfn": "9328111DBDEFCD727ADD8C778B7A15FD8A9CFA2C91599A64E981F6146E5A6F13",
+                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "E5412654565F4E76281400843681B7BF2DDA20C8E2397CDC40681865690A4EEA",
                   "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-                  "fngmhnnpilhplaeedifhccceomclgfbg": "7F26FED2C9F73D2737B1309B04691DA6DB3EA48A7C35FE1AA70BB8613AA923F9",
-                  "hclgegipaehbigmbhdpfapmjadbaldib": "495045AB16ADC23DB37E4E19D038B73AD64149EDC0D65C67346AAF9B13C858E5",
-                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "0936A504409057057DC42B0B2C68B52FFE8F605FE0E1EBC8739EC58D9CDC3086",
-                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "9CD4D97D1CF10B09F198EA87305911EF9C8C9D4A46B57122813AF31AF0E38F8F",
+                  "fngmhnnpilhplaeedifhccceomclgfbg": "C8BCCC6BAF540028D8BF5CC3EF374D00A29EAA6818D88609BE55631C5D82EB43",
+                  "hclgegipaehbigmbhdpfapmjadbaldib": "2128A42B23CCFB99E99319252A8737FC57F3BDE7415BA66FD3EC07F2083971DD",
+                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "61510376EA37C79FB73F0C91CEF9EDAD911AF5FE9B9FC6A3B0F6CD8B3A517C3C",
+                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "E0CEEBFDC55E83EDA468BD0804C4FF0985171A0E61A4DA70AA2E331814A0113C",
                   "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
-                  "laankejkbhbdhmipfmgcngdelahlfoji": "996C2BD1EC9E4011D932D88E377A5996F88FEFB43468732D33DE5FE07C75127C",
+                  "laankejkbhbdhmipfmgcngdelahlfoji": "A14CB9C19258DC38EE1F1B9F6EAEE15F65FF9E5B8471A3B166648C116341E894",
                   "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                   "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                   "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "3FAFB96AFD72C5A972A1AEFCDB8BFD71F216678B36F071D02E48CB0DDACC9285",
-                  "nckgahadagoaajjgafhacjanaoiihapd": "5EC97CBDFD84ACE0A40AF6E26F91EDF4A002857C627AF4F702C22F4527F65226",
-                  "nmmhkkegccagdldgiimedpiccmgmieda": "213B43B5FC524E674CFD93622FAF9C2AAE7AF038A1FABE9FFC156BFEB4190CB2",
+                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "4072B57145644EBB86EE5CD5913ABB7E979041637B738ED224C4106B0801DC90",
+                  "nckgahadagoaajjgafhacjanaoiihapd": "D7F88E183C9DD8D58DD30E824753DBC87E6538C5A720D01AD9D1B753395556C8",
+                  "nmmhkkegccagdldgiimedpiccmgmieda": "D59A82D6A8BE9975125D92BDDE673928109F0A06D99B3E9FE9855A1DE06BF66C",
                   "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "1F1C45023E7A35E031EDF0D3EF021901B62E177EBB00A17DAC7591CAE62A4349",
-                  "pjkljhegncpnkpknbcohdijeoejaedia": "D75CFD9E228E51ED1A3A245CC8D68C95F2645E3084F7B28649D97BE9914CAF69"
+                  "pjkljhegncpnkpknbcohdijeoejaedia": "2F2E48B4276009C685631C75B480AC6BC7EB2906165C707993174315F8D68653"
                }
             },
             "google": {
@@ -187,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "2433BDE0E306D012692CEAD801EB014D7C02858E67208B2D94ADC872C7D7F982"
+            "/home/dkdk/.config/chromium/Default": "D53852A249A49BAAF38174FECFA4B30E4C35D858E1B5D7F7E9956FAB339B945C"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -240,7 +240,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1407698901",
+         "last_timestamp_sec": "1407699501",
          "launch_count": 32,
          "launch_time_sec": "1407680601",
          "page_load_count": 0,
