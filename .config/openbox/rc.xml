@@ -207,7 +207,8 @@
   <!-- Terminal -->
   <keybind key="Super-t">
     <action name="Execute">
-      <command>terminator --geometry=1130x750</command>
+      <!--command --> <!--terminator geometry=1130x750--> <!-- /command -->
+      <command>tilda</command>
     </action>
   </keybind>
 
