@@ -1,37 +1,37 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13052102400000000",
-      "last_launch_ping": "13052102400000000",
+      "last_app_launch_ping": "13052707200000000",
+      "last_launch_ping": "13052707200000000",
       "launch_count": 0
    },
    "browser": {
       "last_redirect_origin": ""
    },
    "data_reduction": {
-      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505" ],
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2138094" ],
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2138094" ],
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "last_update_date": "13052156400000000"
+      "last_update_date": "13052674800000000"
    },
    "gl_renderer_string": "Mesa DRI Intel(R) Sandybridge Mobile ",
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2625230189",
-   "http_received_content_length": "2625230189",
+   "http_original_content_length": "2627368283",
+   "http_received_content_length": "2627368283",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
    "ntp": {
-      "promo_resource_cache_update": "1407680606.691718"
+      "promo_resource_cache_update": "1408236469.582727"
    },
    "plugins": {
       "metadata": {
@@ -106,12 +106,12 @@
       "resource_cache_update": "1406333633.8473"
    },
    "policy": {
-      "last_statistics_update": "13052154201405766"
+      "last_statistics_update": "13052710064581531"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1407682690.906909,
+            "active_time": 1408236487.820502,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -122,7 +122,7 @@
             "user_name": "earotis@gmail.com"
          }
       },
-      "last_active_profiles": [ "Default" ],
+      "last_active_profiles": [  ],
       "last_used": "Default",
       "preference_hashes": {
          "/home/dkdk/.config/chromium/Default": {
@@ -141,29 +141,29 @@
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
                "settings": {
                   "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
-                  "apdfllckaahabafndbhieahigkjlhalf": "BD94F6DEA4E738C553CED41E6CBAD3E3E90A56FD864F9EA4E76551B13FB3FD0F",
-                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "E39DFE1271C796A49259A4C9CA440042D74C4EB19A9D09E7EB2A27AEBEF6DD56",
-                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "3C706CF01ACD2F0C37805E96C80765DFB49C455A056A59939565F005DDA6F839",
-                  "coobgpohoikkiipiblmjeljniedjpjpf": "23994543F30FE7BDB59CFA22F05B3E59B0633F44D392531383767687BBE4F120",
-                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "45344E92305CB727CBE96A7EE2485DA0DBA2FF70986BE99A7F5CD0485FF2356D",
+                  "apdfllckaahabafndbhieahigkjlhalf": "28F37B582FB1DB091BEB4D27A47EAFB349657B697FA084ECBCFDAEE003B92D7E",
+                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "E03EF502F930ABFB2092D4BAE63114690B9002589CEE031EA7F2577518FAB054",
+                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "A242D848988C43EF8FB86D53CA6CE07EBA5167528CBB83C8689E9FE9DADD5F6D",
+                  "coobgpohoikkiipiblmjeljniedjpjpf": "C655FEC6A381626EE21965EE67CABB49D4F4ED554DF76F79849664D90902F85D",
+                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "B13C37E67389CD2EC97457D27CB501C106A385BDD910F86677CAA39A69655F2B",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-                  "ejjicmeblgpmajnghnpcppodonldlgfn": "9328111DBDEFCD727ADD8C778B7A15FD8A9CFA2C91599A64E981F6146E5A6F13",
-                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "E5412654565F4E76281400843681B7BF2DDA20C8E2397CDC40681865690A4EEA",
+                  "ejjicmeblgpmajnghnpcppodonldlgfn": "83C73269846A0D9C5F7AA3FD0E14448654D31F30D6C451F7116E7B3F9935E0C6",
+                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "EFC13F18CF8D9C3476609071849FB2BD4F187FA452D4043F433F7A51FB14DE28",
                   "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-                  "fngmhnnpilhplaeedifhccceomclgfbg": "C8BCCC6BAF540028D8BF5CC3EF374D00A29EAA6818D88609BE55631C5D82EB43",
-                  "hclgegipaehbigmbhdpfapmjadbaldib": "2128A42B23CCFB99E99319252A8737FC57F3BDE7415BA66FD3EC07F2083971DD",
-                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "61510376EA37C79FB73F0C91CEF9EDAD911AF5FE9B9FC6A3B0F6CD8B3A517C3C",
-                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "E0CEEBFDC55E83EDA468BD0804C4FF0985171A0E61A4DA70AA2E331814A0113C",
+                  "fngmhnnpilhplaeedifhccceomclgfbg": "692B501ABC3D4F641554DCCCF78479B3D1A15AF3D0DF87A688068122A8441898",
+                  "hclgegipaehbigmbhdpfapmjadbaldib": "598AC8F9ED162D3E4ED413142664D3D532DB45A66CEF3E97E7546DA68812D0F3",
+                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "BAF6DF3344BA93F63D228E2388EE33539CEAC36E28933A1102EA5FDD1B002570",
+                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "E2241A948D0CFFF146F0EFAD38BA9218963C762BFD26E5D138D890FCA669C6A7",
                   "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
-                  "laankejkbhbdhmipfmgcngdelahlfoji": "A14CB9C19258DC38EE1F1B9F6EAEE15F65FF9E5B8471A3B166648C116341E894",
+                  "laankejkbhbdhmipfmgcngdelahlfoji": "C6B5E8BB97BB70804A20F52F6E4964AA435F2F310A3C6412C22507D6D3657AD3",
                   "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                   "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                   "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "4072B57145644EBB86EE5CD5913ABB7E979041637B738ED224C4106B0801DC90",
-                  "nckgahadagoaajjgafhacjanaoiihapd": "D7F88E183C9DD8D58DD30E824753DBC87E6538C5A720D01AD9D1B753395556C8",
-                  "nmmhkkegccagdldgiimedpiccmgmieda": "D59A82D6A8BE9975125D92BDDE673928109F0A06D99B3E9FE9855A1DE06BF66C",
+                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "C282B6183AFE4080AF80BA67AA28F5F8FB3ABE4B59F2C3EFA0195AA7DA50BD3F",
+                  "nckgahadagoaajjgafhacjanaoiihapd": "40603058BCA92190BF7F8559EFECFB9EAB8458FDDC5490C9DA69FA71EF3E046B",
+                  "nmmhkkegccagdldgiimedpiccmgmieda": "C1BFCEB0F1BD8EEAA1C88B2D5C4B6E440139384D15A2A1D925A4FC22F868E23E",
                   "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "1F1C45023E7A35E031EDF0D3EF021901B62E177EBB00A17DAC7591CAE62A4349",
-                  "pjkljhegncpnkpknbcohdijeoejaedia": "2F2E48B4276009C685631C75B480AC6BC7EB2906165C707993174315F8D68653"
+                  "pjkljhegncpnkpknbcohdijeoejaedia": "315ADC9262D2B62E383917D02617A095AD04FA55090EB282E2942D87F4D7620A"
                }
             },
             "google": {
@@ -187,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "D53852A249A49BAAF38174FECFA4B30E4C35D858E1B5D7F7E9956FAB339B945C"
+            "/home/dkdk/.config/chromium/Default": "CBDBD6AFA429F5C636D73479B866E9BDADCE2AB1FA754E38C13F723F5621852F"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -226,30 +226,30 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "32"
+      "launch_count": "33"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 31,
+      "session_id": 32,
       "stability": {
-         "breakpad_registration_fail": 32,
+         "breakpad_registration_fail": 33,
          "breakpad_registration_ok": 0,
-         "crash_count": 27,
-         "debugger_not_present": 32,
+         "crash_count": 28,
+         "debugger_not_present": 33,
          "debugger_present": 0,
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
          "last_timestamp_sec": "1407699501",
-         "launch_count": 32,
-         "launch_time_sec": "1407680601",
+         "launch_count": 33,
+         "launch_time_sec": "1408236464",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
          "session_end_completed": true,
-         "stats_buildtime": "1405598799",
-         "stats_version": "36.0.1985.125-64-devel"
+         "stats_buildtime": "1407891623",
+         "stats_version": "36.0.1985.143-64-devel"
       }
    },
    "was": {
