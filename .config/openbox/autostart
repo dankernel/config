@@ -1,6 +1,5 @@
 xmodmap ~/.Xmodmap &
 nabi &
-conky &
 
 #terminal
 #terminator --geometry=1130x750 -T main &

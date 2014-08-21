@@ -20,6 +20,7 @@ alias v='vim'
 alias vv='vim main.c'
 alias p='ping google.com'
 alias config='gnome-control-center'
+alias conky='/home/dkdk/sh/conky/conky.sh'
 
 # System
 alias port='netstat -an | grep "LISTEN "'
