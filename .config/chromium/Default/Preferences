@@ -21,15 +21,15 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 768,
-         "left": 28,
+         "bottom": 1004,
+         "left": 260,
          "maximized": true,
-         "right": 1308,
-         "top": 0,
-         "work_area_bottom": 768,
-         "work_area_left": 0,
-         "work_area_right": 1366,
-         "work_area_top": 0
+         "right": 1310,
+         "top": 256,
+         "work_area_bottom": 1024,
+         "work_area_left": 1280,
+         "work_area_right": 2646,
+         "work_area_top": 256
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
          "bottom": 430,
@@ -61,7 +61,7 @@
       },
       "autoupdate": {
          "last_check": "13052712265195768",
-         "next_check": "13052729242707835"
+         "next_check": "13053202792136380"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1252,62 +1252,12 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
-            "idle_install_info": {
-               "creation_flags": 9,
-               "delay_install_reason": 2,
-               "from_bookmark": false,
-               "from_webstore": true,
-               "install_time": "13052710078806041",
-               "location": 1,
-               "manifest": {
-                  "background": {
-                     "scripts": [ "scripts/extension.js" ]
-                  },
-                  "browser_action": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     },
-                     "default_title": "행아웃"
-                  },
-                  "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
-                  "current_locale": "ko",
-                  "default_locale": "en",
-                  "description": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다.",
-                  "externally_connectable": {
-                     "matches": [ "https://*.google.com/*" ]
-                  },
-                  "icons": {
-                     "128": "images_3/icon-128x128.png",
-                     "48": "images_3/icon-48x48.png"
-                  },
-                  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
-                  "manifest_version": 2,
-                  "minimum_chrome_version": "26.0.0.0",
-                  "name": "행아웃",
-                  "options_page": "settingsdialog.html",
-                  "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
-                  "system_indicator": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     }
-                  },
-                  "update_url": "https://clients2.google.com/service/update2/crx",
-                  "version": "2014.730.433.1",
-                  "web_accessible_resources": [ "*" ]
-               },
-               "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.1_0",
-               "state": 1,
-               "was_installed_by_default": false,
-               "was_installed_by_oem": false
-            },
             "incognito_content_settings": [  ],
             "incognito_preferences": {
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13049847494314067",
+            "install_time": "13053201341016003",
             "lastpingday": "13052678384424454",
             "location": 1,
             "manifest": {
@@ -1345,10 +1295,10 @@
                   }
                },
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2014.710.434.3",
+               "version": "2014.730.433.1",
                "web_accessible_resources": [ "*" ]
             },
-            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.710.434.3_0",
+            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.1_0",
             "preferences": {
 
             },
@@ -1566,7 +1516,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJa75l4loxXJARN0kvDWBaUhgaBwiCLBADGAsSFEOiaymkNuIN4n1R43ATCMfzYAh4",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJpYurPeWamK0RGkDWp156+l4aBwiCLBADGAsSFIyG2hqhkHOTj9mI9a6buSYsqZ5y",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -1807,17 +1757,7 @@
                },
                "supports_spdy": true
             },
-            "arsviator.blogspot.kr:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
-            },
             "calendar.google.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100,
                   "5": 32,
@@ -1836,12 +1776,6 @@
             },
             "channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
-            },
-            "chart.googleapis.com:80": {
-               "alternate_protocol": {
-                  "port": 80,
-                  "protocol_str": "quic"
-               }
             },
             "chrome.google.com:443": {
                "supports_spdy": true
@@ -2136,6 +2070,12 @@
                   "protocol_str": "quic"
                },
                "supports_spdy": true
+            },
+            "i.ytimg.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
             },
             "i1.ytimg.com:443": {
                "alternate_protocol": {
@@ -2932,7 +2872,19 @@
                   "protocol_str": "quic"
                }
             },
+            "r15---sn-i3b7sney.googlevideo.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
             "r2---sn-n3cgv5qc5oq-bh2e7.googlevideo.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               }
+            },
+            "r6---sn-a5m7zu7l.googlevideo.com:80": {
                "alternate_protocol": {
                   "port": 80,
                   "protocol_str": "quic"
@@ -3413,6 +3365,9 @@
             "[*.]fefe7270.blogspot.kr,*": {
                "fullscreen": 1
             },
+            "[*.]gem5.org,*": {
+               "fullscreen": 1
+            },
             "[*.]gw.earotis.cafe24.com,*": {
                "popups": 1
             },
@@ -3668,7 +3623,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13052712261898888",
+      "last_synced_time": "13053201584198152",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
