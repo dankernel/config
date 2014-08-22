@@ -1,5 +1,5 @@
 {
-   "checksum": "b5f23aa183c5da30b8c0763849ad3521",
+   "checksum": "e838bd0d70cc4c564433c97706fbab64",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -230,7 +230,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "26",
+      "sync_transaction_version": "27",
       "synced": {
          "children": [ {
             "date_added": "13052255006136156",
@@ -517,9 +517,16 @@
             "name": "런닝맨/커플 반바지 7부배기 반팔 민소매 후드짚업 트레이닝복 팬츠 세트 팬츠 바지 빅사이즈/밴드/슬림/카고/무지/자수/프린팅/로고/ 남성 남자 여성 여자 단체복 츄리닝 운동복, 런닝맨 : 스토",
             "type": "url",
             "url": "http://storefarm.naver.com/1234/products/209229558?NaPm=ct%3Dhvxhnxmo%7Cci%3D497e6f7fdb6fbf31980377306eaadde74e78b302%7Ctr%3Dslsl%7Csn%3D156063%7Cic%3D%7Chk%3D060157c221eab9b0f2068d59f1d2288281090bc2"
+         }, {
+            "date_added": "13052977567524579",
+            "id": "135",
+            "name": "www.gbis.go.kr/timetable/8101.htm",
+            "sync_transaction_version": "27",
+            "type": "url",
+            "url": "http://www.gbis.go.kr/timetable/8101.htm"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13052710076383258",
+         "date_modified": "13052977567524579",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"
