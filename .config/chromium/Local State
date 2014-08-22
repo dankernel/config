@@ -9,10 +9,10 @@
       "last_redirect_origin": ""
    },
    "data_reduction": {
-      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2203454", "0", "0", "0", "0", "0", "174278079" ],
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2203454", "0", "0", "0", "0", "0", "174939958" ],
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2203454", "0", "0", "0", "0", "0", "174278079" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1226236", "161398", "0", "0", "0", "0", "0", "18574460", "31584971", "239308", "0", "0", "0", "0", "0", "3457720", "86505", "0", "0", "0", "0", "0", "2203454", "0", "0", "0", "0", "0", "174939958" ],
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
@@ -25,8 +25,8 @@
    "gl_vendor_string": "Intel Open Source Technology Center",
    "gl_version_string": "3.0 Mesa 10.2.3",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "2801711722",
-   "http_received_content_length": "2801711722",
+   "http_original_content_length": "2802373601",
+   "http_received_content_length": "2802373601",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -111,7 +111,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1408729082.87868,
+            "active_time": 1408729784.574397,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": true,
             "is_ephemeral": false,
@@ -141,29 +141,29 @@
                "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
                "settings": {
                   "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
-                  "apdfllckaahabafndbhieahigkjlhalf": "28F37B582FB1DB091BEB4D27A47EAFB349657B697FA084ECBCFDAEE003B92D7E",
-                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "E03EF502F930ABFB2092D4BAE63114690B9002589CEE031EA7F2577518FAB054",
-                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "A242D848988C43EF8FB86D53CA6CE07EBA5167528CBB83C8689E9FE9DADD5F6D",
-                  "coobgpohoikkiipiblmjeljniedjpjpf": "C655FEC6A381626EE21965EE67CABB49D4F4ED554DF76F79849664D90902F85D",
-                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "B13C37E67389CD2EC97457D27CB501C106A385BDD910F86677CAA39A69655F2B",
+                  "apdfllckaahabafndbhieahigkjlhalf": "75762C9F72CD7A79CDDCDC7C37A0F46787332E24009A77C4C4815415F3371EE5",
+                  "blpcfgokakmgnkcojhhkbfbldkacnbeo": "B8468CA736390C407FC9AEB4D40DE5973BAEEFD53CDCB707F25485296AC027C8",
+                  "cecdfgmilkpnjgfjnjeimlmkdldklomb": "1B2ED3B30D3D5C916F08188FAD8AD05A6399965709B38C852C117D4B8BA0CD8E",
+                  "coobgpohoikkiipiblmjeljniedjpjpf": "E1B58216CCC84A6C747A5F94A6E18B4B248213E4F256307B8A2AEEF73365271F",
+                  "djflhoibgkdhkhhcedjiklpkjnoahfmg": "1ACC49D673CD7C06DCFE2D5B6027CE0093E31FBD19B889C24211F043C6375DFC",
                   "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-                  "ejjicmeblgpmajnghnpcppodonldlgfn": "83C73269846A0D9C5F7AA3FD0E14448654D31F30D6C451F7116E7B3F9935E0C6",
-                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "EFC13F18CF8D9C3476609071849FB2BD4F187FA452D4043F433F7A51FB14DE28",
+                  "ejjicmeblgpmajnghnpcppodonldlgfn": "E54BDF7840D5D600A9640839ADB9A7BD17E8D97BB814B9E265EEEC06C4D9828D",
+                  "eknaeafjfoolijbnnkmmjfecekhnnjnf": "2447432F5BBE8609BB050F2FFA83BB6AA97D87B03D53AC57B0627DB09444DBFE",
                   "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-                  "fngmhnnpilhplaeedifhccceomclgfbg": "692B501ABC3D4F641554DCCCF78479B3D1A15AF3D0DF87A688068122A8441898",
-                  "hclgegipaehbigmbhdpfapmjadbaldib": "598AC8F9ED162D3E4ED413142664D3D532DB45A66CEF3E97E7546DA68812D0F3",
-                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "BAF6DF3344BA93F63D228E2388EE33539CEAC36E28933A1102EA5FDD1B002570",
-                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "E2241A948D0CFFF146F0EFAD38BA9218963C762BFD26E5D138D890FCA669C6A7",
+                  "fngmhnnpilhplaeedifhccceomclgfbg": "8D6C27AB6D7B6711490973FF4F174D163A44787BA953BB8D10A9C11822B0EFBD",
+                  "hclgegipaehbigmbhdpfapmjadbaldib": "9F952926EDCA58C7DDBD86C2954004D3308D143C5BB147970C50502C802BCEC1",
+                  "hompjdfbfmmmgflfjdlnkohcplmboaeo": "45AE400F997E515DE2D318EA9A014B926CDDE6486EB5D61C968D90653020589C",
+                  "kcbmakmdbnehgbakmgibcpjpafenmohd": "6A4880988908C3D62442B5417DDBC791A302EB5CFAEAE6C0FB2A7B3A793DE9C9",
                   "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
-                  "laankejkbhbdhmipfmgcngdelahlfoji": "C6B5E8BB97BB70804A20F52F6E4964AA435F2F310A3C6412C22507D6D3657AD3",
+                  "laankejkbhbdhmipfmgcngdelahlfoji": "880EFE693020C1BB9083B2279C86DC18B97EFD6BD80692C739F64B2F77DF10F3",
                   "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                   "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                   "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "C282B6183AFE4080AF80BA67AA28F5F8FB3ABE4B59F2C3EFA0195AA7DA50BD3F",
-                  "nckgahadagoaajjgafhacjanaoiihapd": "8291269DFBB575CF422F29E28D05D347D80C28A5B2FB9E97579481106115898A",
-                  "nmmhkkegccagdldgiimedpiccmgmieda": "C1BFCEB0F1BD8EEAA1C88B2D5C4B6E440139384D15A2A1D925A4FC22F868E23E",
+                  "molncoemjfmpgdkbdlbjmhlcgniigdnf": "D6B753FC2F737BA6E7418CF24889E393FD90C6A01D9732F1856CEFBB17117726",
+                  "nckgahadagoaajjgafhacjanaoiihapd": "04973C2D17D173C004300F6D45D9750FF128134A30C7AA5BBF96EC28F8050DB7",
+                  "nmmhkkegccagdldgiimedpiccmgmieda": "26468BDB2B2EF0CB42DBE6DAF0AC038893A511C289EDCA14C8D45122897ECAC3",
                   "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "1F1C45023E7A35E031EDF0D3EF021901B62E177EBB00A17DAC7591CAE62A4349",
-                  "pjkljhegncpnkpknbcohdijeoejaedia": "315ADC9262D2B62E383917D02617A095AD04FA55090EB282E2942D87F4D7620A"
+                  "pjkljhegncpnkpknbcohdijeoejaedia": "EF796008EC1158719275087F0D589489C1281CA9D1E142B5BE2F3503E461D291"
                }
             },
             "google": {
@@ -187,7 +187,7 @@
             }
          },
          "hash_of_hashes": {
-            "/home/dkdk/.config/chromium/Default": "9D961BC7762805AA987A438CF9E56B153D1CDE573DC19B0C2E2679DFFC2B5991"
+            "/home/dkdk/.config/chromium/Default": "84ADB550F95DFE88A6A9A24E08047E84AE1654E1462414CB61330A0C6A4C6E0A"
          },
          "store_versions": {
             "/home/dkdk/.config/chromium/Default": 2
@@ -240,7 +240,7 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1408728938",
+         "last_timestamp_sec": "1408729538",
          "launch_count": 34,
          "launch_time_sec": "1408727738",
          "page_load_count": 0,
