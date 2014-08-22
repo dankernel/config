@@ -21,15 +21,15 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 1004,
-         "left": 260,
+         "bottom": 1024,
+         "left": 1280,
          "maximized": true,
-         "right": 1310,
+         "right": 2646,
          "top": 256,
          "work_area_bottom": 1024,
-         "work_area_left": 1280,
-         "work_area_right": 2646,
-         "work_area_top": 256
+         "work_area_left": 0,
+         "work_area_right": 1280,
+         "work_area_top": 0
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
          "bottom": 430,
@@ -2894,7 +2894,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 159,
+                  "5": 100,
                   "6": 0
                },
                "supports_spdy": true
