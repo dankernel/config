@@ -340,14 +340,14 @@
     </action>
   </keybind>
 
-  <!-- Keybindings for running applications -->
+  <!-- gnome-commander for running applications -->
   <keybind key="W-e">
     <action name="Execute">
       <startupnotify>
         <enabled>true</enabled>
-        <name>Konqueror</name>
+        <name>gnome-commander</name>
       </startupnotify>
-      <command>kfmclient openProfile filemanagement</command>
+      <command>gnome-commander</command>
     </action>
   </keybind>
 </keyboard>
