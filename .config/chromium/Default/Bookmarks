@@ -230,7 +230,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "27",
+      "sync_transaction_version": "28",
       "synced": {
          "children": [ {
             "date_added": "13052255006136156",
@@ -437,6 +437,7 @@
             "date_added": "13004424033760971",
             "id": "34",
             "name": "VentureSquare",
+            "sync_transaction_version": "28",
             "type": "url",
             "url": "http://www.venturesquare.net/"
          }, {
@@ -526,7 +527,7 @@
             "url": "http://www.gbis.go.kr/timetable/8101.htm"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13052977567524579",
+         "date_modified": "13054054739082195",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"
