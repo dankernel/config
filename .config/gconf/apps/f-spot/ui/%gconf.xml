@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="filmstrip_orientation" mtime="1409594924" type="int" value="0"/>
+	<entry name="tag_icon_size" mtime="1409594923" type="int" value="24"/>
+</gconf>
