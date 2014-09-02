@@ -1,4 +1,4 @@
 */10 * * * * /home/dkdk/sh/git/git_config.sh
 */10 * * * * /home/dkdk/sh/git/git_code.sh
 */10 * * * * /home/dkdk/sh/git/git_kernel.sh
-*/10 * * * * su - root rdate -s time.bora.net
+*/10 * * * * rdate -s time.bora.net
