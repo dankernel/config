@@ -38,6 +38,7 @@ alias uu='cd ../../'
 # Sheel
 alias mkp='. ~/sh/mk_project.sh'
 alias backup='. ~/sh/backup.sh'
+alias con='. ~/sh/network.sh'
 
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
