@@ -27,9 +27,9 @@
          "right": 2656,
          "top": 266,
          "work_area_bottom": 1024,
-         "work_area_left": 0,
-         "work_area_right": 1280,
-         "work_area_top": 0
+         "work_area_left": 1280,
+         "work_area_right": 2646,
+         "work_area_top": 256
       },
       "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
          "bottom": 430,
@@ -60,7 +60,7 @@
       },
       "autoupdate": {
          "last_check": "13054056071603496",
-         "next_check": "13054280109137218"
+         "next_check": "13054931234565621"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1241,8 +1241,12 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
+            "commands": {
+
+            },
             "content_settings": [  ],
             "creation_flags": 9,
+            "ephemeral_app": false,
             "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
@@ -1251,63 +1255,12 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
-            "idle_install_info": {
-               "creation_flags": 9,
-               "delay_install_reason": 2,
-               "ephemeral_app": false,
-               "from_bookmark": false,
-               "from_webstore": true,
-               "install_time": "13054266818608393",
-               "location": 1,
-               "manifest": {
-                  "background": {
-                     "scripts": [ "scripts/extension.js" ]
-                  },
-                  "browser_action": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     },
-                     "default_title": "행아웃"
-                  },
-                  "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
-                  "current_locale": "ko",
-                  "default_locale": "en",
-                  "description": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다.",
-                  "externally_connectable": {
-                     "matches": [ "https://*.google.com/*" ]
-                  },
-                  "icons": {
-                     "128": "images_3/icon-128x128.png",
-                     "48": "images_3/icon-48x48.png"
-                  },
-                  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
-                  "manifest_version": 2,
-                  "minimum_chrome_version": "26.0.0.0",
-                  "name": "행아웃",
-                  "options_page": "settingsdialog.html",
-                  "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
-                  "system_indicator": {
-                     "default_icon": {
-                        "19": "images_3/presence/offline_19.png",
-                        "38": "images_3/presence/offline_38.png"
-                     }
-                  },
-                  "update_url": "https://clients2.google.com/service/update2/crx",
-                  "version": "2014.730.433.2",
-                  "web_accessible_resources": [ "*" ]
-               },
-               "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.2_0",
-               "state": 1,
-               "was_installed_by_default": false,
-               "was_installed_by_oem": false
-            },
             "incognito_content_settings": [  ],
             "incognito_preferences": {
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13053201341016003",
+            "install_time": "13054929705221046",
             "lastpingday": "13054201200247896",
             "location": 1,
             "manifest": {
@@ -1345,10 +1298,10 @@
                   }
                },
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2014.730.433.1",
+               "version": "2014.730.433.2",
                "web_accessible_resources": [ "*" ]
             },
-            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.1_0",
+            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.2_0",
             "preferences": {
 
             },
@@ -1563,7 +1516,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJpruFiibza7sRjEnrsKbAanIaBwiCLBADGAsSFOEGR6Hf9vEaRyvx/+J6guRT4C96",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJElLbIHqH64QRDEiN+nomlvUaBwiCLBADGAsSFKIxxcPHG2jGnhi0rKjETREkF8Ki",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -1799,12 +1752,16 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 86,
+                  "5": 61,
                   "6": 0
                },
                "supports_spdy": true
             },
             "calendar.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
                   "5": 32,
@@ -1840,6 +1797,10 @@
                "supports_spdy": true
             },
             "clients1.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
                   "5": 32,
@@ -1860,10 +1821,6 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100,
                   "5": 127,
@@ -1963,6 +1920,13 @@
                "supports_spdy": true
             },
             "external.xx.fbcdn.net:443": {
+               "supports_spdy": true
+            },
+            "fbcdn-dragon-a.akamaihd.net:443": {
+               "settings": {
+                  "4": 20,
+                  "7": 65536
+               },
                "supports_spdy": true
             },
             "fbcdn-photos-a-a.akamaihd.net:443": {
@@ -2193,6 +2157,10 @@
                }
             },
             "lh4.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
                   "5": 32,
@@ -2243,7 +2211,7 @@
                },
                "settings": {
                   "4": 10,
-                  "5": 100,
+                  "5": 211,
                   "6": 0
                },
                "supports_spdy": true
@@ -2879,7 +2847,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 123,
+                  "5": 245,
                   "6": 0
                },
                "supports_spdy": true
@@ -3179,7 +3147,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 95,
+                  "5": 99,
                   "6": 0
                },
                "supports_spdy": true
@@ -3197,7 +3165,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 100,
+                  "5": 119,
                   "6": 0
                },
                "supports_spdy": true
@@ -3257,7 +3225,7 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 35,
+                  "5": 56,
                   "6": 0
                },
                "supports_spdy": true
@@ -3628,7 +3596,7 @@
                "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
                "molncoemjfmpgdkbdlbjmhlcgniigdnf": "E4F492FFF1D5F9EAB23FD85300F80402878A82E0D01D6AD2335B68419DB0CB1C",
-               "nckgahadagoaajjgafhacjanaoiihapd": "E5E41D00EED7750ACC8F89E8DD10B832BBEB9E79CC393A898F8901F196DF6F04",
+               "nckgahadagoaajjgafhacjanaoiihapd": "0043AA5C1247EB3CEFE677DAD99E9EDAD2041528706F9D4B711D4B9080A6B49F",
                "nmmhkkegccagdldgiimedpiccmgmieda": "AFC2BB7783DA97AC8234376394ECF64DDA12E5C257CD51F2FC8CBFE8332E13C2",
                "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "40FC3B9CBA49895F3D5CA1FA96CD225A168841796C2DB3DB224A64D1E460E0A9",
                "pjkljhegncpnkpknbcohdijeoejaedia": "21286E97C9B79A7BF61817324E68B582282A145D4F403F204FFC84E55E25D79E"
@@ -3693,7 +3661,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13054267012893825",
+      "last_synced_time": "13054930187516487",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
