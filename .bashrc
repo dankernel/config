@@ -40,6 +40,9 @@ alias mkp='. ~/sh/mk_project.sh'
 alias backup='. ~/sh/backup.sh'
 alias con='. ~/sh/network.sh'
 
+# Etc
+alias dkh='cp -r /home/dkdk/code/dkh ./'
+
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
