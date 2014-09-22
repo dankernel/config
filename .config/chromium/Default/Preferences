@@ -50,6 +50,10 @@
       "id": "2",
       "synced_guid": "E9EB31B0-37B2-4B09-BC05-669B3ED211A2"
    },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://facebook.com/", [ "http://www.facebook.com/", 1.4577136633659602, "https://www.facebook.com/", 1.4577136633659602 ] ], [ "http://google.com/", [ "http://www.google.co.kr/", 1.4577136633659602, "https://www.google.co.kr/", 1.4577136633659602 ] ], [ "http://mail.google.com/", [ "https://mail.google.com/", 2.2086570657060003 ] ], [ "https://accounts.google.com/", [ "https://apis.google.com/", 1.3168958237296258, "https://oauth.googleusercontent.com/", 1.3168958237296258, "https://ssl.gstatic.com/", 1.1050912743516657, "https://static.image2play.com/", 1.1738955671994935 ] ], [ "https://clients5.google.com/", [ "https://accounts.google.com/", 0.9620910178215336, "https://clients5.google.com/", 1.6346025536949473, "https://googleads.g.doubleclick.net/", 1.45771366336596, "https://static.image2play.com/", 1.4948115511054936, "https://www.google.com/", 0.9620910178215336 ] ], [ "https://clients6.google.com/", [ "https://apis.google.com/", 1.3168958237296258, "https://clients6.google.com/", 8.929537556773615, "https://static.image2play.com/", 0.9620910178215337 ] ], [ "https://fbstatic-a.akamaihd.net/", [ "https://fbstatic-a.akamaihd.net/", 2.529573049612 ] ], [ "https://mail.google.com/", [ "https://accounts.google.com/", 1.4577136633659602, "https://apis.google.com/", 2.09312731149984, "https://clients2.google.com/", 1.4577136633659602, "https://clients5.google.com/", 1.4577136633659602, "https://clients6.google.com/", 1.4577136633659602, "https://mail.google.com/", 6.964631947192919, "https://plus.google.com/", 1.6695182127439199, "https://ssl.gstatic.com/", 6.117413749681078, "https://static.image2play.com/", 2.3049318608777996, "https://www.google.com/", 1.4577136633659602 ] ], [ "https://plus.google.com/", [ "https://apis.google.com/", 0.12355207922841292, "https://plus.google.com/", 1.176041033348187, "https://ssl.gstatic.com/", 0.19830765830000496, "https://static.image2play.com/", 0.5086503835581125 ] ], [ "https://sts.dankook.ac.kr/", [ "https://static.image2play.com/", 2.2086570657060003, "https://sts.dankook.ac.kr/", 5.417816904765999 ] ], [ "https://talkgadget.google.com/", [ "https://accounts.google.com/", 0.8416691090720995, "https://apis.google.com/", 1.3251443315091047, "https://clients6.google.com/", 0.8416691090720995, "https://lh4.googleusercontent.com/", 2.3049318608777996, "https://lh6.googleusercontent.com/", 1.88132276212188, "https://plus.google.com/", 1.3251443315091047, "https://ssl.gstatic.com/", 2.5908561157087915, "https://static.image2play.com/", 0.7272421334712517, "https://talkgadget.google.com/", 6.882456753654004 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-dragon-a.akamaihd.net/", 3.1714050174239996, "https://fbstatic-a.akamaihd.net/", 7.985144776013998 ] ], [ "https://www.google.co.kr/", [ "https://apis.google.com/", 2.2086570657060003, "https://clients5.google.com/", 2.2086570657060003, "https://lh5.googleusercontent.com/", 2.2086570657060003, "https://plus.google.com/", 2.2086570657060003, "https://ssl.gstatic.com/", 2.2086570657060003, "https://static.image2play.com/", 2.2086570657060003, "https://www.google.co.kr/", 3.4923210013299997, "https://www.gstatic.com/", 2.529573049612 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 3.4923210013299997, "https://calendar.google.com/", 2.850489033518, "https://clients2.google.com/", 2.2086570657060003, "https://clients5.google.com/", 2.2086570657060003, "https://lh5.googleusercontent.com/", 2.2086570657060003, "https://plus.google.com/", 2.529573049612, "https://sky-lighter.appspot.com/", 2.2086570657060003, "https://ssl.gstatic.com/", 2.529573049612, "https://static.image2play.com/", 2.2086570657060003, "https://www.google.com/", 6.701480840389999 ] ] ],
+      "startup_list": [ 1, "http://www.google-analytics.com/", "https://accounts.google.com/", "https://android.clients.google.com/", "https://apis.google.com/", "https://clients4.google.com/", "https://plus.google.com/", "https://ssl.google-analytics.com/", "https://talkgadget.google.com/", "https://www.google.com/", "https://www.googleapis.com/" ]
+   },
    "download": {
       "directory_upgrade": true
    },
@@ -59,8 +63,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13054931234608093",
-         "next_check": "13055887023095790"
+         "last_check": "13055887023098398",
+         "next_check": "13055904030925478"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -1255,63 +1259,12 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
-            "idle_install_info": {
-               "creation_flags": 9,
-               "delay_install_reason": 2,
-               "ephemeral_app": false,
-               "from_bookmark": false,
-               "from_webstore": true,
-               "install_time": "13055885256691686",
-               "location": 1,
-               "manifest": {
-                  "background": {
-                     "scripts": [ "scripts/extension.js" ]
-                  },
-                  "browser_action": {
-                     "default_icon": {
-                        "19": "images_4/presence/offline_19.png",
-                        "38": "images_4/presence/offline_38.png"
-                     },
-                     "default_title": "행아웃"
-                  },
-                  "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
-                  "current_locale": "ko",
-                  "default_locale": "en",
-                  "description": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다.",
-                  "externally_connectable": {
-                     "matches": [ "https://*.google.com/*" ]
-                  },
-                  "icons": {
-                     "128": "images_4/icon-128x128.png",
-                     "48": "images_4/icon-48x48.png"
-                  },
-                  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
-                  "manifest_version": 2,
-                  "minimum_chrome_version": "26.0.0.0",
-                  "name": "행아웃",
-                  "options_page": "settingsdialog.html",
-                  "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
-                  "system_indicator": {
-                     "default_icon": {
-                        "19": "images_4/presence/offline_19.png",
-                        "38": "images_4/presence/offline_38.png"
-                     }
-                  },
-                  "update_url": "https://clients2.google.com/service/update2/crx",
-                  "version": "2014.910.433.1",
-                  "web_accessible_resources": [ "*" ]
-               },
-               "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.910.433.1_0",
-               "state": 1,
-               "was_installed_by_default": false,
-               "was_installed_by_oem": false
-            },
             "incognito_content_settings": [  ],
             "incognito_preferences": {
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13054929705221046",
+            "install_time": "13055887137197850",
             "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
@@ -1320,8 +1273,8 @@
                },
                "browser_action": {
                   "default_icon": {
-                     "19": "images_3/presence/offline_19.png",
-                     "38": "images_3/presence/offline_38.png"
+                     "19": "images_4/presence/offline_19.png",
+                     "38": "images_4/presence/offline_38.png"
                   },
                   "default_title": "행아웃"
                },
@@ -1333,8 +1286,8 @@
                   "matches": [ "https://*.google.com/*" ]
                },
                "icons": {
-                  "128": "images_3/icon-128x128.png",
-                  "48": "images_3/icon-48x48.png"
+                  "128": "images_4/icon-128x128.png",
+                  "48": "images_4/icon-48x48.png"
                },
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
                "manifest_version": 2,
@@ -1344,15 +1297,15 @@
                "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
                "system_indicator": {
                   "default_icon": {
-                     "19": "images_3/presence/offline_19.png",
-                     "38": "images_3/presence/offline_38.png"
+                     "19": "images_4/presence/offline_19.png",
+                     "38": "images_4/presence/offline_38.png"
                   }
                },
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2014.730.433.2",
+               "version": "2014.910.433.1",
                "web_accessible_resources": [ "*" ]
             },
-            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.730.433.2_0",
+            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.910.433.1_0",
             "preferences": {
 
             },
@@ -3588,7 +3541,7 @@
          "pref_version": 1
       },
       "created_by_version": "35.0.1916.153",
-      "exit_type": "Crashed",
+      "exit_type": "Normal",
       "exited_cleanly": true,
       "is_managed": false,
       "local_profile_id": 3309446,
@@ -3647,7 +3600,7 @@
                "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
                "molncoemjfmpgdkbdlbjmhlcgniigdnf": "FC9F24EC440F91AF778A326A8479FEEC7CA2C1EFFB58851D98A078CCBA4C650B",
-               "nckgahadagoaajjgafhacjanaoiihapd": "1CE27138367140A06E13D175AC10E7B51F09B113D49A9E933C45D707421B8948",
+               "nckgahadagoaajjgafhacjanaoiihapd": "FC49F67F3D7816CD582DD7D51BA55081BD3D0776CCE69AA75677AC35FA9BFAB1",
                "nmmhkkegccagdldgiimedpiccmgmieda": "9CFC439307BE3FCF152FC2528C2E4E48858BF8B477EAA9EE0D80F4131B4279B1",
                "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "40FC3B9CBA49895F3D5CA1FA96CD225A168841796C2DB3DB224A64D1E460E0A9",
                "pjkljhegncpnkpknbcohdijeoejaedia": "3B1D49A8622CD7076D6AD2AB9597B97A58F028B94CCB7E93E62CE73C483AFB8C"
