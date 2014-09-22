@@ -1,5 +1,5 @@
 {
-   "checksum": "eca4bb9bf98ebd1f109b57f1dfa630ad",
+   "checksum": "16d2da77d80dd9225b8cc68edb6dd9a0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -171,6 +171,7 @@
             "date_added": "13032189898928075",
             "id": "50",
             "name": "",
+            "sync_transaction_version": "30",
             "type": "url",
             "url": "https://www.mcdelivery.co.kr/kr/"
          }, {
@@ -206,8 +207,12 @@
          }, {
             "date_added": "12996032590966011",
             "id": "61",
+            "meta_info": {
+               "stars.id": "dd79aa49e8cce78d98234a502473b77",
+               "stars.imageData": "Ek4KRmh0dHA6Ly93d3cuZGFua29vay5hYy5rci9wb3J0bGV0LXJlcG9zaXRvcmllcy9pbWFnZXMvMTQwNTQ2OTU4MTM3NS5qcGcQoAYYrgM="
+            },
             "name": "",
-            "sync_transaction_version": "14",
+            "sync_transaction_version": "30",
             "type": "url",
             "url": "http://www.dankook.ac.kr/web/kor/home?sso=ok"
          }, {
@@ -231,7 +236,7 @@
             "url": "http://physics-edu.com/"
          } ],
          "date_added": "13049460069558832",
-         "date_modified": "13054266816701381",
+         "date_modified": "13054929719918325",
          "id": "1",
          "name": "북마크바",
          "type": "folder"
@@ -244,9 +249,16 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "29",
+      "sync_transaction_version": "30",
       "synced": {
          "children": [ {
+            "date_added": "13054500546416526",
+            "id": "139",
+            "name": "오늘의유머 - 등산비법공개 - 적은 힘으로 멀리가는 비법",
+            "sync_transaction_version": "30",
+            "type": "url",
+            "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=942943"
+         }, {
             "date_added": "13052255006136156",
             "id": "134",
             "name": "DSLR ,중고나라 : 네이버 카페",
@@ -535,7 +547,7 @@
             "url": "http://www.gbis.go.kr/timetable/8101.htm"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13054054739082195",
+         "date_modified": "13054929719918320",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"

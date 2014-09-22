@@ -1,5 +1,5 @@
 {
-   "checksum": "16d2da77d80dd9225b8cc68edb6dd9a0",
+   "checksum": "38fa89941bec959ff8f032abe4975d3b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -249,9 +249,29 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "30",
+      "sync_transaction_version": "31",
       "synced": {
          "children": [ {
+            "date_added": "13055335429046534",
+            "id": "142",
+            "meta_info": {
+               "stars.id": "ssc_190ccceed1f5d189"
+            },
+            "name": "오늘의유머 - [BGM] 지구상에서 가장 초현실적인 곳",
+            "sync_transaction_version": "31",
+            "type": "url",
+            "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=947222"
+         }, {
+            "date_added": "13055071829121120",
+            "id": "141",
+            "meta_info": {
+               "stars.id": "ssc_b05a79ada8fbb124"
+            },
+            "name": "SLRCLUB, 디지털 사진가를 위한 커뮤니티",
+            "sync_transaction_version": "31",
+            "type": "url",
+            "url": "http://m.slrclub.com/v/canon_d30_forum/4211310/?page=4&divpage=784"
+         }, {
             "date_added": "13054500546416526",
             "id": "139",
             "name": "오늘의유머 - 등산비법공개 - 적은 힘으로 멀리가는 비법",
@@ -547,7 +567,7 @@
             "url": "http://www.gbis.go.kr/timetable/8101.htm"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13054929719918320",
+         "date_modified": "13055885252299659",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"

@@ -50,10 +50,6 @@
       "id": "2",
       "synced_guid": "E9EB31B0-37B2-4B09-BC05-669B3ED211A2"
    },
-   "dns_prefetching": {
-      "host_referral_list": [ 2, [ "http://facebook.com/", [ "http://www.facebook.com/", 2.2733802, "https://www.facebook.com/", 2.2733802 ] ], [ "http://google.com/", [ "http://www.google.co.kr/", 2.2733802, "https://www.google.co.kr/", 2.2733802 ] ], [ "http://mail.google.com/", [ "https://mail.google.com/", 2.2733802 ] ], [ "https://accounts.google.com/", [ "https://apis.google.com/", 1.53861594712, "https://oauth.googleusercontent.com/", 1.53861594712, "https://ssl.gstatic.com/", 1.20829574712, "https://static.image2play.com/", 1.8307511319999998 ] ], [ "https://clients5.google.com/", [ "https://accounts.google.com/", 0.99028441512, "https://clients5.google.com/", 1.68250342624, "https://googleads.g.doubleclick.net/", 1.500430932, "https://static.image2play.com/", 1.53861594712, "https://www.google.com/", 0.99028441512 ] ], [ "https://clients6.google.com/", [ "https://apis.google.com/", 1.53861594712, "https://clients6.google.com/", 7.229108096559997, "https://static.image2play.com/", 1.500430932 ] ], [ "https://fbstatic-a.akamaihd.net/", [ "https://fbstatic-a.akamaihd.net/", 2.6037003999999997 ] ], [ "https://mail.google.com/", [ "https://accounts.google.com/", 2.2733802, "https://apis.google.com/", 3.2643407999999994, "https://clients2.google.com/", 2.2733802, "https://clients5.google.com/", 2.2733802, "https://clients6.google.com/", 2.2733802, "https://mail.google.com/", 10.861705399999996, "https://plus.google.com/", 2.6037003999999997, "https://ssl.gstatic.com/", 9.540424599999996, "https://static.image2play.com/", 3.5946609999999994, "https://www.google.com/", 2.2733802 ] ], [ "https://plus.google.com/", [ "https://apis.google.com/", 0.29194831401991966, "https://plus.google.com/", 1.4832508830069464, "https://ssl.gstatic.com/", 0.4685925713228361, "https://static.image2play.com/", 1.2019192459791999 ] ], [ "https://sts.dankook.ac.kr/", [ "https://static.image2play.com/", 2.2733802, "https://sts.dankook.ac.kr/", 5.576582199999999 ] ], [ "https://talkgadget.google.com/", [ "https://accounts.google.com/", 0.7974751930992, "https://apis.google.com/", 1.0363284084384001, "https://clients6.google.com/", 0.7974751930992, "https://lh4.googleusercontent.com/", 3.5946609999999994, "https://lh6.googleusercontent.com/", 2.9340205999999998, "https://plus.google.com/", 1.0363284084384001, "https://ssl.gstatic.com/", 2.4951201864175996, "https://static.image2play.com/", 1.13417189424, "https://talkgadget.google.com/", 4.0365792189295995 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-dragon-a.akamaihd.net/", 3.2643407999999994, "https://fbstatic-a.akamaihd.net/", 8.219143799999998 ] ], [ "https://www.google.co.kr/", [ "https://apis.google.com/", 2.2733802, "https://clients5.google.com/", 2.2733802, "https://lh5.googleusercontent.com/", 2.2733802, "https://plus.google.com/", 2.2733802, "https://ssl.gstatic.com/", 2.2733802, "https://static.image2play.com/", 2.2733802, "https://www.google.co.kr/", 3.5946609999999994, "https://www.gstatic.com/", 2.6037003999999997 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 3.5946609999999994, "https://calendar.google.com/", 2.9340205999999998, "https://clients2.google.com/", 2.2733802, "https://clients5.google.com/", 2.2733802, "https://lh5.googleusercontent.com/", 2.2733802, "https://plus.google.com/", 2.6037003999999997, "https://sky-lighter.appspot.com/", 2.2733802, "https://ssl.gstatic.com/", 2.6037003999999997, "https://static.image2play.com/", 2.2733802, "https://www.google.com/", 6.897862999999998 ] ] ],
-      "startup_list": [ 1, "http://www.google-analytics.com/", "https://accounts.google.com/", "https://android.clients.google.com/", "https://apis.google.com/", "https://clients4.google.com/", "https://ssl.google-analytics.com/", "https://talkgadget.google.com/", "https://www.google.co.kr/", "https://www.google.com/", "https://www.googleapis.com/" ]
-   },
    "download": {
       "directory_upgrade": true
    },
@@ -64,7 +60,7 @@
       },
       "autoupdate": {
          "last_check": "13054931234608093",
-         "next_check": "13054950514098158"
+         "next_check": "13055887023095790"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -73,7 +69,7 @@
 
       },
       "known_disabled": [ "hompjdfbfmmmgflfjdlnkohcplmboaeo" ],
-      "last_chrome_version": "37.0.2062.94",
+      "last_chrome_version": "37.0.2062.120",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_permissions": {
@@ -140,7 +136,7 @@
 
             },
             "install_time": "13049757205654371",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -199,7 +195,7 @@
 
             },
             "install_time": "13049460112595885",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -262,7 +258,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111377495",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -325,7 +321,7 @@
 
             },
             "install_time": "13049460113322978",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -386,7 +382,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112001210",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -493,7 +489,7 @@
 
             },
             "install_time": "13049460113728114",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -548,7 +544,7 @@
 
             },
             "install_time": "13049460585901235",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -672,7 +668,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460116195381",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -739,7 +735,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111794570",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -806,7 +802,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112971666",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -874,7 +870,7 @@
 
             },
             "install_time": "13049460113454621",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -997,7 +993,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13050570176230067",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -1204,7 +1200,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112362947",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -1259,13 +1255,64 @@
                "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
                "manifest_permissions": [  ]
             },
+            "idle_install_info": {
+               "creation_flags": 9,
+               "delay_install_reason": 2,
+               "ephemeral_app": false,
+               "from_bookmark": false,
+               "from_webstore": true,
+               "install_time": "13055885256691686",
+               "location": 1,
+               "manifest": {
+                  "background": {
+                     "scripts": [ "scripts/extension.js" ]
+                  },
+                  "browser_action": {
+                     "default_icon": {
+                        "19": "images_4/presence/offline_19.png",
+                        "38": "images_4/presence/offline_38.png"
+                     },
+                     "default_title": "행아웃"
+                  },
+                  "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
+                  "current_locale": "ko",
+                  "default_locale": "en",
+                  "description": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다.",
+                  "externally_connectable": {
+                     "matches": [ "https://*.google.com/*" ]
+                  },
+                  "icons": {
+                     "128": "images_4/icon-128x128.png",
+                     "48": "images_4/icon-48x48.png"
+                  },
+                  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
+                  "manifest_version": 2,
+                  "minimum_chrome_version": "26.0.0.0",
+                  "name": "행아웃",
+                  "options_page": "settingsdialog.html",
+                  "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
+                  "system_indicator": {
+                     "default_icon": {
+                        "19": "images_4/presence/offline_19.png",
+                        "38": "images_4/presence/offline_38.png"
+                     }
+                  },
+                  "update_url": "https://clients2.google.com/service/update2/crx",
+                  "version": "2014.910.433.1",
+                  "web_accessible_resources": [ "*" ]
+               },
+               "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.910.433.1_0",
+               "state": 1,
+               "was_installed_by_default": false,
+               "was_installed_by_oem": false
+            },
             "incognito_content_settings": [  ],
             "incognito_preferences": {
 
             },
             "initial_keybindings_set": true,
             "install_time": "13054929705221046",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "background": {
@@ -1334,7 +1381,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460074386989",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 10,
             "manifest": {
                "app": {
@@ -1446,7 +1493,7 @@
 
             },
             "install_time": "13049460112830599",
-            "lastpingday": "13054924796856150",
+            "lastpingday": "13055875200280846",
             "location": 1,
             "manifest": {
                "app": {
@@ -1520,7 +1567,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJElLbIHqH64QRDEiN+nomlvUaBwiCLBADGAsSFKIxxcPHG2jGnhi0rKjETREkF8Ki",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJuFkoULCYh6QRGUccaG18NpEaBwiCLBADGAsSFJ9SElJ+UL9eWgn0r2QXODjfvml3",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -1825,6 +1872,10 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
                   "5": 127,
@@ -2161,10 +2212,6 @@
                }
             },
             "lh4.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100,
                   "5": 32,
@@ -3541,7 +3588,7 @@
          "pref_version": 1
       },
       "created_by_version": "35.0.1916.153",
-      "exit_type": "Normal",
+      "exit_type": "Crashed",
       "exited_cleanly": true,
       "is_managed": false,
       "local_profile_id": 3309446,
@@ -3581,29 +3628,29 @@
             "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
             "settings": {
                "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
-               "apdfllckaahabafndbhieahigkjlhalf": "AA71DA2A0D26AEBDB5BFAF31C7B40443BAE026144EF05912833E428BBB30F957",
-               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "4893A753A64ECBD39A06E6B1927A99E64DDE3957961BBB30663B35436894427F",
-               "cecdfgmilkpnjgfjnjeimlmkdldklomb": "0A6F525E593FE41E121BDB42D8345730B00876586D89B2423913457437F1141A",
-               "coobgpohoikkiipiblmjeljniedjpjpf": "B5405A0091B0FE9C214B24657CED760E7D2C8593007020679E1E7415C25EDA9C",
-               "djflhoibgkdhkhhcedjiklpkjnoahfmg": "20FB1727553739050228A7E4803EE8415C600FF7553F2D344EB024EF0A166D53",
+               "apdfllckaahabafndbhieahigkjlhalf": "391C3F91BFA0BA0C4677B7D55EC05E794D2F5D6FC44B444182A15A5BCAA19A55",
+               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "BE94D8D26D28FBC91A60E35AE53921ABC597842CCCF4F859B8FE1BAB1534CD32",
+               "cecdfgmilkpnjgfjnjeimlmkdldklomb": "56480539863EBF28E099E534DB1FAB6F34F64133F302F9CF7B51F619408F4BB1",
+               "coobgpohoikkiipiblmjeljniedjpjpf": "DDB8F101BC2762D658BA5DF5AE226518D62CF262B9AD034174AA57AA20AB9182",
+               "djflhoibgkdhkhhcedjiklpkjnoahfmg": "533DC468D1034570700DE35132664AC865F6D12E769B5883FD16F0028968B4B2",
                "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-               "ejjicmeblgpmajnghnpcppodonldlgfn": "BE37D7527FFEB87D02B2954F9F2E28AD5529D2DF37D0E5F57CBD9B68DAA75BBC",
-               "eknaeafjfoolijbnnkmmjfecekhnnjnf": "D05ABFEACC21942AF5E5D1311358002CFF099A13EC02CDD4BFF07662A3159A32",
+               "ejjicmeblgpmajnghnpcppodonldlgfn": "853E545E8692AE8A2FC433B420DDB1D6F5B03876F1A4A130E255840BA8E6E4C5",
+               "eknaeafjfoolijbnnkmmjfecekhnnjnf": "8473B1AAE5B3CCADAE1816A094998B7A0409F28A74B009A306DF4C9CF4DD6CE1",
                "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-               "fngmhnnpilhplaeedifhccceomclgfbg": "E54E6DFE746EA51E41C050332036FA7448D00470CF014150173EDD3694155416",
-               "hclgegipaehbigmbhdpfapmjadbaldib": "F1AB8AEDFAF1737548D388762BCE77CA392C3B6B8FA6EC82E654E803BC9D822D",
-               "hompjdfbfmmmgflfjdlnkohcplmboaeo": "C2C6D614AA6F55585724E3A11DB1739049B21354EDAC15E3EAF85D175CD49883",
-               "kcbmakmdbnehgbakmgibcpjpafenmohd": "BA3828D16DB6359B3AD632C1204F682B59ED17868139311793ACBA7BE2032A9A",
+               "fngmhnnpilhplaeedifhccceomclgfbg": "738D4C689874108B9E00381616BB6AA7BB30D44A21E2B2C8A2987A37CBBE89F1",
+               "hclgegipaehbigmbhdpfapmjadbaldib": "C2DD6120D002B6E8B4B04A19D9A21C8927CE8C50E686EEF712F15ADBC4A2C672",
+               "hompjdfbfmmmgflfjdlnkohcplmboaeo": "0E74E72946195F50C2B903AA8084B953DA0851B7632E7AAF8115F7D201EF9FC3",
+               "kcbmakmdbnehgbakmgibcpjpafenmohd": "A5B52D2A56C613AC693AA50C450ECC9889979436FCA2B5853668301FDC43C347",
                "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
-               "laankejkbhbdhmipfmgcngdelahlfoji": "99444E3FEF374F9A96A1888C5597F4071D50E785D9162AA720B9A2A2446B16AA",
+               "laankejkbhbdhmipfmgcngdelahlfoji": "2921F589423F616C26765389381EED75D96B8A708E9EECE2D617911089DF5349",
                "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-               "molncoemjfmpgdkbdlbjmhlcgniigdnf": "FBA9E31131D32179534E7B25B626BB84165CB10378CA823219CD87129CC6C110",
-               "nckgahadagoaajjgafhacjanaoiihapd": "3CB94C66DF474D077DA556D47AB2C5C23233C238A5C94961A7D1A6D0FB678843",
-               "nmmhkkegccagdldgiimedpiccmgmieda": "859385B72E031AFEFF26C5AB8131CB159AA68D668B2D62FB89B054E0926F368D",
+               "molncoemjfmpgdkbdlbjmhlcgniigdnf": "FC9F24EC440F91AF778A326A8479FEEC7CA2C1EFFB58851D98A078CCBA4C650B",
+               "nckgahadagoaajjgafhacjanaoiihapd": "1CE27138367140A06E13D175AC10E7B51F09B113D49A9E933C45D707421B8948",
+               "nmmhkkegccagdldgiimedpiccmgmieda": "9CFC439307BE3FCF152FC2528C2E4E48858BF8B477EAA9EE0D80F4131B4279B1",
                "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "40FC3B9CBA49895F3D5CA1FA96CD225A168841796C2DB3DB224A64D1E460E0A9",
-               "pjkljhegncpnkpknbcohdijeoejaedia": "F7D77655D6EF3540862A16D963561112C3215A4D9D968F486545FDA62113A693"
+               "pjkljhegncpnkpknbcohdijeoejaedia": "3B1D49A8622CD7076D6AD2AB9597B97A58F028B94CCB7E93E62CE73C483AFB8C"
             }
          },
          "google": {
@@ -3665,7 +3712,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13054932527522221",
+      "last_synced_time": "13055885389201570",
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
