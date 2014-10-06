@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="viewer_show_filenames" mtime="1411074596" type="bool" value="true"/>
-	<entry name="viewer_show_toolbar" mtime="1411074596" type="bool" value="false"/>
+	<entry name="viewer_show_filenames" mtime="1412631321" type="bool" value="true"/>
+	<entry name="viewer_show_toolbar" mtime="1412631321" type="bool" value="false"/>
 	<entry name="viewer_height" mtime="1410281747" type="int" value="480"/>
 	<entry name="viewer_width" mtime="1410281747" type="int" value="640"/>
-	<entry name="viewer_maximized" mtime="1411074596" type="bool" value="true"/>
+	<entry name="viewer_maximized" mtime="1412631321" type="bool" value="true"/>
 	<entry name="filmstrip_orientation" mtime="1409594924" type="int" value="0"/>
 	<entry name="tag_icon_size" mtime="1409594923" type="int" value="24"/>
 </gconf>
