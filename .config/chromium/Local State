@@ -1,8 +1,8 @@
 {
    "app_list": {
       "app_launch_count": 0,
-      "last_app_launch_ping": "13055817600000000",
-      "last_launch_ping": "13055817600000000",
+      "last_app_launch_ping": "13061174400000000",
+      "last_launch_ping": "13061174400000000",
       "launch_count": 0
    },
    "browser": {
@@ -33,12 +33,12 @@
    },
    "network_time": {
       "network_time_mapping": {
-         "local": 1411412596890.265,
-         "network": 1411380197326.404
+         "local": 1416784822877.449,
+         "network": 1416752424280.263
       }
    },
    "ntp": {
-      "promo_resource_cache_update": "1411411641.049292"
+      "promo_resource_cache_update": "1416784789.381503"
    },
    "plugins": {
       "metadata": {
@@ -113,16 +113,17 @@
       "resource_cache_update": "1406333633.8473"
    },
    "policy": {
-      "last_statistics_update": "13055885235169176"
+      "last_statistics_update": "13061258382395539"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1411411639.404953,
+            "active_time": 1416784796.345887,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
-            "background_apps": false,
+            "background_apps": true,
             "is_ephemeral": false,
             "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
             "is_using_default_name": true,
             "managed_user_id": "",
             "name": "첫 번째 사용자",
@@ -164,30 +165,32 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1404986468",
-      "launch_count": "39"
+      "launch_count": "40"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 4734,
-      "session_id": 38,
+      "session_id": 39,
       "stability": {
-         "breakpad_registration_fail": 39,
+         "breakpad_registration_fail": 40,
          "breakpad_registration_ok": 0,
-         "crash_count": 33,
-         "debugger_not_present": 39,
+         "child_process_crash_count": 0,
+         "crash_count": 0,
+         "debugger_not_present": 40,
          "debugger_present": 0,
-         "execution_phase": 700,
-         "exited_cleanly": true,
+         "execution_phase": 500,
+         "exited_cleanly": false,
+         "extension_renderer_crash_count": 0,
          "incomplete_session_end_count": 0,
          "last_timestamp_sec": "1411413537",
-         "launch_count": 39,
-         "launch_time_sec": "1411411634",
+         "launch_count": 1,
+         "launch_time_sec": "1416784782",
          "page_load_count": 0,
          "plugin_stats2": [  ],
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
          "session_end_completed": true,
-         "stats_buildtime": "1410635510",
-         "stats_version": "37.0.2062.120-64-devel"
+         "stats_buildtime": "1416426917",
+         "stats_version": "39.0.2171.65-64-devel"
       }
    },
    "was": {

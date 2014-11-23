@@ -1,5 +1,5 @@
 {
-   "checksum": "38fa89941bec959ff8f032abe4975d3b",
+   "checksum": "11838c9ef075bb9fa619450cd515c259",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -13,8 +13,12 @@
             }, {
                "date_added": "13012420823803425",
                "id": "82",
+               "meta_info": {
+                  "stars.id": "ssc_55d44167cea68245",
+                  "stars.isSynced": "true"
+               },
                "name": "LAB",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "https://sites.google.com/a/embedded.dankook.ac.kr/www/members"
             }, {
@@ -27,95 +31,173 @@
             }, {
                "date_added": "13030734706847407",
                "id": "49",
+               "meta_info": {
+                  "stars.id": "ssc_3f424d7bc05a7d4b",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://www.hibrain.net/"
             }, {
                "date_added": "13033190116945148",
                "id": "113",
+               "meta_info": {
+                  "stars.id": "ssc_07f77ef2e340dbd2",
+                  "stars.isSynced": "true"
+               },
                "name": "아이콘 찾기",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://icons.webtoolhub.com/"
             }, {
                "date_added": "13051386714626372",
                "id": "132",
+               "meta_info": {
+                  "stars.id": "ssc_cf431ba0d70f8180",
+                  "stars.isSynced": "true"
+               },
                "name": "NVMain Wiki",
-               "sync_transaction_version": "24",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://wiki.nvmain.org/index.php?n=Site.Documentation"
+            }, {
+               "date_added": "13058446100005598",
+               "id": "156",
+               "meta_info": {
+                  "stars.id": "ssc_d7749636a1511389",
+                  "stars.isSynced": "true"
+               },
+               "name": "/volume1/share/의 색인",
+               "sync_transaction_version": "32",
+               "type": "url",
+               "url": "ftp://embedded.ip.ne.kr/volume1/share/"
+            }, {
+               "date_added": "13061206575193504",
+               "id": "157",
+               "meta_info": {
+                  "stars.id": "ssc_30ac953fffde5cbc",
+                  "stars.isSynced": "true"
+               },
+               "name": "LAB NAS",
+               "sync_transaction_version": "32",
+               "type": "url",
+               "url": "http://220.149.250.126:8000/en/login/login.php"
             } ],
             "date_added": "13051042158961722",
-            "date_modified": "13051386720749202",
+            "date_modified": "13061258422888239",
             "id": "128",
+            "meta_info": {
+               "stars.id": "ssf_ac4e90971d25a501",
+               "stars.isSynced": "true"
+            },
             "name": "LAB",
-            "sync_transaction_version": "20",
+            "sync_transaction_version": "32",
             "type": "folder"
          }, {
             "children": [ {
                "date_added": "13027167607728473",
                "id": "109",
+               "meta_info": {
+                  "stars.id": "ssc_222d38547cf908cd",
+                  "stars.imageData": "Cg5RdWR4YjBBTjdXT2U1TRJcClRodHRwOi8vbWVkaWEtY2FjaGUtZWMwLnBpbmltZy5jb20vMjM2eC8xOC84YS9iYi8xODhhYmIwZDZjYWMwYzFjZmE2NTU3YTI1Njc0MmM4Mi5qcGcQvAEYjQEaYwpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUWVFiMXAtVlRwUHZ2dDBHZEFmMWpUSV95YVhaclE1UkEzdy1yczl0NlR1YV8wTE9fQhC8ARiNASIfCAEQvAEYjQEgniFCBhIEBAF8fUoKaW1hZ2UvanBlZw==",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Eq8BVGhlIGJvYXJkIGlzIGZvciBpbnZlc3RpZ2F0aW5nIGFuZCBmb2xsb3dpbmcgdGhlIHRyZW5kcyBpbiBNb2JpbGUgVUkgYW5kIFVYLiBUaGUgcGludGVyZXN0bmcgYXJlYXMgaW5jbHVkZSBpZGVhcywgY29uY2VwdHMgYW5kIG1vYmlsZXMgYXBwcyBhY2Nyb3NzIGFsbCBtb2JpbGUgZGV2aWNlIHBsYWZvcm1zLiIOSHlyQjdNamIxMnJCZE0=",
+                  "stars.type": "2"
+               },
                "name": "안드로이드 UX",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "36",
                "type": "url",
                "url": "http://www.pinterest.com/johnue/mobile-ui-ux/"
             }, {
                "date_added": "13032839238433406",
                "id": "111",
+               "meta_info": {
+                  "stars.id": "ssc_14c7d208db62f571",
+                  "stars.isSynced": "true"
+               },
                "name": "IP",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://www.whatismyip.com/"
             }, {
                "date_added": "12975026225702851",
                "id": "67",
+               "meta_info": {
+                  "stars.id": "ssc_d930c72a7151e084",
+                  "stars.isSynced": "true"
+               },
                "name": "De",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "https://play.google.com/apps/publish/v2/?dev_acc=05517820568356218229"
             }, {
                "date_added": "12974295109801107",
                "id": "69",
+               "meta_info": {
+                  "stars.id": "ssc_c9aadb1fe8158a78",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://md5.web-max.ca/"
             }, {
                "date_added": "13054181173177058",
                "id": "137",
+               "meta_info": {
+                  "stars.id": "ssc_36b4cc650c27c6f1",
+                  "stars.isSynced": "true",
+                  "stars.type": "2"
+               },
                "name": "",
-               "sync_transaction_version": "29",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "https://github.com/dankernel"
             } ],
             "date_added": "13051042245934155",
-            "date_modified": "13054181173177058",
+            "date_modified": "13061258422888230",
             "id": "129",
+            "meta_info": {
+               "stars.id": "ssf_47e31fbbfc11da87",
+               "stars.isSynced": "true"
+            },
             "name": "Dev",
-            "sync_transaction_version": "20",
+            "sync_transaction_version": "32",
             "type": "folder"
          }, {
             "children": [ {
                "date_added": "13007554490051640",
                "id": "83",
+               "meta_info": {
+                  "stars.id": "ssc_b5ac842d76fba613",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://www.kickstarter.com/"
             }, {
                "date_added": "13049460110403142",
                "id": "59",
+               "meta_info": {
+                  "stars.id": "ssc_b209f195214c19c2",
+                  "stars.isSynced": "true"
+               },
                "name": "CCE",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://ipceo.kaist.ac.kr/xe/"
             } ],
             "date_added": "13051042507823315",
-            "date_modified": "13051385182314500",
+            "date_modified": "13061258422888225",
             "id": "131",
+            "meta_info": {
+               "stars.id": "ssf_987181236e0e42f6",
+               "stars.isSynced": "true"
+            },
             "name": "Start Up",
-            "sync_transaction_version": "20",
+            "sync_transaction_version": "32",
             "type": "folder"
          }, {
             "children": [ {
@@ -128,80 +210,151 @@
             }, {
                "date_added": "13049460110408410",
                "id": "66",
+               "meta_info": {
+                  "stars.id": "ssc_c5ce672d9abf7cb6",
+                  "stars.isSynced": "true"
+               },
                "name": "img",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://www.image-resizer.eu/"
             }, {
                "date_added": "13007742840874896",
                "id": "70",
+               "meta_info": {
+                  "stars.id": "ssc_89b6a11028bb4094",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://www.numerics.info/index.html"
             }, {
                "date_added": "13008861076907648",
                "id": "71",
+               "meta_info": {
+                  "stars.id": "ssc_21c082e59b92332f",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "https://drive.google.com/keep/"
             }, {
                "date_added": "13008870436426588",
                "id": "73",
+               "meta_info": {
+                  "stars.id": "ssc_178742a55c48831c",
+                  "stars.isSynced": "true"
+               },
                "name": "한",
-               "sync_transaction_version": "20",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "http://speller.cs.pusan.ac.kr/"
             }, {
                "date_added": "13040712999543499",
                "id": "123",
+               "meta_info": {
+                  "stars.id": "ssc_35fea39d21d7c165",
+                  "stars.isSynced": "true"
+               },
                "name": "",
-               "sync_transaction_version": "29",
+               "sync_transaction_version": "32",
                "type": "url",
                "url": "https://gist.github.com/"
+            }, {
+               "date_added": "13057951094851992",
+               "id": "158",
+               "meta_info": {
+                  "stars.id": "ssc_d8163d660d61e4c3",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5ucnJKRkVzazB6RFB1TQ==",
+                  "stars.type": "2"
+               },
+               "name": "CJ 대한통운",
+               "sync_transaction_version": "32",
+               "type": "url",
+               "url": "http://nplus.doortodoor.co.kr/web/detail.jsp?slipno"
             } ],
             "date_added": "13051042535119315",
-            "date_modified": "13054266816706092",
+            "date_modified": "13061258422888240",
             "id": "130",
+            "meta_info": {
+               "stars.id": "ssf_8b2157bdf05b2dfd",
+               "stars.isSynced": "true"
+            },
             "name": "Util",
-            "sync_transaction_version": "20",
+            "sync_transaction_version": "32",
             "type": "folder"
          }, {
             "date_added": "13032189898928075",
             "id": "50",
+            "meta_info": {
+               "stars.id": "ssc_f620b0741695d807",
+               "stars.isSynced": "true"
+            },
             "name": "",
-            "sync_transaction_version": "30",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "https://www.mcdelivery.co.kr/kr/"
          }, {
             "date_added": "12972797645070636",
             "id": "51",
+            "meta_info": {
+               "stars.id": "ssc_f281b0c8961f5750",
+               "stars.isSynced": "true"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.google.co.kr/"
          }, {
             "date_added": "12972753334588637",
             "id": "52",
+            "meta_info": {
+               "stars.id": "ssc_6fc7e4bebc9d3fd2",
+               "stars.imageData": "Cg5mVEtDckZYOWFUYkRWTRI7CjNodHRwczovL3d3dy5mYWNlYm9vay5jb20vaW1hZ2VzL2ZiX2ljb25fMzI1eDMyNS5wbmcQ4QEY4QEaYwpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTckNtUDFLZllMeGNtOF9DcTU4UWU1MGlzU3NFdFNNVl9HNERXWEpJa2xTTllJUjR0NBDhARjhASIQCAEQ4QEY4QFCBhIEgAIA/yinqYnkldDFAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5RYW5PYzRlbHRpMi1VTQ==",
+               "stars.type": "2"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "https://www.facebook.com/"
          }, {
             "date_added": "12974014038607137",
             "id": "55",
+            "meta_info": {
+               "stars.id": "ssc_6f8875f872ce5f09",
+               "stars.isSynced": "true"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.ppomppu.co.kr/index.php"
          }, {
             "date_added": "12972753358436989",
             "id": "56",
+            "meta_info": {
+               "stars.id": "ssc_e5b91c3ac299805b",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5QR3k0blU4cVFkYUtETQ==",
+               "stars.type": "2"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://se.naver.com/"
          }, {
             "date_added": "12972795757611655",
             "id": "57",
+            "meta_info": {
+               "stars.id": "ssc_791856291e44406e",
+               "stars.isSynced": "true"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://todayhumor.co.kr/"
          }, {
@@ -209,34 +362,99 @@
             "id": "61",
             "meta_info": {
                "stars.id": "dd79aa49e8cce78d98234a502473b77",
-               "stars.imageData": "Ek4KRmh0dHA6Ly93d3cuZGFua29vay5hYy5rci9wb3J0bGV0LXJlcG9zaXRvcmllcy9pbWFnZXMvMTQwNTQ2OTU4MTM3NS5qcGcQoAYYrgM="
+               "stars.imageData": "Cg4xeFh2WkVCS3E1WFRyTRJOCkZodHRwOi8vd3d3LmRhbmtvb2suYWMua3IvcG9ydGxldC1yZXBvc2l0b3JpZXMvaW1hZ2VzLzE0MDU0Njk1ODEzNzUuanBnEKAGGK4DGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU3JONUtiVlVSeTg1M01IcGFmVnRyY3dkSmhHUkxnTUhtMjNPQ0lfSmpSTzBtSERoRU0QsgIYpAEiHwgBELICGKQBIKdxQgYSBBAAXWZKCmltYWdlL2pwZWc=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig4zbDBoRno3S2ZjaThTTQ==",
+               "stars.type": "2"
             },
             "name": "",
-            "sync_transaction_version": "30",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.dankook.ac.kr/web/kor/home?sso=ok"
          }, {
             "date_added": "12974014038608137",
             "id": "63",
+            "meta_info": {
+               "stars.id": "ssc_318c65cfadccf430",
+               "stars.isSynced": "true"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://earotis.cafe24.com/xe/main"
          }, {
             "date_added": "12974014038609137",
             "id": "64",
+            "meta_info": {
+               "stars.id": "ssc_4bc892176a5c2433",
+               "stars.isSynced": "true"
+            },
             "name": "",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://hosting.cafe24.com/"
          }, {
             "date_added": "13008224484560335",
             "id": "25",
+            "meta_info": {
+               "stars.id": "ssc_5af0dafa352abf24",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5kcHZZWHVCaUFQRk9WTQ==",
+               "stars.type": "2"
+            },
             "name": "물리",
-            "sync_transaction_version": "29",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://physics-edu.com/"
+         }, {
+            "date_added": "13057764743852997",
+            "id": "144",
+            "meta_info": {
+               "stars.id": "ssc_9f1f1f17845d46fd",
+               "stars.isSynced": "true"
+            },
+            "name": "워드 단축키",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://www.windowstalk.co.kr/631"
+         }, {
+            "date_added": "13060258742965144",
+            "id": "145",
+            "meta_info": {
+               "stars.id": "ssc_1b53160c9f34f79b",
+               "stars.isSynced": "true"
+            },
+            "name": "황성재 약력",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://uxinventor.com/resume/resume_korean.pdf"
+         }, {
+            "date_added": "13060354790194875",
+            "id": "146",
+            "meta_info": {
+               "stars.id": "ssc_aaa6a14758f597ea",
+               "stars.isSynced": "true"
+            },
+            "name": "",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://agit.kakao.com/home"
+         }, {
+            "date_added": "13060676848185824",
+            "id": "147",
+            "meta_info": {
+               "stars.id": "ssc_4815671d0650d97b",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5zZWRWVmlCQ2VGZThwTQ==",
+               "stars.type": "2"
+            },
+            "name": "지도",
+            "sync_transaction_version": "33",
+            "type": "url",
+            "url": "http://map.naver.com/"
          } ],
          "date_added": "13049460069558832",
-         "date_modified": "13054929719918325",
+         "date_modified": "13061258422888250",
          "id": "1",
          "name": "북마크바",
          "type": "folder"
@@ -249,33 +467,126 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "31",
+      "sync_transaction_version": "36",
       "synced": {
          "children": [ {
+            "date_added": "13060402337526862",
+            "id": "153",
+            "meta_info": {
+               "stars.id": "ssc_f7b86fe8d9e39055",
+               "stars.isSynced": "true"
+            },
+            "name": "4D프린팅에서 투... :: 네이버 뉴스",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=105&oid=030&aid=0002318021&rc=N"
+         }, {
+            "date_added": "13060357539421256",
+            "id": "152",
+            "meta_info": {
+               "stars.id": "ssc_fc5a2120a2748b02",
+               "stars.isSynced": "true"
+            },
+            "name": "오늘의유머 - 바닥을 달리지 않고 한 번에 뜨는 비행기는 없습니다?",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://m.todayhumor.co.kr/view.php?table=bestofbest&no=186019"
+         }, {
+            "date_added": "13058462224208360",
+            "id": "150",
+            "meta_info": {
+               "stars.id": "ssc_251980e72fae968f",
+               "stars.isSynced": "true"
+            },
+            "name": "SLRCLUB, 디지털 사진가를 위한 커뮤니티",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://m.slrclub.com/v/canon_d30_forum/4225861/?page=19&divpage=786"
+         }, {
+            "date_added": "13058251325459662",
+            "id": "149",
+            "meta_info": {
+               "stars.id": "ssc_9a7a2ed97e271f6c",
+               "stars.isSynced": "true"
+            },
+            "name": "SLRCLUB, 디지털 사진가를 위한 커뮤니티",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://m.slrclub.com/v/free/32777526"
+         }, {
+            "date_added": "13057261042300895",
+            "id": "148",
+            "meta_info": {
+               "stars.id": "ssc_da8bfee61f193a37",
+               "stars.isSynced": "true"
+            },
+            "name": "신기하고 재밌는 아이디어 상품",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://www.ideafun.co.kr/shop/goods/goods_view.php?goodsno=9997132&category=001003"
+         }, {
+            "date_added": "13055957081177055",
+            "id": "155",
+            "meta_info": {
+               "stars.id": "ssc_dd8da1affb98afe8",
+               "stars.imageData": "Cg53Rzg5YjdocGlGX05OTRImCh5odHRwOi8vaS5pbWd1ci5jb20vRThhRU01OC5qcGcQugMYvAIaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRTy1CZ3RjbmtUendxdndzSlg4V2dndWx4Tm1ORk56Q0drTDFJM09fS2dqcXZodHVZVRCKAhi+ASIfCAEQigIYvgEg0ENCBhIEAQF7fUoKaW1hZ2UvanBlZw==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5RVWV2dWdoMUE2N2xKTQ==",
+               "stars.type": "2"
+            },
+            "name": "오늘의유머 - 최근 34년간 책상의 발전",
+            "sync_transaction_version": "35",
+            "type": "url",
+            "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=950502"
+         }, {
+            "date_added": "13055956920007194",
+            "id": "154",
+            "meta_info": {
+               "stars.id": "ssc_22f46d022e7d3bf1",
+               "stars.imageData": "Cg5EYnB4QWRHSF9wcFRwTRItCiVodHRwOi8vaS5taW51cy5jb20vaWJ3Sk5JVVNWYUQ2aEkuZ2lmEKACGJ4BGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU0NEeUp5ZjdWXzZNakJwWlJjXy1yUDRzTmlhczdCaW44VEVnTzRjUGJzWk1LQWtIODMQoAIYngEiEAgBEKACGJ4BQgYSBL/9fI8o5Kav6IyfxQI=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5YUERhVXV5YTFubThRTQ==",
+               "stars.type": "2"
+            },
+            "name": "오늘의유머 - 눈물과 렘수면, 나아가 눈꼽과 꿈의 상관성",
+            "sync_transaction_version": "34",
+            "type": "url",
+            "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=950523"
+         }, {
             "date_added": "13055335429046534",
             "id": "142",
             "meta_info": {
-               "stars.id": "ssc_190ccceed1f5d189"
+               "stars.id": "ssc_190ccceed1f5d189",
+               "stars.imageData": "Cg5GaUVEcHFhUk16dUFMTRImCh5odHRwOi8vaS5pbWd1ci5jb20vWksyaE9YeS5qcGcQ1wYYgQUaYwpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRNEEzamd1TzFEMzhqR0I0bUxBWE5uR2p1VzBDYm12dVY5ak5BUTluVS16ZWR6MUVNchCEAhjCASIfCAEQhAIYwgEg9EBCBhIEAAF+fEoKaW1hZ2UvanBlZw==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig51bjZzOUhlTW12RDc5TQ==",
+               "stars.type": "2"
             },
             "name": "오늘의유머 - [BGM] 지구상에서 가장 초현실적인 곳",
-            "sync_transaction_version": "31",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=947222"
          }, {
             "date_added": "13055071829121120",
             "id": "141",
             "meta_info": {
-               "stars.id": "ssc_b05a79ada8fbb124"
+               "stars.id": "ssc_b05a79ada8fbb124",
+               "stars.isSynced": "true",
+               "stars.type": "2"
             },
             "name": "SLRCLUB, 디지털 사진가를 위한 커뮤니티",
-            "sync_transaction_version": "31",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.slrclub.com/v/canon_d30_forum/4211310/?page=4&divpage=784"
          }, {
             "date_added": "13054500546416526",
             "id": "139",
+            "meta_info": {
+               "stars.id": "ssc_aeffbb9f050a8ad9",
+               "stars.isSynced": "true"
+            },
             "name": "오늘의유머 - 등산비법공개 - 적은 힘으로 멀리가는 비법",
-            "sync_transaction_version": "30",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=942943"
          }, {
@@ -288,33 +599,56 @@
          }, {
             "date_added": "13051479514430163",
             "id": "133",
+            "meta_info": {
+               "stars.id": "ssc_b20e9b7dcfdc98a6",
+               "stars.isSynced": "true"
+            },
             "name": "뽐뿌:창업/자영업 - \"절대 망하지 않는 사업을 하는 4가지 방법\"에 대한 제 견해입니다..",
-            "sync_transaction_version": "25",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.ppomppu.co.kr/new/bbs_view.php?id=soho&no=2319"
          }, {
             "date_added": "13051132944405993",
             "id": "127",
+            "meta_info": {
+               "stars.id": "ssc_6616de74f0c7a057",
+               "stars.isSynced": "true"
+            },
             "name": "뽐뿌:뽐뿌게시판 - [홈플러스] 진로 석수 2L 6병 (현재 1+1...즉 12병!) (4740/3만이상무배)",
-            "sync_transaction_version": "19",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.ppomppu.co.kr/new/bbs_view.php?id=ppomppu&no=204125&page=1"
          }, {
             "date_added": "13049387842272701",
             "id": "4",
+            "meta_info": {
+               "stars.id": "ssc_af0d26ff8b590eb2",
+               "stars.isSynced": "true"
+            },
             "name": "Linux 2 6 29 - Linux Kernel Newbies",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://kernelnewbies.org/Linux_2_6_29"
          }, {
             "date_added": "13049386769683467",
             "id": "5",
+            "meta_info": {
+               "stars.id": "ssc_dda1cbd84f95acba",
+               "stars.isSynced": "true"
+            },
             "name": "Inside the Linux 2.6 Completely Fair Scheduler",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.ibm.com/developerworks/library/l-completely-fair-scheduler/"
          }, {
             "date_added": "13048699707491276",
             "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_ba44b207e5b76f12",
+               "stars.isSynced": "true"
+            },
             "name": "미국인이 가장 많이 쓰는 영어문장 500문장 : 네이버 블로그",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.blog.naver.com/kis4323/220045309738"
          }, {
@@ -326,7 +660,12 @@
          }, {
             "date_added": "13045329482312884",
             "id": "8",
+            "meta_info": {
+               "stars.id": "ssc_cf0a3857f697a68a",
+               "stars.isSynced": "true"
+            },
             "name": "Casanova",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.kingthemes.com/preview/casanova/html/"
          }, {
@@ -344,49 +683,89 @@
          }, {
             "date_added": "13040071046800593",
             "id": "11",
+            "meta_info": {
+               "stars.id": "ssc_f4d8d6b9cc000412",
+               "stars.isSynced": "true"
+            },
             "name": "Hmovie-moe - Love 2 Quad - 01",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.h-moe.com/watch/62"
          }, {
             "date_added": "13030107268470894",
             "id": "12",
+            "meta_info": {
+               "stars.id": "ssc_6eb7febbce8b260e",
+               "stars.isSynced": "true"
+            },
             "name": "레노버 ideapad S310 59397885 (정품) 종합정보 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://prod.danawa.com/info/?pcode=2235465&cate1=860&cate2=869&cate3=10586&cate4=0"
          }, {
             "date_added": "13030107188072060",
             "id": "13",
+            "meta_info": {
+               "stars.id": "ssc_d63984bc0cb255ea",
+               "stars.isSynced": "true"
+            },
             "name": "레노버 ideapad S510 59386490 (정품) 종합정보 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://prod.danawa.com/info/?pcode=2237251&cate1=860&cate2=869&cate3=10586&cate4=0"
          }, {
             "date_added": "13030106860702706",
             "id": "14",
+            "meta_info": {
+               "stars.id": "ssc_383ecb0f22f6b02b",
+               "stars.isSynced": "true"
+            },
             "name": "ACER Aspire V5-573-54204G50amm (정품) 종합정보 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://prod.danawa.com/info/?pcode=2204387&cate1=860&cate2=869&cate3=19340&cate4=0"
          }, {
             "date_added": "13030106774110939",
             "id": "15",
+            "meta_info": {
+               "stars.id": "ssc_be567de30a0151cd",
+               "stars.isSynced": "true"
+            },
             "name": "한성컴퓨터 U44G ForceRecon 2550 (mSATA 120GB) 종합정보 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://prod.danawa.com/info/?pcode=2252879&cate1=860&cate2=869&cate3=31883&cate4=0"
          }, {
             "date_added": "13030043274556605",
             "id": "16",
+            "meta_info": {
+               "stars.id": "ssc_65523044c7536f43",
+               "stars.isSynced": "true"
+            },
             "name": "레노버 ideapad S410 59388378 (정품) 종합정보 행복쇼핑의 시작 ! 다나와 (가격비교) - Danawa.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://prod.danawa.com/info/?pcode=2133136&cate1=860&cate2=869&cate3=10586&cate4=0"
          }, {
             "date_added": "13024234088549250",
             "id": "17",
+            "meta_info": {
+               "stars.id": "ssc_562f71a615026a59",
+               "stars.isSynced": "true"
+            },
             "name": "내가 대학원에 들어왔을 때 알았더라면 좋았을 연구 노하우",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.slideshare.net/pelexus/ss-11919783"
          }, {
             "date_added": "13023978810422024",
             "id": "18",
+            "meta_info": {
+               "stars.id": "ssc_43d41b7215edee93",
+               "stars.isSynced": "true"
+            },
             "name": "South Korean military kills man trying to swim across river to North - CNN.com",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://edition.cnn.com/2013/09/16/world/asia/south-korea-border-shooting/index.html?hpt=wo_c2"
          }, {
@@ -398,7 +777,12 @@
          }, {
             "date_added": "13023799287362228",
             "id": "20",
+            "meta_info": {
+               "stars.id": "ssc_7281b7c1af0eceed",
+               "stars.isSynced": "true"
+            },
             "name": "맛클 - 안드로이드 앱 개발 예제 런처입니다",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.matcl.com/?m=bbs&bid=appDB&uid=191837"
          }, {
@@ -410,43 +794,78 @@
          }, {
             "date_added": "13018553074875333",
             "id": "22",
+            "meta_info": {
+               "stars.id": "ssc_071f110044e5d024",
+               "stars.isSynced": "true"
+            },
             "name": "오늘의유머 - 인력 헬리콥터",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=bestofbest&no=118899"
          }, {
             "date_added": "13017830494054477",
             "id": "23",
+            "meta_info": {
+               "stars.id": "ssc_6bf1222d2bf55028",
+               "stars.isSynced": "true"
+            },
             "name": "한양대 김지효 학생 세바시 무대 선다 - 한양뉴스포털",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.newshyu.com/news/articleView.html?idxno=11469"
          }, {
             "date_added": "13017259934526614",
             "id": "24",
+            "meta_info": {
+               "stars.id": "ssc_14c134e667f4245e",
+               "stars.isSynced": "true"
+            },
             "name": "오늘의유머 - 믿을 놈은 오종혁밖에 없어 ㅋㅋ",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=706485"
          }, {
             "date_added": "13008272018111721",
             "id": "26",
+            "meta_info": {
+               "stars.id": "ssc_e601aaa9d03a2cdb",
+               "stars.isSynced": "true"
+            },
             "name": "Platum",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://platum.kr/"
          }, {
             "date_added": "13007921593155111",
             "id": "27",
+            "meta_info": {
+               "stars.id": "ssc_913fdd0d8c3c807c",
+               "stars.isSynced": "true"
+            },
             "name": "스타트업 창업자들을 위한 10가지 트위트 조언",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.besuccess.com/?p=31714"
          }, {
             "date_added": "13007554490050640",
             "id": "28",
+            "meta_info": {
+               "stars.id": "ssc_4e4d0e04d753f96a",
+               "stars.isSynced": "true"
+            },
             "name": "온오프믹스 :: 스타트업 위크엔드 10번째 행사를 시작합니다.- 앱센터운동본부",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://onoffmix.com/event/12944"
          }, {
             "date_added": "13049460110088716",
             "id": "29",
+            "meta_info": {
+               "stars.id": "ssc_9ef221a978b0106c",
+               "stars.isSynced": "true"
+            },
             "name": "안드로이드 포렌식",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=1&menu_dist=2&seq=20640&dir_group_dist=0"
          }, {
@@ -458,44 +877,78 @@
          }, {
             "date_added": "13005498556963000",
             "id": "31",
+            "meta_info": {
+               "stars.id": "ssc_a45b17db9b0b999b",
+               "stars.isSynced": "true"
+            },
             "name": "Ruby",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.ruby-doc.org/docs/ProgrammingRuby/"
          }, {
             "date_added": "13005101781161001",
             "id": "32",
+            "meta_info": {
+               "stars.id": "ssc_df4e76ef93df7c53",
+               "stars.isSynced": "true"
+            },
             "name": "초기 창업기업에서 인재(人材) 선발하기 « beSUCCESS",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.besuccess.com/?p=29393"
          }, {
             "date_added": "13004762358032230",
             "id": "33",
+            "meta_info": {
+               "stars.id": "ssc_77e972bd7e4dd85e",
+               "stars.isSynced": "true"
+            },
             "name": "오늘의유머",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/"
          }, {
             "date_added": "13004424033760971",
             "id": "34",
+            "meta_info": {
+               "stars.id": "ssc_7e1a6716124cbc51",
+               "stars.isSynced": "true"
+            },
             "name": "VentureSquare",
-            "sync_transaction_version": "28",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.venturesquare.net/"
          }, {
             "date_added": "13004091324784182",
             "id": "35",
+            "meta_info": {
+               "stars.id": "ssc_5e5431ff36a0c03f",
+               "stars.isSynced": "true"
+            },
             "name": "beSUCCESS",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.besuccess.com/"
          }, {
             "date_added": "13017311639470761",
             "id": "36",
+            "meta_info": {
+               "stars.id": "ssc_617594af4ba5628b",
+               "stars.isSynced": "true"
+            },
             "name": "공모전/대외활동의 새로운 시작 한국경제 allcon에 오신것을 환영합니다. - 제4회 서울앱 공모전",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.all-con.co.kr/index.php?mid=uni_contest&category=153&document_srl=74861"
          }, {
             "date_added": "13017724625274318",
             "id": "37",
+            "meta_info": {
+               "stars.id": "ssc_4ccd80abdae2676d",
+               "stars.isSynced": "true"
+            },
             "name": "Outsider's Dev Story",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://blog.outsider.ne.kr/698"
          }, {
@@ -513,37 +966,67 @@
          }, {
             "date_added": "13020411475907759",
             "id": "40",
+            "meta_info": {
+               "stars.id": "ssc_e8342ce150b11fd6",
+               "stars.isSynced": "true"
+            },
             "name": "웹해킹",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.hackthis.co.uk/"
          }, {
             "date_added": "13021198217940597",
             "id": "41",
+            "meta_info": {
+               "stars.id": "ssc_b0dad59c1433ead0",
+               "stars.isSynced": "true"
+            },
             "name": "가식적인 놈의 하나뿐인 공간 :: [펌] CPU 레지스터의 종류와 용도",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://sagidong.tistory.com/191"
          }, {
             "date_added": "13021717813695365",
             "id": "42",
+            "meta_info": {
+               "stars.id": "ssc_a66ec389ef010f44",
+               "stars.isSynced": "true"
+            },
             "name": "Hostinger 한국 | 계정",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://cpanel.hostinger.kr/switcher"
          }, {
             "date_added": "13030458849217762",
             "id": "43",
+            "meta_info": {
+               "stars.id": "ssc_99c20b2bb013bef8",
+               "stars.isSynced": "true"
+            },
             "name": "ㅗ싀5",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.html5canvastutorials.com/kineticjs/html5-canvas-kineticjs-scale-animation-tutorial/"
          }, {
             "date_added": "13032189705513724",
             "id": "44",
+            "meta_info": {
+               "stars.id": "ssc_9b440a3dd97dd6e9",
+               "stars.isSynced": "true"
+            },
             "name": "Basic Sample",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.mcdonalds.co.kr/mcdelivery/mcdelivery-menu"
          }, {
             "date_added": "13040067379461634",
             "id": "45",
+            "meta_info": {
+               "stars.id": "ssc_26b6c55f0540cf0c",
+               "stars.isSynced": "true"
+            },
             "name": "무한도전 다시보기",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://icf.so/youtube.php"
          }, {
@@ -561,13 +1044,28 @@
          }, {
             "date_added": "13052977567524579",
             "id": "135",
+            "meta_info": {
+               "stars.id": "ssc_e2518c9521944b6a",
+               "stars.isSynced": "true"
+            },
             "name": "www.gbis.go.kr/timetable/8101.htm",
-            "sync_transaction_version": "27",
+            "sync_transaction_version": "32",
             "type": "url",
             "url": "http://www.gbis.go.kr/timetable/8101.htm"
+         }, {
+            "date_added": "13058537695909572",
+            "id": "151",
+            "meta_info": {
+               "stars.id": "ssc_008abe1b295892af",
+               "stars.isSynced": "true"
+            },
+            "name": "",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQ7QgwAA&url=http%3A%2F%2Fmap.naver.com%2F&ei=AuhIVJ6KNOTlmAWetYH4Aw&usg=AFQjCNGAEcWf3a6W8xpiPh7ABT0tSbxY8w&sig2=jMPUDIKkkhxVC-Md4EqQQA"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13055885252299659",
+         "date_modified": "13061258422888306",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"

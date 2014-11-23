@@ -1,4 +1,9 @@
 {
+   "account_info": [ {
+      "account_id": "earotis@gmail.com",
+      "email": "earotis@gmail.com",
+      "gaia": "115198986276978505032"
+   } ],
    "apps": {
       "shortcuts_have_been_created": true
    },
@@ -9,6 +14,19 @@
       "expanded_nodes": [  ]
    },
    "browser": {
+      "app_window_placement": {
+         "_crx_nckgahadagoaajjgafhacjanaoiihapd": {
+            "bottom": 430,
+            "left": 10,
+            "maximized": false,
+            "right": 290,
+            "top": 10,
+            "work_area_bottom": 1024,
+            "work_area_left": 0,
+            "work_area_right": 1280,
+            "work_area_top": 0
+         }
+      },
       "clear_data": {
          "form_data": true,
          "hosted_apps_data": false,
@@ -21,25 +39,14 @@
       "pepper_flash_settings_enabled": false,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 1034,
-         "left": 1290,
+         "bottom": 768,
+         "left": 0,
          "maximized": true,
-         "right": 2656,
-         "top": 266,
-         "work_area_bottom": 1024,
-         "work_area_left": 1280,
-         "work_area_right": 2646,
-         "work_area_top": 256
-      },
-      "window_placement__crx_nckgahadagoaajjgafhacjanaoiihapd": {
-         "bottom": 430,
-         "left": 10,
-         "maximized": false,
-         "right": 290,
-         "top": 10,
-         "work_area_bottom": 1024,
+         "right": 1366,
+         "top": 0,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1280,
+         "work_area_right": 1366,
          "work_area_top": 0
       }
    },
@@ -49,10 +56,6 @@
       "enabled": true,
       "id": "2",
       "synced_guid": "E9EB31B0-37B2-4B09-BC05-669B3ED211A2"
-   },
-   "dns_prefetching": {
-      "host_referral_list": [ 2, [ "http://facebook.com/", [ "http://www.facebook.com/", 1.4577136633659602, "https://www.facebook.com/", 1.4577136633659602 ] ], [ "http://google.com/", [ "http://www.google.co.kr/", 1.4577136633659602, "https://www.google.co.kr/", 1.4577136633659602 ] ], [ "http://mail.google.com/", [ "https://mail.google.com/", 2.2086570657060003 ] ], [ "https://accounts.google.com/", [ "https://apis.google.com/", 1.3168958237296258, "https://oauth.googleusercontent.com/", 1.3168958237296258, "https://ssl.gstatic.com/", 1.1050912743516657, "https://static.image2play.com/", 1.1738955671994935 ] ], [ "https://clients5.google.com/", [ "https://accounts.google.com/", 0.9620910178215336, "https://clients5.google.com/", 1.6346025536949473, "https://googleads.g.doubleclick.net/", 1.45771366336596, "https://static.image2play.com/", 1.4948115511054936, "https://www.google.com/", 0.9620910178215336 ] ], [ "https://clients6.google.com/", [ "https://apis.google.com/", 1.3168958237296258, "https://clients6.google.com/", 8.929537556773615, "https://static.image2play.com/", 0.9620910178215337 ] ], [ "https://fbstatic-a.akamaihd.net/", [ "https://fbstatic-a.akamaihd.net/", 2.529573049612 ] ], [ "https://mail.google.com/", [ "https://accounts.google.com/", 1.4577136633659602, "https://apis.google.com/", 2.09312731149984, "https://clients2.google.com/", 1.4577136633659602, "https://clients5.google.com/", 1.4577136633659602, "https://clients6.google.com/", 1.4577136633659602, "https://mail.google.com/", 6.964631947192919, "https://plus.google.com/", 1.6695182127439199, "https://ssl.gstatic.com/", 6.117413749681078, "https://static.image2play.com/", 2.3049318608777996, "https://www.google.com/", 1.4577136633659602 ] ], [ "https://plus.google.com/", [ "https://apis.google.com/", 0.12355207922841292, "https://plus.google.com/", 1.176041033348187, "https://ssl.gstatic.com/", 0.19830765830000496, "https://static.image2play.com/", 0.5086503835581125 ] ], [ "https://sts.dankook.ac.kr/", [ "https://static.image2play.com/", 2.2086570657060003, "https://sts.dankook.ac.kr/", 5.417816904765999 ] ], [ "https://talkgadget.google.com/", [ "https://accounts.google.com/", 0.8416691090720995, "https://apis.google.com/", 1.3251443315091047, "https://clients6.google.com/", 0.8416691090720995, "https://lh4.googleusercontent.com/", 2.3049318608777996, "https://lh6.googleusercontent.com/", 1.88132276212188, "https://plus.google.com/", 1.3251443315091047, "https://ssl.gstatic.com/", 2.5908561157087915, "https://static.image2play.com/", 0.7272421334712517, "https://talkgadget.google.com/", 6.882456753654004 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-dragon-a.akamaihd.net/", 3.1714050174239996, "https://fbstatic-a.akamaihd.net/", 7.985144776013998 ] ], [ "https://www.google.co.kr/", [ "https://apis.google.com/", 2.2086570657060003, "https://clients5.google.com/", 2.2086570657060003, "https://lh5.googleusercontent.com/", 2.2086570657060003, "https://plus.google.com/", 2.2086570657060003, "https://ssl.gstatic.com/", 2.2086570657060003, "https://static.image2play.com/", 2.2086570657060003, "https://www.google.co.kr/", 3.4923210013299997, "https://www.gstatic.com/", 2.529573049612 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 3.4923210013299997, "https://calendar.google.com/", 2.850489033518, "https://clients2.google.com/", 2.2086570657060003, "https://clients5.google.com/", 2.2086570657060003, "https://lh5.googleusercontent.com/", 2.2086570657060003, "https://plus.google.com/", 2.529573049612, "https://sky-lighter.appspot.com/", 2.2086570657060003, "https://ssl.gstatic.com/", 2.529573049612, "https://static.image2play.com/", 2.2086570657060003, "https://www.google.com/", 6.701480840389999 ] ] ],
-      "startup_list": [ 1, "http://www.google-analytics.com/", "https://accounts.google.com/", "https://android.clients.google.com/", "https://apis.google.com/", "https://clients4.google.com/", "https://plus.google.com/", "https://ssl.google-analytics.com/", "https://talkgadget.google.com/", "https://www.google.com/", "https://www.googleapis.com/" ]
    },
    "download": {
       "directory_upgrade": true
@@ -64,7 +67,7 @@
       },
       "autoupdate": {
          "last_check": "13055887023098398",
-         "next_check": "13055904030925478"
+         "next_check": "13061258787183671"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -72,12 +75,11 @@
       "commands": {
 
       },
-      "known_disabled": [ "hompjdfbfmmmgflfjdlnkohcplmboaeo" ],
-      "last_chrome_version": "37.0.2062.120",
+      "last_chrome_version": "39.0.2171.65",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_permissions": {
-               "api": [ "management", "webstorePrivate" ],
+               "api": [ "management", "system.display", "system.storage", "webstorePrivate", "system.cpu", "system.memory", "system.network" ],
                "manifest_permissions": [  ]
             },
             "app_launcher_ordinal": "h",
@@ -913,8 +915,32 @@
          },
          "kmendfapggjehodndflmmgagdbamhnfd": {
             "active_permissions": {
-               "api": [ "hid", "usb", {
+               "api": [ "hid", "u2fDevices", "usb", {
                   "usbDevices": [ {
+                     "interfaceId": -1,
+                     "productId": 61904,
+                     "vendorId": 1155
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 24579,
+                     "vendorId": 1419
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 275,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 276,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 277,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 288,
+                     "vendorId": 4176
+                  }, {
                      "interfaceId": -1,
                      "productId": 512,
                      "vendorId": 4176
@@ -922,10 +948,29 @@
                      "interfaceId": -1,
                      "productId": 529,
                      "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 1025,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 1026,
+                     "vendorId": 4176
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 61904,
+                     "vendorId": 7223
+                  }, {
+                     "interfaceId": -1,
+                     "productId": 61904,
+                     "vendorId": 9601
                   } ]
                }, "webConnectable" ],
                "explicit_host": [ "https://www.gstatic.com/*" ],
                "manifest_permissions": [  ]
+            },
+            "commands": {
+
             },
             "content_settings": [  ],
             "creation_flags": 1,
@@ -937,31 +982,62 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13050858271048546",
+            "install_time": "13061258385744357",
             "location": 5,
             "manifest": {
                "background": {
                   "persistent": false,
-                  "scripts": [ "util.js", "b64.js", "closeable.js", "countdown.js", "sha256.js", "llgnubby.js", "llhidgnubby.js", "llusbgnubby.js", "gnubbies.js", "gnubby.js", "gnubby-u2f.js", "gnubbycodetypes.js", "gnubbyfactory.js", "gnubbymsgtypes.js", "usbgnubbyfactory.js", "devicestatuscodes.js", "enroller.js", "enrollhelper.js", "usbenrollhelper.js", "requestqueue.js", "signer.js", "signhelper.js", "singlesigner.js", "multiplesigner.js", "usbsignhelper.js", "webrequest.js", "background.js" ]
+                  "scripts": [ "util.js", "b64.js", "sha256.js", "countdown.js", "countdowntimer.js", "devicestatuscodes.js", "errorcodes.js", "gnubbycodetypes.js", "webrequest.js", "gnubbymsgtypes.js", "messagetypes.js", "factoryregistry.js", "closeable.js", "requesthelper.js", "enroller.js", "requestqueue.js", "signer.js", "origincheck.js", "textfetcher.js", "appid.js", "gstaticorigincheck.js", "gnubbydevice.js", "hidgnubbydevice.js", "usbgnubbydevice.js", "gnubbies.js", "gnubby.js", "gnubby-u2f.js", "gnubbyfactory.js", "singlesigner.js", "multiplesigner.js", "generichelper.js", "inherits.js", "individualattest.js", "devicefactoryregistry.js", "usbhelper.js", "usbenrollhandler.js", "usbsignhandler.js", "usbgnubbyfactory.js", "googlecorpindividualattest.js", "cryptotokenbackground.js" ]
                },
                "description": "CryptoToken Component Extension",
                "externally_connectable": {
                   "accepts_tls_channel_id": true,
                   "matches": [ "https://login.corp.google.com/*", "https://accounts.google.com/*", "https://security.google.com/*" ]
                },
+               "incognito": "split",
                "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zRobvA+AVlvNqkHSSVhh1sEWsHSqz4oR/XptkDe/Cz3+gW9ZGumZ20NCHjaac8j1iiesdigp8B1LJsd/2WWv2Dbnto4f8GrQ5MVphKyQ9WJHwejEHN2K4vzrTcwaXqv5BSTXwxlxS/mXCmXskTfryKTLuYrcHEWK8fCHb+0gvr8b/kvsi75A1aMmb6nUnFJvETmCkOCPNX5CHTdy634Ts/x0fLhRuPlahk63rdf7agxQv5viVjQFk+tbgv6aa9kdSd11Js/RZ9yZjrFgHOBWgP4jTBqud4+HUglrzu8qynFipyNRLCZsaxhm+NItTyNgesxLdxZcwOz56KD1Q4IQIDAQAB",
                "manifest_version": 2,
                "name": "CryptoTokenExtension",
-               "permissions": [ "hid", "usb", {
+               "permissions": [ "hid", "usb", "u2fDevices", "https://www.gstatic.com/", {
                   "usbDevices": [ {
+                     "productId": 529,
+                     "vendorId": 4176
+                  }, {
                      "productId": 512,
                      "vendorId": 4176
                   }, {
-                     "productId": 529,
+                     "productId": 275,
                      "vendorId": 4176
+                  }, {
+                     "productId": 276,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 277,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 288,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 1025,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 1026,
+                     "vendorId": 4176
+                  }, {
+                     "productId": 61904,
+                     "vendorId": 9601
+                  }, {
+                     "productId": 61904,
+                     "vendorId": 7223
+                  }, {
+                     "productId": 61904,
+                     "vendorId": 1155
+                  }, {
+                     "productId": 24579,
+                     "vendorId": 1419
                   } ]
-               }, "https://www.gstatic.com/" ],
-               "version": "0.0.1"
+               } ],
+               "version": "0.8.64"
             },
             "path": "/usr/lib/chromium/resources/cryptotoken",
             "preferences": {
@@ -970,6 +1046,7 @@
             "regular_only_preferences": {
 
             },
+            "state": 1,
             "was_installed_by_default": false,
             "was_installed_by_oem": false
          },
@@ -1506,6 +1583,7 @@
             },
             "USERNAME": "earotis@gmail.com"
          },
+         "signin_scoped_device_id": "D358FEE6-9405-4BC5-8EB0-CAF7BDA560BC",
          "user_account_id": "115198986276978505032",
          "username": "earotis@gmail.com"
       }
@@ -1658,6 +1736,17 @@
             "0-channel-proxy-13-prn1.facebook.com:443": {
                "supports_spdy": true
             },
+            "0.client-channel.google.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
+               "settings": {
+                  "4": 100
+               },
+               "supports_spdy": true
+            },
             "0.docs.google.com:443": {
                "supports_spdy": true
             },
@@ -1715,6 +1804,7 @@
             "accounts.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 0.02,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1725,6 +1815,9 @@
                "supports_spdy": true
             },
             "accounts.youtube.com:443": {
+               "settings": {
+                  "4": 100
+               },
                "supports_spdy": true
             },
             "ad.doubleclick.net:443": {
@@ -1752,6 +1845,7 @@
             "apis.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1764,6 +1858,7 @@
             "calendar.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1803,6 +1898,7 @@
             "clients1.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1815,6 +1911,7 @@
             "clients2.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1825,10 +1922,6 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100,
                   "5": 156,
@@ -1839,6 +1932,7 @@
             "clients4.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1851,6 +1945,7 @@
             "clients5.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1863,6 +1958,7 @@
             "clients6.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1881,6 +1977,7 @@
             "csi.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1893,6 +1990,7 @@
             "csi.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -1961,12 +2059,14 @@
             "feeds2.feedburner.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "fonts.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -1979,12 +2079,14 @@
             "fonts.googleapis.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "gg.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -1992,6 +2094,7 @@
             "gm1.ggpht.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -1999,12 +2102,14 @@
             "google.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "googleads.g.doubleclick.net:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2017,12 +2122,14 @@
             "googleads.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "googleads4.g.doubleclick.net:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2035,6 +2142,7 @@
             "googleads4.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2068,12 +2176,14 @@
             "html5shiv.googlecode.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "i.ytimg.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2081,12 +2191,14 @@
             "i.ytimg.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "i1.ytimg.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2099,12 +2211,14 @@
             "i1.ytimg.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "id.google.co.kr:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2117,12 +2231,14 @@
             "img.youtube.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "img1.blogblog.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2135,18 +2251,21 @@
             "img1.blogblog.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "img2.blogblog.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "lh3.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2161,6 +2280,7 @@
             "lh4.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2175,6 +2295,7 @@
             "lh5.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2189,6 +2310,7 @@
             "lh6.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2211,6 +2333,7 @@
             "mail.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2223,12 +2346,14 @@
             "maps-api-ssl.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "maps.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2236,10 +2361,16 @@
             "maps.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "oauth.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
                   "5": 34,
@@ -2250,360 +2381,420 @@
             "p2-a3iqq6obku25o-d2drwi3qwddapgyb-209423-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p2-a3iqq6obku25o-d2drwi3qwddapgyb-209423-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p2-a3iqq6obku25o-d2drwi3qwddapgyb-209423-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p2-a3iqq6obku25o-d2drwi3qwddapgyb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-a6ub7on62vqz6-44dmmcmtwbagpukk-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-a7qgp6m4cmcfs-ghqspdqur53qghcc-816500-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-a7qgp6m4cmcfs-ghqspdqur53qghcc-816500-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-a7qgp6m4cmcfs-ghqspdqur53qghcc-816500-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-a7qgp6m4cmcfs-ghqspdqur53qghcc-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-675293-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-675293-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-abcaykhf4r7sa-tcjxwks5cvlnm45s-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-563745-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-acnhtqby6sz4i-kc3p7y6rwt7ytk6y-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i1-dnssec-vd.gexperiments2.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-i2-dnssec-nd.gexperiments1.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-104238-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ahpeqtwjifk4c-n5tf3qxrctrd5jys-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-170889-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-170889-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-an3afepdnv34c-syatxlqkorctcjkb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-812705-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-812705-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-axyrrumxmsum2-626wznbnjk2vizsz-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-179253-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-179253-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-b2htdvd34r2ye-tsbbvxl4dhvtuhkn-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-b523q7jvn6okg-vjrqgg2mjgdlu2mr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bewojpnaa5rfm-wxbplaurl6gibetl-993588-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bewojpnaa5rfm-wxbplaurl6gibetl-993588-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bewojpnaa5rfm-wxbplaurl6gibetl-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-465446-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bo4tzsjnu25mm-rxtdbvn5mgunxeq3-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-bu3ms2s25adx2-bp65mouc7c6loive-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-497044-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-497044-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-c4l57hdekqjbg-psictp2norcbjsxx-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-c6ocrbn34crju-elnukui7gjdj2ttw-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-286838-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-286838-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cbhadczbk3sy2-o5nhhddue3kc77cu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ccxyinvdmrxai-ovzt6jov62aoebyw-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cf5y77oim3wqc-cnzihyn7ytbvsdhm-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-921560-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-claqxdzuw7mtq-44uy52qazbqcsxwr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-681841-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-cuucs2fkzteq4-xkoexhetridxfghs-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-313398-s1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d26h5vwxmuifg-5hc3w6rx2v3nn6se-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d3pq4t4qzv2hc-eykyp2tlyujfy4hb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-d7yeq6vqrrdpo-6by73t76ovwfo47l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dbipx4dyku7zy-2q5mwq6gdlln5j77-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-780695-i1-v6exp3-v4.metric.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-780695-i2-v6exp3-ds.metric.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2616,6 +2807,7 @@
             "p4-djycxdekwxmoc-jm6tzhwjuqcqwqe3-if-v6exp3-v4.metric.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2628,198 +2820,231 @@
             "p4-dkvawbnyzoply-qy6qqicxrspeeks2-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dl6kdg4txgtmo-ugdvhocijr27rx5l-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-873897-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-873897-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dpntwcj4svfxq-g3guwv7mutdiexu4-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dslkxio5mhq42-coztrv6eohb3fd7f-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dydbn36lp7i5e-3c5oix37cyo2n46i-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-dyfwu5ygzaf52-3weffja6cgzvr3sy-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-e42yzm54pmy6m-gpd56dlqyjjqjt5a-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-e4e4sp2k2akiy-6jutx2k5e3zzjog6-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-eggcgmxiqwu42-anesppp3tnszy47u-162242-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-eggcgmxiqwu42-anesppp3tnszy47u-162242-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-eggcgmxiqwu42-anesppp3tnszy47u-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ekdoeguawgi56-qlh5pvgfjaae7f3c-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-435685-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-435685-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-f2w2qas3fsfwm-rjggtlc2foh2m7yr-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-fc6fuq5iunhro-2qycxtmwdf4rh7yx-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-ffkzjyf55smbm-4kmhcquojnwxflbu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-771871-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-fxzxtlk7uwtrk-z7cbv6aoxl25wqv2-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-fzylqoa23knr4-gh5vs354mhucxd6r-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-go5vvsgttxixm-45c5ee73mkfodzq5-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-h6xc4dqj5oae6-ufz3tcj4dqlbgmbb-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i1-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-440209-i2-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hdkvkweyk6zky-tg7xwa6bdi7s7sxc-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-571840-i1-v6exp3-ds.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-571840-i2-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hf4rutuvpccha-6ri75oaubxr6awpu-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "p4-hzo3nhh3rhr2m-wgngqxflbp6qepsl-if-v6exp3-v4.metric.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "pagead2.googlesyndication.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2832,12 +3057,14 @@
             "pagead2.googlesyndication.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "partner.googleadservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2847,6 +3074,7 @@
             "plus.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2859,6 +3087,7 @@
             "plus.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2871,6 +3100,7 @@
             "pubads.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2880,18 +3110,21 @@
             "r13---sn-ogueynls.c.pack.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "r6---sn-n3cgv5qc5oq-bh2e7.googlevideo.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "s-v6exp1-ds.metric.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2899,12 +3132,14 @@
             "s.youtube.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "s.ytimg.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2912,12 +3147,14 @@
             "s.ytimg.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "s0.2mdn.net:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2925,12 +3162,14 @@
             "s0.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "s0.doubleclick.net:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2943,6 +3182,7 @@
             "s1.2mdn.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -2958,18 +3198,21 @@
             "seungigi.blogspot.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "seungigi.blogspot.kr:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "sites.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -2977,6 +3220,7 @@
             "sky-lighter.appspot.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2989,18 +3233,21 @@
             "spreadsheets.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "ss.textcube.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "ssl.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 0.02,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3013,6 +3260,7 @@
             "ssl.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3031,6 +3279,7 @@
             "stats.g.doubleclick.net:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -3040,6 +3289,7 @@
             "talkgadget.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3060,12 +3310,14 @@
             "tools.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "tpc.googlesyndication.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3078,6 +3330,7 @@
             "translate.google.co.kr:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3096,12 +3349,14 @@
             "www.blogblog.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.blogger.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3114,6 +3369,7 @@
             "www.blogger.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
@@ -3123,12 +3379,14 @@
             "www.gnome.or.kr:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.google-analytics.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3141,12 +3399,14 @@
             "www.google-analytics.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 0.002,
                   "protocol_str": "quic"
                }
             },
             "www.google.co.kr:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3159,12 +3419,14 @@
             "www.google.co.kr:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.google.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 0.02,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3177,12 +3439,14 @@
             "www.google.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.googleadservices.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3195,12 +3459,14 @@
             "www.googleadservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 0.02,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3213,18 +3479,21 @@
             "www.googletagmanager.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.googletagservices.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3237,24 +3506,28 @@
             "www.gstatic.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.muylinux.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.muymovil.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "www.youtube.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "supports_spdy": true
@@ -3262,12 +3535,14 @@
             "www.youtube.com:80": {
                "alternate_protocol": {
                   "port": 80,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                }
             },
             "yt3.ggpht.com:443": {
                "alternate_protocol": {
                   "port": 443,
+                  "probability": 1.0,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -3307,6 +3582,9 @@
             "[*.]aict.snu.ac.kr,*": {
                "plugins": 1
             },
+            "[*.]bbs2.ruliweb.daum.net,*": {
+               "fullscreen": 1
+            },
             "[*.]blog.naver.com,*": {
                "popups": 1
             },
@@ -3323,6 +3601,7 @@
                "popups": 1
             },
             "[*.]cyber.dankook.ac.kr,*": {
+               "multiple-automatic-downloads": 2,
                "popups": 1
             },
             "[*.]cyworld.com,*": {
@@ -3382,8 +3661,14 @@
             "[*.]music.naver.com,*": {
                "popups": 1
             },
+            "[*.]news.kukmin.tv,*": {
+               "fullscreen": 1
+            },
             "[*.]ocean.kisti.re.kr,*": {
                "plugins": 1
+            },
+            "[*.]photoprint.naver.com,*": {
+               "popups": 1
             },
             "[*.]player.afreeca.com,*": {
                "plugins": 1
@@ -3457,6 +3742,9 @@
             "[*.]www.pssoft.co.kr,*": {
                "popups": 1
             },
+            "[*.]www.slideshare.net,*": {
+               "fullscreen": 1
+            },
             "[*.]www.ted.com,*": {
                "fullscreen": 1
             },
@@ -3465,6 +3753,9 @@
             },
             "[*.]www.tworld.co.kr,*": {
                "popups": 1
+            },
+            "[*.]www.wemakeprice.com,*": {
+               "plugins": 1
             },
             "[*.]www.work.go.kr,*": {
                "plugins": 1
@@ -3529,6 +3820,9 @@
                "media-stream-mic": 1
             },
             "https://translate.google.co.kr:443,*": {
+               "last_used": {
+                  "media-stream-mic": 1415207188.91424
+               },
                "media-stream-mic": 1
             },
             "https://www.google.co.kr:443,*": {
@@ -3541,7 +3835,7 @@
          "pref_version": 1
       },
       "created_by_version": "35.0.1916.153",
-      "exit_type": "Normal",
+      "exit_type": "Crashed",
       "exited_cleanly": true,
       "is_managed": false,
       "local_profile_id": 3309446,
@@ -3578,9 +3872,8 @@
             "template_url_data": "575D258E47F940C6887685ABA99A5839CBFE4BA30863349DFE0D0C375AAB8816"
          },
          "extensions": {
-            "known_disabled": "5596502A78E8C63F7E3CCC3B4AB4EBA44BA9B88413961EEA6333FAB01A74462D",
             "settings": {
-               "ahfgeienlihckogmohjhadlkjgocpleb": "B82D7DD97258A4779ECF1865282A05336D398DCF37324E67C9CB2E2A05767446",
+               "ahfgeienlihckogmohjhadlkjgocpleb": "7F34761035169EF6AF803F17D28359A067FAD6FFF3248EE28E0CA19ADF2FA2ED",
                "apdfllckaahabafndbhieahigkjlhalf": "391C3F91BFA0BA0C4677B7D55EC05E794D2F5D6FC44B444182A15A5BCAA19A55",
                "blpcfgokakmgnkcojhhkbfbldkacnbeo": "BE94D8D26D28FBC91A60E35AE53921ABC597842CCCF4F859B8FE1BAB1534CD32",
                "cecdfgmilkpnjgfjnjeimlmkdldklomb": "56480539863EBF28E099E534DB1FAB6F34F64133F302F9CF7B51F619408F4BB1",
@@ -3594,7 +3887,7 @@
                "hclgegipaehbigmbhdpfapmjadbaldib": "C2DD6120D002B6E8B4B04A19D9A21C8927CE8C50E686EEF712F15ADBC4A2C672",
                "hompjdfbfmmmgflfjdlnkohcplmboaeo": "0E74E72946195F50C2B903AA8084B953DA0851B7632E7AAF8115F7D201EF9FC3",
                "kcbmakmdbnehgbakmgibcpjpafenmohd": "A5B52D2A56C613AC693AA50C450ECC9889979436FCA2B5853668301FDC43C347",
-               "kmendfapggjehodndflmmgagdbamhnfd": "8FA7316071449EAF5E62E382646A7F5AC3CA7CE4940290170A63C1F458A4D08A",
+               "kmendfapggjehodndflmmgagdbamhnfd": "A8719D6D53874E34D6EA87CB8CC9CA8F02A66C54959A67380A22CED003E9EFAD",
                "laankejkbhbdhmipfmgcngdelahlfoji": "2921F589423F616C26765389381EED75D96B8A708E9EECE2D617911089DF5349",
                "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
@@ -3621,7 +3914,8 @@
             "reset_prompt_memento": "D4530CB53DD89D7863C8A6CB3762FD06DE5DBC9965D16D3A72FE1B19AD4A6C8F"
          },
          "safebrowsing": {
-            "incident_report_sent": "892BF4EF5204701BC97E1930D22871ADB8357AD28630976EAE29B674EBE984C0"
+            "incident_report_sent": "892BF4EF5204701BC97E1930D22871ADB8357AD28630976EAE29B674EBE984C0",
+            "incidents_sent": "569707D9A4676B72F48BE92B740BE3EF895419C8A646F1AE1BA70BD9C3B41845"
          },
          "search_provider_overrides": "1E1EBA3A4DC28A23BEFCF6ED5D71CE71E9814DD587A305F6B14F72E834AF75DD",
          "session": {
@@ -3632,6 +3926,11 @@
             "remaining_rollback_tries": "A0FE984919D0168BE852E054EEB2091ADF4AB53452BB7F8E6E4701DA28D88F27"
          }
       }
+   },
+   "proxy": {
+      "bypass_list": "",
+      "mode": "system",
+      "server": ""
    },
    "reverse_autologin": {
       "enabled": false
@@ -3665,7 +3964,8 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13055886196892952",
+      "last_synced_time": "13061258419727863",
+      "managed_user_settings": true,
       "managed_user_shared_settings": true,
       "managed_users": true,
       "passwords": true,
