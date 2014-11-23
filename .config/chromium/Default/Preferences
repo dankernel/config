@@ -66,8 +66,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13055887023098398",
-         "next_check": "13061258787183671"
+         "last_check": "13061258787184514",
+         "next_check": "13061278064533572"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -142,7 +142,7 @@
 
             },
             "install_time": "13049757205654371",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -201,7 +201,7 @@
 
             },
             "install_time": "13049460112595885",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -264,7 +264,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111377495",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -327,7 +327,7 @@
 
             },
             "install_time": "13049460113322978",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -371,6 +371,9 @@
                "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
+            "commands": {
+
+            },
             "content_settings": [  ],
             "creation_flags": 9,
             "events": [  ],
@@ -387,8 +390,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13049460112001210",
-            "lastpingday": "13055875200280846",
+            "install_time": "13061258459698019",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -416,11 +419,14 @@
                "name": "User-Agent Switcher for Chrome",
                "options_page": "options.html",
                "permissions": [ "storage", "unlimitedStorage", "tabs", "webRequest", "webRequestBlocking", "http://spoofer-extension.appspot.com/", "https://spoofer-extension.appspot.com/", "\u003Call_urls>" ],
+               "storage": {
+                  "managed_schema": "schema.json"
+               },
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "1.0.36",
+               "version": "1.0.38",
                "web_accessible_resources": [ "jquery.js", "spoofer_cs.js" ]
             },
-            "path": "djflhoibgkdhkhhcedjiklpkjnoahfmg/1.0.36_0",
+            "path": "djflhoibgkdhkhhcedjiklpkjnoahfmg/1.0.38_0",
             "preferences": {
 
             },
@@ -495,7 +501,7 @@
 
             },
             "install_time": "13049460113728114",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -550,7 +556,7 @@
 
             },
             "install_time": "13049460585901235",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "description": "Chrome theme for Griffon2k.com",
@@ -658,6 +664,9 @@
                "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
                "manifest_permissions": [  ]
             },
+            "commands": {
+
+            },
             "content_settings": [  ],
             "creation_flags": 9,
             "events": [  ],
@@ -673,8 +682,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13049460116195381",
-            "lastpingday": "13055875200280846",
+            "install_time": "13061258461138854",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -706,9 +715,89 @@
                "options_page": "options_main_page.html",
                "permissions": [ "tabs", "\u003Call_urls>", "cookies", "contextMenus", "unlimitedStorage", "notifications", "storage", "clipboardWrite" ],
                "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "1.4"
+               "version": "1.4.1"
             },
-            "path": "fngmhnnpilhplaeedifhccceomclgfbg/1.4_0",
+            "path": "fngmhnnpilhplaeedifhccceomclgfbg/1.4.1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "gbchcmhmhahfdphkhkmpfmihenigjmpp": {
+            "active_permissions": {
+               "api": [ "clipboardRead", "clipboardWrite", "nativeMessaging", "storage", "webConnectable" ],
+               "explicit_host": [ "https://*.talkgadget.google.com/*", "https://accounts.google.com/*", "https://relay.google.com/*", "https://www.googleapis.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/rel/*", "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/thirdpartyauth*" ]
+            },
+            "app_launcher_ordinal": "zv",
+            "commands": {
+
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "clipboardRead", "clipboardWrite", "nativeMessaging", "storage", "webConnectable" ],
+               "explicit_host": [ "https://*.talkgadget.google.com/*", "https://accounts.google.com/*", "https://relay.google.com/*", "https://www.googleapis.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/rel/*", "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/thirdpartyauth*" ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13061258462963772",
+            "lastpingday": "13061235598715803",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "local_path": "main.html"
+                  }
+               },
+               "background": {
+                  "page": "background.html",
+                  "persistent": false
+               },
+               "content_scripts": [ {
+                  "js": [ "cs_oauth2_trampoline.js" ],
+                  "matches": [ "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/rel/*" ]
+               }, {
+                  "js": [ "cs_third_party_auth_trampoline.js" ],
+                  "matches": [ "https://*.talkgadget.google.com/talkgadget/oauth/chrome-remote-desktop/thirdpartyauth*" ]
+               } ],
+               "content_security_policy": "default-src 'self'; script-src 'self' https://*.talkgadget.google.com https://www.gstatic.com; style-src 'self' https://fonts.googleapis.com; img-src 'self' https://*.talkgadget.google.com data:; font-src *; connect-src 'self' https://accounts.google.com https://www.googleapis.com https://*.talkgadget.google.com https://relay.google.com",
+               "current_locale": "ko",
+               "default_locale": "en",
+               "description": "다른 컴퓨터에 액세스하거나 다른 사용자가 인터넷을 통해 안전하게 내 컴퓨터에 액세스할 수 있습니다.",
+               "externally_connectable": {
+                  "matches": [ "https://*.talkgadget.google.com/*" ]
+               },
+               "icons": {
+                  "128": "chromoting128.webp",
+                  "16": "chromoting16.webp",
+                  "48": "chromoting48.webp"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgVjdI82ic/GxyyEX5ZlBOqfzQqq05XkHH6LXn4i5IMKbBLfd8Pr7nlmedbSoWkWnG70JMqgFP44HmNeXHob1DXxZxJoQ1/u9bH6fpibmLNrbQ606EnaCyzuz+PkztQxGtuvqzZRFVYE745hi6MnVWfYIii3+NgS2zDdjqZGFmgQIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "32",
+               "name": "Chrome 원격 데스크톱",
+               "optional_permissions": [ "\u003Call_urls>" ],
+               "permissions": [ "https://accounts.google.com/*", "https://www.googleapis.com/oauth2/*", "https://www.googleapis.com/chromoting/v1/*", "https://*.talkgadget.google.com/talkgadget/*", "https://relay.google.com/*", "storage", "clipboardRead", "clipboardWrite", "nativeMessaging" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "39.0.2171.46"
+            },
+            "page_ordinal": "n",
+            "path": "gbchcmhmhahfdphkhkmpfmihenigjmpp/39.0.2171.46_0",
             "preferences": {
 
             },
@@ -741,7 +830,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460111794570",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -808,7 +897,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112971666",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -876,7 +965,7 @@
 
             },
             "install_time": "13049460113454621",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -1057,6 +1146,9 @@
                "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
+            "commands": {
+
+            },
             "content_settings": [  ],
             "creation_flags": 9,
             "events": [  ],
@@ -1073,8 +1165,8 @@
 
             },
             "initial_keybindings_set": true,
-            "install_time": "13050570176230067",
-            "lastpingday": "13055875200280846",
+            "install_time": "13061258461552782",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -1107,10 +1199,10 @@
                "options_page": "options.html",
                "permissions": [ "tabs", "http://stayfocusd.dev/", "http://*.stayfocusd.com/", "https://www.googleapis.com/", "https://accounts.google.com/", "notifications", "storage", "identity" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "1.5.5",
+               "version": "1.5.7",
                "web_accessible_resources": [ "common/img/eye_19x19_red.png", "common/img/logo_full.png", "common/css/content.css", "common/img/smartBombBG.png", "common/img/eye_48x48_nuclear.png", "common/img/eye_48x48_red.png", "components/ActivityMonitor/ActivityMonitorController.js", "components/ActivityMonitor/ActivityMonitorModel.js", "components/ActivityMonitor/views/overlay/ActivityMonitorOverlayView.js", "components/ActivityMonitor/views/overlay/overlay.tpl", "components/InfoBar/InfoBarController.js", "components/InfoBar/InfoBarView.js", "components/InfoBar/InfoBarModel.js", "components/InfoBar/infoBar.tpl", "components/List/ListController.js", "components/List/ListView.js", "components/List/ListModel.js", "components/List/list.tpl", "core/vendor/text.js", "core/vendor/jquery.min.js", "core/vendor/Brightline.min.js", "core/vendor/DropletJS.Class.min.js", "core/vendor/DropletJS.PubSub.min.js", "core/vendor/DropletJS.Sequencer.min.js", "core/main.js", "core/API.js", "core/ChromeAPI.js", "core/Component.js", "core/ComponentFactory.js", "core/CoreAPI.js", "core/DateUtils.js", "core/DomainParser.js", "core/GeneralUtils.js", "core/License.js", "core/Logger.js", "core/Message.js", "core/Notification.js", "core/NuclearOption.js", "core/ObjectUtils.js", "core/ReferrerMonitor.js", "core/SmartBomb.js", "core/StayFocusd.js", "core/Storage.js", "core/Settings.js" ]
             },
-            "path": "laankejkbhbdhmipfmgcngdelahlfoji/1.5.5_0",
+            "path": "laankejkbhbdhmipfmgcngdelahlfoji/1.5.7_0",
             "preferences": {
 
             },
@@ -1281,7 +1373,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460112362947",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -1342,7 +1434,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13055887137197850",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "background": {
@@ -1411,7 +1503,7 @@
             },
             "initial_keybindings_set": true,
             "install_time": "13049460074386989",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 10,
             "manifest": {
                "app": {
@@ -1523,7 +1615,7 @@
 
             },
             "install_time": "13049460112830599",
-            "lastpingday": "13055875200280846",
+            "lastpingday": "13061235598715803",
             "location": 1,
             "manifest": {
                "app": {
@@ -1598,7 +1690,7 @@
    },
    "invalidator": {
       "client_id": "CMVAyhGwZ5cIcZsx3ay2OQ==",
-      "invalidation_state": "CicKJQoGCgQIAxABEhIJuFkoULCYh6QRGUccaG18NpEaBwiCLBADGAsSFJ9SElJ+UL9eWgn0r2QXODjfvml3",
+      "invalidation_state": "CicKJQoGCgQIAxABEhIJ/YPY8Ss9VZsReU0e2GWqh0MaBwiCLBADGAsSFBOjmw26kPdSBBALvP/6kbaWeVgP",
       "saved_invalidations": [ {
          "invalidation-list": [  ],
          "name": "APP",
@@ -1922,10 +2014,15 @@
                "supports_spdy": true
             },
             "clients2.googleusercontent.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.02,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100,
-                  "5": 156,
-                  "6": 0
+                  "5": 253,
+                  "6": 16
                },
                "supports_spdy": true
             },
@@ -1977,7 +2074,7 @@
             "csi.gstatic.com:443": {
                "alternate_protocol": {
                   "port": 443,
-                  "probability": 1.0,
+                  "probability": 0.02,
                   "protocol_str": "quic"
                },
                "settings": {
@@ -2366,14 +2463,9 @@
                }
             },
             "oauth.googleusercontent.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.02,
-                  "protocol_str": "quic"
-               },
                "settings": {
                   "4": 100,
-                  "5": 34,
+                  "5": 38,
                   "6": 0
                },
                "supports_spdy": true
@@ -3874,29 +3966,30 @@
          "extensions": {
             "settings": {
                "ahfgeienlihckogmohjhadlkjgocpleb": "7F34761035169EF6AF803F17D28359A067FAD6FFF3248EE28E0CA19ADF2FA2ED",
-               "apdfllckaahabafndbhieahigkjlhalf": "391C3F91BFA0BA0C4677B7D55EC05E794D2F5D6FC44B444182A15A5BCAA19A55",
-               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "BE94D8D26D28FBC91A60E35AE53921ABC597842CCCF4F859B8FE1BAB1534CD32",
-               "cecdfgmilkpnjgfjnjeimlmkdldklomb": "56480539863EBF28E099E534DB1FAB6F34F64133F302F9CF7B51F619408F4BB1",
-               "coobgpohoikkiipiblmjeljniedjpjpf": "DDB8F101BC2762D658BA5DF5AE226518D62CF262B9AD034174AA57AA20AB9182",
-               "djflhoibgkdhkhhcedjiklpkjnoahfmg": "533DC468D1034570700DE35132664AC865F6D12E769B5883FD16F0028968B4B2",
+               "apdfllckaahabafndbhieahigkjlhalf": "1502161843444E9D7987AF18D96ACF4E068F5EC662514E0E3EF8B0123C8BBA70",
+               "blpcfgokakmgnkcojhhkbfbldkacnbeo": "AD8DB850637C44A16AE50C9394F8A007A9C0E41EB3CBEF8BA5D995759FFD1799",
+               "cecdfgmilkpnjgfjnjeimlmkdldklomb": "DB32926308F56072AE75AD5950FD18E9B8D73E566EC66CE0557AA250C41BAB36",
+               "coobgpohoikkiipiblmjeljniedjpjpf": "26FE7840DE1AA50A9BF21D15FDB2DFEB66C9103A3429778BD278523F8FD6118D",
+               "djflhoibgkdhkhhcedjiklpkjnoahfmg": "0B97F20B86777B83D8E03A2BED99EFE4C4AC5EA4BCD422BDE013A692B1077E98",
                "eemcgdkfndhakfknompkggombfjjjeno": "5C5575081E28ACE53E72466C9C054385CF46DFC1315613082F44988E8B8319D0",
-               "ejjicmeblgpmajnghnpcppodonldlgfn": "853E545E8692AE8A2FC433B420DDB1D6F5B03876F1A4A130E255840BA8E6E4C5",
-               "eknaeafjfoolijbnnkmmjfecekhnnjnf": "8473B1AAE5B3CCADAE1816A094998B7A0409F28A74B009A306DF4C9CF4DD6CE1",
+               "ejjicmeblgpmajnghnpcppodonldlgfn": "C6FB656DB2B1731FD2E8591C8881AF30C8F478C66A93AEA5ADD0D9226C388B80",
+               "eknaeafjfoolijbnnkmmjfecekhnnjnf": "DD8C9B762F56E08A4617B6EC65BF6C10FD9ABFEB5912C11584100939FA40C0B5",
                "ennkphjdgehloodpbhlhldgbnhmacadg": "A50857DE907FDCC3E65D00B475FA96B121423A3365AFAED688296EC8319F2352",
-               "fngmhnnpilhplaeedifhccceomclgfbg": "738D4C689874108B9E00381616BB6AA7BB30D44A21E2B2C8A2987A37CBBE89F1",
-               "hclgegipaehbigmbhdpfapmjadbaldib": "C2DD6120D002B6E8B4B04A19D9A21C8927CE8C50E686EEF712F15ADBC4A2C672",
-               "hompjdfbfmmmgflfjdlnkohcplmboaeo": "0E74E72946195F50C2B903AA8084B953DA0851B7632E7AAF8115F7D201EF9FC3",
-               "kcbmakmdbnehgbakmgibcpjpafenmohd": "A5B52D2A56C613AC693AA50C450ECC9889979436FCA2B5853668301FDC43C347",
+               "fngmhnnpilhplaeedifhccceomclgfbg": "AE75C3D142F5EF7F0A9B7C42585B79E6D0A69109A993ADA251CF356B93EF8A9C",
+               "gbchcmhmhahfdphkhkmpfmihenigjmpp": "858BC58A3E8545B2D2AF45C871B452C9AD7A172AA482C7D8821E99674FD0B737",
+               "hclgegipaehbigmbhdpfapmjadbaldib": "8677CCAFB0D96A1C6BF52A8952BD6533787CB8FA6457F94E498DEC9DA9BFF137",
+               "hompjdfbfmmmgflfjdlnkohcplmboaeo": "B916289D2D08481E41F8BB6287A6AEA99EA85F12EF190A127E6CC3C030F5978D",
+               "kcbmakmdbnehgbakmgibcpjpafenmohd": "3DD29373D69DF6947B28836ADCAAC9C1CEC57490A5BA2FDD9E00A1A43AB16DB4",
                "kmendfapggjehodndflmmgagdbamhnfd": "A8719D6D53874E34D6EA87CB8CC9CA8F02A66C54959A67380A22CED003E9EFAD",
-               "laankejkbhbdhmipfmgcngdelahlfoji": "2921F589423F616C26765389381EED75D96B8A708E9EECE2D617911089DF5349",
+               "laankejkbhbdhmipfmgcngdelahlfoji": "FB17009EDB5D3F9645F139CFBB32F8352C1299E21C3B6B9A30E83B4F976A37D7",
                "mfehgcgbbipciphmccgaenjidiccnmng": "511636BD4D37BF1840B5CDE9084727C9840B82111A8BAAE2AF4FBD140C07078A",
                "mfffpogegjflfpflabcdkioaeobkgjik": "17AF7C4FAEA5BCD7D74C1A81BE0EF135C77C907232975EA462340862BC81FDE5",
                "mgndgikekgjfcpckkfioiadnlibdjbkf": "C6F03180762377327A63834C58908F3536EE83319E8AE612E31E63660F5CE0E8",
-               "molncoemjfmpgdkbdlbjmhlcgniigdnf": "FC9F24EC440F91AF778A326A8479FEEC7CA2C1EFFB58851D98A078CCBA4C650B",
-               "nckgahadagoaajjgafhacjanaoiihapd": "FC49F67F3D7816CD582DD7D51BA55081BD3D0776CCE69AA75677AC35FA9BFAB1",
-               "nmmhkkegccagdldgiimedpiccmgmieda": "9CFC439307BE3FCF152FC2528C2E4E48858BF8B477EAA9EE0D80F4131B4279B1",
+               "molncoemjfmpgdkbdlbjmhlcgniigdnf": "853B02B24418A694E2D11745F09570E882023FB0EA0B5D65B7145BF3A6F40EFD",
+               "nckgahadagoaajjgafhacjanaoiihapd": "37A1EB15A8307DCF54A22AF1E4EC6E941A08A3B0594B7408B2BEB1F514417443",
+               "nmmhkkegccagdldgiimedpiccmgmieda": "E740F6D96029AFC842DD0F3B88D6C88EBE4F7457BD9050AED2DBB7BB466D5C81",
                "pafkbggdmjlpgkdkcbjmhmfcdpncadgh": "40FC3B9CBA49895F3D5CA1FA96CD225A168841796C2DB3DB224A64D1E460E0A9",
-               "pjkljhegncpnkpknbcohdijeoejaedia": "3B1D49A8622CD7076D6AD2AB9597B97A58F028B94CCB7E93E62CE73C483AFB8C"
+               "pjkljhegncpnkpknbcohdijeoejaedia": "4E93008B5A44331A192AC6FD0BF1F688E2F39236DCD257EB855334799439A014"
             }
          },
          "google": {
@@ -3964,7 +4057,7 @@
       "has_setup_completed": true,
       "history_delete_directives": true,
       "keystore_encryption_bootstrap_token": "djEw9vl6co5onTOjE/CQ2TqzxWuoYxUtNXMPiahUM0xQ56FnclZ2gYRHgLjpi7P0Qnmp38Vpp24fDM1mj/NpYsG6byFBJln7eVavhz/7EDimWEM=",
-      "last_synced_time": "13061258419727863",
+      "last_synced_time": "13061258989462297",
       "managed_user_settings": true,
       "managed_user_shared_settings": true,
       "managed_users": true,

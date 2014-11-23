@@ -467,7 +467,7 @@
          "name": "기타 북마크",
          "type": "folder"
       },
-      "sync_transaction_version": "36",
+      "sync_transaction_version": "37",
       "synced": {
          "children": [ {
             "date_added": "13060402337526862",
@@ -529,13 +529,13 @@
             "id": "155",
             "meta_info": {
                "stars.id": "ssc_dd8da1affb98afe8",
-               "stars.imageData": "Cg53Rzg5YjdocGlGX05OTRImCh5odHRwOi8vaS5pbWd1ci5jb20vRThhRU01OC5qcGcQugMYvAIaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRTy1CZ3RjbmtUendxdndzSlg4V2dndWx4Tm1ORk56Q0drTDFJM09fS2dqcXZodHVZVRCKAhi+ASIfCAEQigIYvgEg0ENCBhIEAQF7fUoKaW1hZ2UvanBlZw==",
+               "stars.imageData": "Cg53Rzg5YjdocGlGX05OTRImCh5odHRwOi8vaS5pbWd1ci5jb20vRThhRU01OC5qcGcQugMYvAIaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRTy1CZ3RjbmtUendxdndzSlg4V2dndWx4Tm1ORk56Q0drTDFJM09fS2dqcXZodHVZVRCKAhi+ASIQCAEQigIYvgFCBhIEAQF7fSjHkuHly8HFAg==",
                "stars.isSynced": "true",
                "stars.pageData": "Ig5RVWV2dWdoMUE2N2xKTQ==",
                "stars.type": "2"
             },
             "name": "오늘의유머 - 최근 34년간 책상의 발전",
-            "sync_transaction_version": "35",
+            "sync_transaction_version": "37",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=950502"
          }, {
@@ -543,13 +543,13 @@
             "id": "154",
             "meta_info": {
                "stars.id": "ssc_22f46d022e7d3bf1",
-               "stars.imageData": "Cg5EYnB4QWRHSF9wcFRwTRItCiVodHRwOi8vaS5taW51cy5jb20vaWJ3Sk5JVVNWYUQ2aEkuZ2lmEKACGJ4BGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU0NEeUp5ZjdWXzZNakJwWlJjXy1yUDRzTmlhczdCaW44VEVnTzRjUGJzWk1LQWtIODMQoAIYngEiEAgBEKACGJ4BQgYSBL/9fI8o5Kav6IyfxQI=",
+               "stars.imageData": "Cg5EYnB4QWRHSF9wcFRwTRItCiVodHRwOi8vaS5taW51cy5jb20vaWJ3Sk5JVVNWYUQ2aEkuZ2lmEKACGJ4BGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU0NEeUp5ZjdWXzZNakJwWlJjXy1yUDRzTmlhczdCaW44VEVnTzRjUGJzWk1LQWtIODMQoAIYngEiHwgBEKACGJ4BIPMTQgYSBL/9fI9KCmltYWdlL2pwZWc=",
                "stars.isSynced": "true",
                "stars.pageData": "Ig5YUERhVXV5YTFubThRTQ==",
                "stars.type": "2"
             },
             "name": "오늘의유머 - 눈물과 렘수면, 나아가 눈꼽과 꿈의 상관성",
-            "sync_transaction_version": "34",
+            "sync_transaction_version": "37",
             "type": "url",
             "url": "http://m.todayhumor.co.kr/view.php?table=humorbest&no=950523"
          }, {
@@ -1065,7 +1065,7 @@
             "url": "https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQ7QgwAA&url=http%3A%2F%2Fmap.naver.com%2F&ei=AuhIVJ6KNOTlmAWetYH4Aw&usg=AFQjCNGAEcWf3a6W8xpiPh7ABT0tSbxY8w&sig2=jMPUDIKkkhxVC-Md4EqQQA"
          } ],
          "date_added": "13049460069558848",
-         "date_modified": "13061258422888306",
+         "date_modified": "13061258465651731",
          "id": "3",
          "name": "모바일 북마크",
          "type": "folder"

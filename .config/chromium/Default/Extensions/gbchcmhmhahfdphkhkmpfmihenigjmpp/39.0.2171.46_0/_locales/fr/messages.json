@@ -1,0 +1,494 @@
+{
+   "ACCESS_CODE": {
+      "message": "Code d'accès"
+   },
+   "ACCESS_CODE_TIMER": {
+      "message": "Ce code d'accès expire dans $1."
+   },
+   "ACTIONBAR_FEEDBACK": {
+      "message": "Commentaires"
+   },
+   "ALL_CONNECTIONS": {
+      "message": "Toutes les connexions"
+   },
+   "ASK_PIN_DIALOG_CONFIRM_LABEL": {
+      "message": "Saisissez à nouveau le code d'accès."
+   },
+   "ASK_PIN_DIALOG_LABEL": {
+      "message": "Code d'accès"
+   },
+   "CANCEL": {
+      "message": "Annuler"
+   },
+   "CLEAR_HISTORY": {
+      "message": "Effacer l'historique"
+   },
+   "CLOSE": {
+      "message": "Fermer"
+   },
+   "CLOSE_PROMPT": {
+      "message": "En quittant cette page, vous mettrez fin à la session du bureau à distance Google Chrome."
+   },
+   "CLOSE_WINDOW": {
+      "message": "Fermer la fenêtre"
+   },
+   "COMPANY_NAME": {
+      "message": "Google Inc."
+   },
+   "CONFIRM_HOST_DELETE": {
+      "message": "Voulez-vous vraiment désactiver les connexions à distance à $1 ? Si vous changez d'avis, vous devrez réactiver les connexions depuis cet ordinateur."
+   },
+   "CONNECTION_FROM_HEADER": {
+      "message": "De"
+   },
+   "CONNECTION_HISTORY_TITLE": {
+      "message": "Historique des connexions"
+   },
+   "CONNECTION_TO_HEADER": {
+      "message": "À"
+   },
+   "CONNECT_ANYWAY": {
+      "message": "Ignorer le message et se connecter"
+   },
+   "CONNECT_BUTTON": {
+      "message": "Se connecter"
+   },
+   "CONTINUE_BUTTON": {
+      "message": "Continuer"
+   },
+   "CONTINUE_PROMPT": {
+      "message": "Vous partagez actuellement cette machine avec un autre utilisateur. Voulez-vous continuer ce partage ?"
+   },
+   "CONTROLLER_NAME": {
+      "message": "Contrôleur de l'hôte Bureau à distance Google Chrome"
+   },
+   "COPYRIGHT": {
+      "message": "Copyright © Google Inc. 2013. Tous droits réservés."
+   },
+   "DELETE_ALL_PAIRED_CLIENTS": {
+      "message": "Tout supprimer"
+   },
+   "DELETE_PAIRED_CLIENT": {
+      "message": "Supprimer"
+   },
+   "DESCRIPTION_AUTHORIZE": {
+      "message": "Pour utiliser le bureau à distance Google Chrome, vous devez autoriser l'accès étendu à votre ordinateur. Vous n'aurez à effectuer cette opération qu'une seule fois."
+   },
+   "DESCRIPTION_CONNECT": {
+      "message": "Demandez à l'utilisateur possédant l'ordinateur auquel vous souhaitez accéder de cliquer sur \"Partager\", puis de vous communiquer le code d'accès."
+   },
+   "DESCRIPTION_HOME": {
+      "message": "L'application Bureau à distance Google Chrome vous permet de partager votre ordinateur sur le Web en toute sécurité. Pour ce faire, les deux utilisateurs en question doivent exécuter cette application, disponible à l'adresse $1."
+   },
+   "DESCRIPTION_THIRD_PARTY_AUTH": {
+      "message": "L'hôte distant nécessite votre authentification auprès d'un site Web tiers. Pour continuer, vous devez accorder au Bureau à distance Chrome des autorisations supplémentaires afin d'accéder à l'adresse suivante :"
+   },
+   "DISABLE_HOST": {
+      "message": "Désactiver"
+   },
+   "DISCONNECT_MYSELF_BUTTON": {
+      "message": "Se déconnecter"
+   },
+   "DISPLAY_SERVICE_NAME": {
+      "message": "Service Bureau à distance Google Chrome"
+   },
+   "DURATION_HEADER": {
+      "message": "Durée"
+   },
+   "ERROR_AUTHENTICATION_FAILED": {
+      "message": "Échec de l'authentification. Veuillez vous connecter à nouveau au bureau à distance Google Chrome."
+   },
+   "ERROR_BAD_PLUGIN_VERSION": {
+      "message": "Certains composants nécessaires à l'utilisation du bureau à distance Google Chrome sont introuvables. Veuillez vous assurer que vous utilisez la dernière version, puis réessayer."
+   },
+   "ERROR_HOST_IS_OFFLINE": {
+      "message": "L'ordinateur à distance ne répond pas aux demandes de connexion. Veuillez vérifier qu'il est connecté, puis réessayer."
+   },
+   "ERROR_HOST_OVERLOAD": {
+      "message": "Les connexions à l'ordinateur à distance sont momentanément bloquées, car un utilisateur a tenté de s'y connecter en utilisant un code d'accès erroné. Veuillez réessayer ultérieurement."
+   },
+   "ERROR_HOST_REGISTRATION_FAILED": {
+      "message": "Échec de l'enregistrement de cet ordinateur."
+   },
+   "ERROR_INCOMPATIBLE_PROTOCOL": {
+      "message": "Une version incompatible du bureau à distance Google Chrome a été détectée. Veuillez vous assurer que vous utilisez la dernière version de Google Chrome et du bureau à distance sur les deux ordinateurs, puis réessayer."
+   },
+   "ERROR_INVALID_ACCESS_CODE": {
+      "message": "Le code d'accès n'est pas valide. Veuillez réessayer."
+   },
+   "ERROR_INVALID_HOST_DOMAIN": {
+      "message": "Les paramètres des règles n'autorisent pas le partage de cet ordinateur en tant qu'hôte du bureau à distance Google Chrome. Veuillez contacter votre administrateur système pour obtenir de l'aide."
+   },
+   "ERROR_MISSING_PLUGIN": {
+      "message": "Certains composants nécessaires à l'utilisation du bureau à distance Google Chrome sont introuvables. Veuillez vous assurer que vous utilisez la dernière version de Google Chrome, puis réessayer."
+   },
+   "ERROR_NETWORK_FAILURE": {
+      "message": "Impossible de se connecter au réseau. Veuillez vérifier que votre appareil est en ligne."
+   },
+   "ERROR_NOT_AUTHENTICATED": {
+      "message": "Vous n'êtes pas connecté au bureau à distance Google Chrome. Veuillez vous connecter, puis réessayer."
+   },
+   "ERROR_P2P_FAILURE": {
+      "message": "Impossible de joindre l'hôte, probablement en raison de la configuration du réseau que vous utilisez."
+   },
+   "ERROR_SERVICE_UNAVAILABLE": {
+      "message": "Le service est momentanément indisponible. Veuillez réessayer ultérieurement."
+   },
+   "ERROR_UNEXPECTED": {
+      "message": "Une erreur inattendue s'est produite. Veuillez signaler le problème aux développeurs."
+   },
+   "EXIT_FULL_SCREEN": {
+      "message": "Quitter le mode plein écran"
+   },
+   "FOOTER_CONNECTING": {
+      "message": "Connexion en cours…"
+   },
+   "FOOTER_WAITING": {
+      "message": "en attente de connexion…"
+   },
+   "FULL_SCREEN": {
+      "message": "Plein écran"
+   },
+   "GET_STARTED": {
+      "message": "Premiers pas"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_ACCEPT": {
+      "message": "Accept"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_DECLINE": {
+      "message": "Decline"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_1": {
+      "message": "A participant in this hangout has offered to help you by controlling your computer.  If you accept:"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_2": {
+      "message": "The person helping you will be able to control your mouse and keyboard."
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_3": {
+      "message": "You can end at any time."
+   },
+   "HANGOUTS_INVITATION": {
+      "message": "Vous voulez aider une personne au cours d'un chat vidéo avec elle ? Essayez $1 le Bureau à distance dans Google Hangouts$2."
+   },
+   "HELP": {
+      "message": "Aide"
+   },
+   "HOME_ACCESS_BUTTON": {
+      "message": "Accéder"
+   },
+   "HOME_ACCESS_DESCRIPTION": {
+      "message": "Voir et contrôler un ordinateur partagé"
+   },
+   "HOME_DAEMON_ACTIVE_MESSAGE": {
+      "message": "Vous pouvez accéder à cet ordinateur en toute sécurité via le bureau à distance Google Chrome."
+   },
+   "HOME_DAEMON_CHANGE_PIN_LINK": {
+      "message": "Modifier le code PIN"
+   },
+   "HOME_DAEMON_MANAGE_PAIRINGS": {
+      "message": "Afficher/modifier"
+   },
+   "HOME_DAEMON_PAIRED_MESSAGE": {
+      "message": "Cet ordinateur est configuré pour permettre à un ou plusieurs clients de se connecter sans saisir de code d'accès."
+   },
+   "HOME_DAEMON_START_BUTTON": {
+      "message": "Activer les connexions à distance"
+   },
+   "HOME_DAEMON_START_MESSAGE": {
+      "message": "Si vous souhaitez utiliser le bureau à distance Google Chrome pour accéder à cet ordinateur, vous devez activer les connexions à distance."
+   },
+   "HOME_DAEMON_STOP_BUTTON": {
+      "message": "Désactiver les connexions à distance"
+   },
+   "HOME_SHARE_BUTTON": {
+      "message": "Partager"
+   },
+   "HOME_SHARE_DESCRIPTION": {
+      "message": "Partager cet ordinateur et permettre à un utilisateur de le voir et de le contrôler"
+   },
+   "HOME_SHARE_DESCRIPTION_CHROME_OS": {
+      "message": "Cette fonctionnalité n'est pas encore disponible pour les Chromebooks. Merci de votre patience."
+   },
+   "HOST_CATEGORY": {
+      "message": "Hôte"
+   },
+   "HOST_CLIENT_ACCESS_DENIED": {
+      "message": "Accès refusé au client : %1."
+   },
+   "HOST_CLIENT_CONNECTED": {
+      "message": "Client connecté : %1"
+   },
+   "HOST_CLIENT_DISCONNECTED": {
+      "message": "Déconnexion du client : %1."
+   },
+   "HOST_CLIENT_ROUTING_CHANGED": {
+      "message": "Version de l'IP pour le client : %1 adresse IP = \"%2\" adresse IP de l'hôte = \"%3\" channel='%4' connection='%5'."
+   },
+   "HOST_LIST_EMPTY_HOSTING_SUPPORTED": {
+      "message": "Pour activer les connexions à distance à un autre ordinateur, installez l'application Bureau à distance Google Chrome sur celui-ci, puis cliquez sur \"$1\"."
+   },
+   "HOST_LIST_EMPTY_HOSTING_UNSUPPORTED": {
+      "message": "Aucun ordinateur n'est enregistré. Pour activer les connexions à distance à un ordinateur, installez l'application Bureau à distance Google Chrome sur celui-ci, puis cliquez sur \"$1\"."
+   },
+   "HOST_NEEDS_UPDATE_DETAIL": {
+      "message": "En règle générale, les mises à jour logicielles sont automatiques, mais des problèmes d'installation surviennent parfois. Sachez que quelques minutes devraient suffire pour mettre à jour le logiciel à distance."
+   },
+   "HOST_NEEDS_UPDATE_TITLE": {
+      "message": "Le bureau à distance Chrome sur $1 est obsolète. Vous devez le mettre à jour."
+   },
+   "HOST_SETUP_CRASH_REPORTING_MESSAGE": {
+      "message": "Aidez-nous à améliorer le bureau à distance Google Chrome en nous autorisant à recueillir des statistiques d'utilisation et des rapports d'erreur."
+   },
+   "HOST_SETUP_DIALOG_DESCRIPTION": {
+      "message": "Pour protéger l'accès à cet ordinateur, veuillez choisir un code d'accès d'$1au moins six chiffres$2. Ce code d'accès sera demandé lors d'une connexion depuis un autre appareil."
+   },
+   "HOST_SETUP_HOST_FAILED": {
+      "message": "Échec du démarrage du service d'accès à distance."
+   },
+   "HOST_SETUP_INSTALL": {
+      "message": "Le programme d'installation de l'hôte du bureau à distance Google Chrome est en cours de téléchargement dans Google Chrome. Une fois le téléchargement terminé, veuillez lancer le programme d'installation avant de continuer."
+   },
+   "HOST_SETUP_INSTALL_PENDING": {
+      "message": "Veuillez lancer le programme d'installation avant de continuer."
+   },
+   "HOST_SETUP_STARTED": {
+      "message": "Les connexions à distance ont été activées pour cet ordinateur."
+   },
+   "HOST_SETUP_STARTED_DISABLE_SLEEP": {
+      "message": "Veuillez vérifier les paramètres de gestion d'alimentation de votre ordinateur et vous assurer qu'il n'est pas configuré pour se mettre en veille en cas d'inactivité."
+   },
+   "HOST_SETUP_STARTING": {
+      "message": "Activation des connexions à distance pour cet ordinateur en cours…"
+   },
+   "HOST_SETUP_STOPPED": {
+      "message": "Les connexions à distance ont été désactivées pour cet ordinateur."
+   },
+   "HOST_SETUP_STOPPING": {
+      "message": "Désactivation des connexions à distance pour cet ordinateur en cours…"
+   },
+   "HOST_SETUP_STOP_FAILED": {
+      "message": "Échec de la désactivation de l'accès à distance pour cet ordinateur. Veuillez réessayer ultérieurement."
+   },
+   "HOST_SETUP_UPDATED_PIN": {
+      "message": "Votre code d'accès a été mis à jour."
+   },
+   "HOST_SETUP_UPDATE_PIN_FAILED": {
+      "message": "Échec de la mise à jour du code d'accès. Veuillez réessayer ultérieurement."
+   },
+   "HOST_SETUP_UPDATING_PIN": {
+      "message": "Mise à jour du code d'accès pour cet ordinateur en cours…"
+   },
+   "HOST_STARTED": {
+      "message": "Hôte démarré pour l'utilisateur \"%1\""
+   },
+   "INCOMING_CONNECTIONS": {
+      "message": "À cet ordinateur"
+   },
+   "INSTRUCTIONS_SHARE_ABOVE": {
+      "message": "Pour démarrer le partage de votre bureau, communiquez le code d'accès ci-dessous à la personne qui vous assistera."
+   },
+   "INSTRUCTIONS_SHARE_BELOW": {
+      "message": "Votre session de partage débutera une fois le code saisi."
+   },
+   "INVALID_PIN": {
+      "message": "Veuillez saisir un code d'accès composé d'au moins six chiffres."
+   },
+   "IT2ME_FIRST_RUN": {
+      "message": "Partagez des écrans avec d'autres utilisateurs : idéal pour l'assistance technique à distance."
+   },
+   "LABEL_CONNECTED": {
+      "message": "Connecté :"
+   },
+   "LAST_ONLINE": {
+      "message": "$1 (dernière connexion : $2)"
+   },
+   "LEARN_HOW": {
+      "message": "En savoir plus"
+   },
+   "MAC_PREFPANE_BUNDLE_NAME": {
+      "message": "Préférences relatives à l'hôte Bureau à distance Google Chrome"
+   },
+   "MAC_PREFPANE_ICON_LABEL": {
+      "message": "Hôte Bureau à distance\nGoogle Chrome"
+   },
+   "MAC_UNINSTALLER_BUNDLE_NAME": {
+      "message": "Programme de désinstallation de l'hôte Bureau à distance Google Chrome"
+   },
+   "MAXIMIZE_WINDOW": {
+      "message": "Agrandir la fenêtre"
+   },
+   "ME2ME_FIRST_RUN": {
+      "message": "Accédez à votre ordinateur où que vous soyez."
+   },
+   "MESSAGE_GENERATING": {
+      "message": "Génération du code d'accès…"
+   },
+   "MESSAGE_SESSION_FINISHED": {
+      "message": "La session du bureau à distance Google Chrome est terminée."
+   },
+   "MESSAGE_SHARED": {
+      "message": "Vous partagez actuellement votre bureau avec $1."
+   },
+   "MINIMIZE_WINDOW": {
+      "message": "Réduire la fenêtre"
+   },
+   "MODE_AUTHORIZE": {
+      "message": "Autoriser"
+   },
+   "MODE_IT2ME": {
+      "message": "Assistance à distance"
+   },
+   "MODE_ME2ME": {
+      "message": "Mes ordinateurs"
+   },
+   "NEW_CONNECTION": {
+      "message": "Nouvelle connexion"
+   },
+   "NEW_WINDOW": {
+      "message": "Nouvelle fenêtre…"
+   },
+   "NO_PAIRED_CLIENTS": {
+      "message": "Tous les clients associés ont été supprimés."
+   },
+   "OFFLINE": {
+      "message": "$1 (hors connexion)"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "OPTIONS_MENU": {
+      "message": "Options"
+   },
+   "OUTGOING_CONNECTIONS": {
+      "message": "À partir de cet ordinateur"
+   },
+   "PAIRED_CLIENTS_INTRODUCTION": {
+      "message": "Les clients suivants ont été associés à cet ordinateur. Ils peuvent donc s'y connecter sans fournir de code d'accès. Vous pouvez révoquer cette autorisation à tout moment, pour l'ensemble des clients ou individuellement."
+   },
+   "PAIRED_CLIENT_DATE": {
+      "message": "Date d'association"
+   },
+   "PAIRED_CLIENT_NAME": {
+      "message": "Client"
+   },
+   "PIN": {
+      "message": "Code d'accès"
+   },
+   "PINS_NOT_EQUAL": {
+      "message": "Veuillez saisir le même code d'accès dans les deux champs."
+   },
+   "PIN_MESSAGE": {
+      "message": "Veuillez saisir le code d'accès pour $1."
+   },
+   "PIN_MESSAGE_ANDROID": {
+      "message": "Veuillez saisir le code d'accès de l'ordinateur distant."
+   },
+   "PRODUCT_DESCRIPTION": {
+      "message": "Accédez à d'autres ordinateurs ou permettez à un utilisateur d'accéder au vôtre en toute sécurité via Internet."
+   },
+   "PRODUCT_NAME": {
+      "message": "Bureau à distance Google Chrome"
+   },
+   "RECONNECT": {
+      "message": "Reconnexion"
+   },
+   "REMEMBER_PIN": {
+      "message": "Ne plus demander de code d'accès en cas de connexion à cet hôte depuis cet appareil"
+   },
+   "REMOTING_CORE_DESCRIPTION": {
+      "message": "Bibliothèque principale"
+   },
+   "REMOTING_DESKTOP_DESCRIPTION": {
+      "message": "Processus d'intégration au Bureau"
+   },
+   "REMOTING_HOST_DESCRIPTION": {
+      "message": "Processus relatif à l'hôte"
+   },
+   "REMOTING_NATIVE_MESSAGING_HOST_DESCRIPTION": {
+      "message": "Hôte de messagerie native pour la gestion d'hôte de Remoting"
+   },
+   "REMOTING_REMOTE_ASSISTANCE_HOST_DESCRIPTION": {
+      "message": "Hôte de messagerie native pour l'assistance à distance"
+   },
+   "RESIZE_TO_CLIENT": {
+      "message": "Ajuster le bureau à la taille du client"
+   },
+   "RESTORE_WINDOW": {
+      "message": "Restaurer la fenêtre"
+   },
+   "RETRY": {
+      "message": "Réessayer"
+   },
+   "SCREEN_OPTIONS": {
+      "message": "Options de l'écran"
+   },
+   "SEND_CTRL_ALT_DEL": {
+      "message": "Send Ctrl-Alt-Del"
+   },
+   "SEND_KEYS": {
+      "message": "Envoyer des touches"
+   },
+   "SEND_PRINT_SCREEN": {
+      "message": "Send PrtScn"
+   },
+   "SERVICE_DESCRIPTION": {
+      "message": "Ce service permet la réception de connexions provenant des clients du Bureau à distance Google Chrome."
+   },
+   "SHRINK_TO_FIT": {
+      "message": "Ajuster à la fenêtre"
+   },
+   "SIGN_IN_BUTTON": {
+      "message": "Ouvrir une session"
+   },
+   "SIGN_OUT_BUTTON": {
+      "message": "Déconnexion"
+   },
+   "START_RECORDING": {
+      "message": "Start Recording"
+   },
+   "STOP_RECORDING": {
+      "message": "Stop Recording"
+   },
+   "STOP_SHARING_BUTTON": {
+      "message": "Arrêter le partage"
+   },
+   "SURVEY_INVITATION": {
+      "message": "Vous voulez nous aider à améliorer le Bureau à distance Chrome ? $1Répondez à notre enquête$2."
+   },
+   "TIME_HEADER": {
+      "message": "Heure"
+   },
+   "TOOLTIP_CONNECT": {
+      "message": "Se connecter à $1"
+   },
+   "TOOLTIP_DELETE": {
+      "message": "Désactiver les connexions à distance à cet ordinateur"
+   },
+   "TOOLTIP_REFRESH": {
+      "message": "Actualiser la liste des hôtes"
+   },
+   "TOOLTIP_RENAME": {
+      "message": "Modifier le nom de l'ordinateur"
+   },
+   "UPDATE_REQUIRED": {
+      "message": "$1 (obsolète)"
+   },
+   "VERIFY_PIN_DIALOG_EMAIL_LABEL": {
+      "message": "Compte"
+   },
+   "VERIFY_PIN_DIALOG_MESSAGE": {
+      "message": "Veuillez confirmer le compte et le code d'accès ci-dessous pour autoriser l'accès du Bureau à distance Google Chrome à votre compte."
+   },
+   "WARNING_NAT_DISABLED": {
+      "message": "REMARQUE : Les paramètres des règles n'autorisent que les connexions entre les ordinateurs de votre réseau."
+   },
+   "WARNING_NOT_WINDOWED": {
+      "message": "REMARQUE : Pour vous assurer que tous les raccourcis clavier sont disponibles, vous pouvez configurer le bureau à distance Chrome pour qu'il s'ouvre dans une fenêtre."
+   },
+   "WHY_IS_THIS_SAFE": {
+      "message": "En quoi est-ce sûr ?"
+   },
+   "WORKING": {
+      "message": "Traitement en cours…"
+   }
+}

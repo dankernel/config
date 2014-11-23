@@ -1,0 +1,494 @@
+{
+   "ACCESS_CODE": {
+      "message": "Elérési kód"
+   },
+   "ACCESS_CODE_TIMER": {
+      "message": "Ez az elérési kód lejár a következő időtartamon belül: $1"
+   },
+   "ACTIONBAR_FEEDBACK": {
+      "message": "Visszajelzés"
+   },
+   "ALL_CONNECTIONS": {
+      "message": "Minden kapcsolat"
+   },
+   "ASK_PIN_DIALOG_CONFIRM_LABEL": {
+      "message": "Írja be újra a PIN kódot"
+   },
+   "ASK_PIN_DIALOG_LABEL": {
+      "message": "PIN kód"
+   },
+   "CANCEL": {
+      "message": "Mégse"
+   },
+   "CLEAR_HISTORY": {
+      "message": "Előzmények törlése"
+   },
+   "CLOSE": {
+      "message": "Bezárás"
+   },
+   "CLOSE_PROMPT": {
+      "message": "Ha elhagyja ezt az oldalt, akkor befejeződik a Chrome távoliasztal-szolgáltatás munkamenete."
+   },
+   "CLOSE_WINDOW": {
+      "message": "Ablak bezárása"
+   },
+   "COMPANY_NAME": {
+      "message": "Google Inc."
+   },
+   "CONFIRM_HOST_DELETE": {
+      "message": "Biztosan le szeretné tiltani a távoli kapcsolatokat a(z) $1 gazdagéppel? Ha meggondolja magát, akkor azon a számítógépen kell majd újból engedélyeznie a kapcsolatokat."
+   },
+   "CONNECTION_FROM_HEADER": {
+      "message": "Innen:"
+   },
+   "CONNECTION_HISTORY_TITLE": {
+      "message": "Kapcsolatelőzmények"
+   },
+   "CONNECTION_TO_HEADER": {
+      "message": "Ide:"
+   },
+   "CONNECT_ANYWAY": {
+      "message": "Csatlakozás mindenképp"
+   },
+   "CONNECT_BUTTON": {
+      "message": "Csatlakozás"
+   },
+   "CONTINUE_BUTTON": {
+      "message": "Folytatás"
+   },
+   "CONTINUE_PROMPT": {
+      "message": "Ezt a gépet jelenleg megosztja egy másik felhasználóval. Szeretné folytatni a megosztást?"
+   },
+   "CONTROLLER_NAME": {
+      "message": "Chrome távoliasztal-szolgáltatás – gazdagépvezérlő"
+   },
+   "COPYRIGHT": {
+      "message": "Copyright 2013 – Google Inc. Minden jog fenntartva."
+   },
+   "DELETE_ALL_PAIRED_CLIENTS": {
+      "message": "Az összes törlése"
+   },
+   "DELETE_PAIRED_CLIENT": {
+      "message": "Törlés"
+   },
+   "DESCRIPTION_AUTHORIZE": {
+      "message": "A Chrome távoliasztal-szolgáltatás használatához kiterjesztett hozzáférési jogosultságokat kell adnia a számítógépéhez. Ezt csak egyszer kell elvégezni."
+   },
+   "DESCRIPTION_CONNECT": {
+      "message": "Kérje meg azt a felhasználót, akinek a számítógépét használni szeretné, hogy kattintson a „Megosztás most” feliratra, és adja meg Önnek a hozzáférési kódot."
+   },
+   "DESCRIPTION_HOME": {
+      "message": "A Chrome távoliasztal-szolgáltatás lehetővé teszi a számítógép biztonságos megosztását az interneten keresztül. Mindkét felhasználónál futnia kell a Chrome távoliasztal-szolgáltatás alkalmazásnak, amely itt található: $1."
+   },
+   "DESCRIPTION_THIRD_PARTY_AUTH": {
+      "message": "A távoli gazdagép hitelesítést kér egy harmadik féltől származó webhelyhez. A folytatáshoz további engedélyeket kell adnia a Chrome távoliasztal-szolgáltatásnak a cím eléréséhez:"
+   },
+   "DISABLE_HOST": {
+      "message": "Kikapcsolás"
+   },
+   "DISCONNECT_MYSELF_BUTTON": {
+      "message": "Kapcsolat bontása"
+   },
+   "DISPLAY_SERVICE_NAME": {
+      "message": "Chrome távoliasztal-szolgáltatás"
+   },
+   "DURATION_HEADER": {
+      "message": "Időtartam"
+   },
+   "ERROR_AUTHENTICATION_FAILED": {
+      "message": "A hitelesítés nem sikerült. Kérjük, jelentkezzen be újra a Chrome távoliasztal-szolgáltatásba."
+   },
+   "ERROR_BAD_PLUGIN_VERSION": {
+      "message": "A Chrome távoliasztal-szolgáltatás egyes szükséges összetevői hiányoznak. Kérjük, ellenőrizze, hogy telepítve van-e a legfrissebb verzió, majd próbálja újra."
+   },
+   "ERROR_HOST_IS_OFFLINE": {
+      "message": "A távoli számítógép nem válaszol a csatlakozási kérésekre. Kérjük, ellenőrizze, hogy a távoli gép onlinekapcsolatban van-e, majd próbálja újra."
+   },
+   "ERROR_HOST_OVERLOAD": {
+      "message": "A távoli számítógéphez való csatlakozás ideiglenesen le van tiltva, mert valaki érvénytelen PIN kóddal próbált csatlakozni hozzá. Kérjük, próbálja újra később."
+   },
+   "ERROR_HOST_REGISTRATION_FAILED": {
+      "message": "Nem sikerült regisztrálni a számítógépet."
+   },
+   "ERROR_INCOMPATIBLE_PROTOCOL": {
+      "message": "A Chrome távoliasztal-szolgáltatás egy nem kompatibilis verziója található a számítógépen. Kérjük, ellenőrizze, hogy mindkét számítógépen a Chrome és a Chrome távoliasztal-szolgáltatás legfrissebb verziói futnak-e, majd próbálja újra."
+   },
+   "ERROR_INVALID_ACCESS_CODE": {
+      "message": "A hozzáférési kód érvénytelen. Kérjük, próbálja újra."
+   },
+   "ERROR_INVALID_HOST_DOMAIN": {
+      "message": "Az irányelv-beállítások értelmében a Chrome távoliasztal-szolgáltatásban nem oszthatja meg számítógépét gazdaszámítógépként. Segítségért lépjen kapcsolatba a rendszergazdával."
+   },
+   "ERROR_MISSING_PLUGIN": {
+      "message": "A Chrome távoliasztal-szolgáltatás egyes szükséges összetevői hiányoznak. Kérjük, ellenőrizze, hogy a Chrome legfrissebb verzióját használja-e, majd próbálja újra."
+   },
+   "ERROR_NETWORK_FAILURE": {
+      "message": "Nem sikerült kapcsolódni a hálózathoz. Kérjük, ellenőrizze, hogy eszköze online állapotban van-e."
+   },
+   "ERROR_NOT_AUTHENTICATED": {
+      "message": "Ön nincs bejelentkezve a Chrome távoliasztal-szolgáltatásba. Kérjük, jelentkezzen be, és próbálja újra."
+   },
+   "ERROR_P2P_FAILURE": {
+      "message": "A gazdagép nem érhető el. Ez valószínűleg az Ön által használt hálózat konfigurációja miatt van."
+   },
+   "ERROR_SERVICE_UNAVAILABLE": {
+      "message": "A szolgáltatás átmenetileg nem érhető el. Kérjük, próbálkozzon újra később."
+   },
+   "ERROR_UNEXPECTED": {
+      "message": "Váratlan hiba történt. Kérjük, jelentse a problémát a fejlesztőknek."
+   },
+   "EXIT_FULL_SCREEN": {
+      "message": "Kilépés a teljes képernyős módból"
+   },
+   "FOOTER_CONNECTING": {
+      "message": "Csatlakozás…"
+   },
+   "FOOTER_WAITING": {
+      "message": "várakozás a kapcsolatra..."
+   },
+   "FULL_SCREEN": {
+      "message": "Teljes képernyő"
+   },
+   "GET_STARTED": {
+      "message": "Kezdő lépések"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_ACCEPT": {
+      "message": "Accept"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_DECLINE": {
+      "message": "Decline"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_1": {
+      "message": "A participant in this hangout has offered to help you by controlling your computer.  If you accept:"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_2": {
+      "message": "The person helping you will be able to control your mouse and keyboard."
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_3": {
+      "message": "You can end at any time."
+   },
+   "HANGOUTS_INVITATION": {
+      "message": "Szeretne segíteni valakinek, miközben egyúttal videocsevegést is folytatnak? Próbálja ki a $1Google Hangouts távoliasztal-szolgáltatását$2."
+   },
+   "HELP": {
+      "message": "Súgó"
+   },
+   "HOME_ACCESS_BUTTON": {
+      "message": "Hozzáférés"
+   },
+   "HOME_ACCESS_DESCRIPTION": {
+      "message": "Megosztott számítógép megtekintése és irányítása."
+   },
+   "HOME_DAEMON_ACTIVE_MESSAGE": {
+      "message": "Biztonságosan hozzáférhet a számítógéphez a Chrome távoliasztal-szolgáltatás segítségével."
+   },
+   "HOME_DAEMON_CHANGE_PIN_LINK": {
+      "message": "PIN kód megváltoztatása"
+   },
+   "HOME_DAEMON_MANAGE_PAIRINGS": {
+      "message": "Megtekintés/szerkesztés"
+   },
+   "HOME_DAEMON_PAIRED_MESSAGE": {
+      "message": "Ez a számítógép úgy van konfigurálva, hogy egy vagy több kliens PIN megadása nélkül csatlakozhasson."
+   },
+   "HOME_DAEMON_START_BUTTON": {
+      "message": "Távoli kapcsolatok engedélyezése"
+   },
+   "HOME_DAEMON_START_MESSAGE": {
+      "message": "Engedélyeznie kell a távoli kapcsolatokat, ha a Chrome távoliasztal-szolgáltatást szeretné használni ennek a számítógépnek az eléréséhez."
+   },
+   "HOME_DAEMON_STOP_BUTTON": {
+      "message": "Távoli kapcsolatok letiltása"
+   },
+   "HOME_SHARE_BUTTON": {
+      "message": "Megosztás"
+   },
+   "HOME_SHARE_DESCRIPTION": {
+      "message": "E számítógép megosztása úgy, hogy azt egy másik felhasználó láthassa és irányíthassa."
+   },
+   "HOME_SHARE_DESCRIPTION_CHROME_OS": {
+      "message": "(Ez a funkció még nem érhető el Chromebookok számára... látogasson vissza később)"
+   },
+   "HOST_CATEGORY": {
+      "message": "Gazdagép"
+   },
+   "HOST_CLIENT_ACCESS_DENIED": {
+      "message": "Hozzáférés megtagadva a következő klienstől: %1."
+   },
+   "HOST_CLIENT_CONNECTED": {
+      "message": "Kliens csatlakoztatva: %1."
+   },
+   "HOST_CLIENT_DISCONNECTED": {
+      "message": "Kliens leválasztva: %1."
+   },
+   "HOST_CLIENT_ROUTING_CHANGED": {
+      "message": "Kliens csatorna-IP-je: %1 ip='%2' host_ip='%3' channel='%4' connection='%5'."
+   },
+   "HOST_LIST_EMPTY_HOSTING_SUPPORTED": {
+      "message": "Ahhoz, hogy engedélyezhesse a távoli kapcsolatokat egy másik számítógépen, telepítse a gépre a Chrome távoliasztal-szolgáltatást, majd kattintson a következő gombra: „$1”."
+   },
+   "HOST_LIST_EMPTY_HOSTING_UNSUPPORTED": {
+      "message": "Önnek nincs regisztrált számítógépe. Ahhoz, hogy engedélyezhesse a távoli kapcsolatokat egy számítógépen, telepítse a gépre a Chrome távoliasztal-szolgáltatást, majd kattintson a következő gombra: „$1”."
+   },
+   "HOST_NEEDS_UPDATE_DETAIL": {
+      "message": "A szoftverfrissítések általában automatikusan történnek, ám egyes ritka esetekben sikertelenek lehetnek. A szoftverfrissítés nem szokott pár percnél több időt igénybe venni, és a számítógéphez távolról csatlakozva is elvégezhető."
+   },
+   "HOST_NEEDS_UPDATE_TITLE": {
+      "message": "A(z) $1 Chrome távoliasztal-szolgáltatása elavult, frissíteni kell."
+   },
+   "HOST_SETUP_CRASH_REPORTING_MESSAGE": {
+      "message": "Segítsen fejleszteni a Chrome távoliasztal-szolgáltatást azáltal, hogy rendelkezésünkre bocsátja a használati statisztikákat és hibajelentéseket."
+   },
+   "HOST_SETUP_DIALOG_DESCRIPTION": {
+      "message": "A számítógép hozzáférésének védelméhez válasszon egy $1legalább hat számjegyből álló$2 PIN kódot. Ezt a PIN kódot kéri a rendszer, ha más helyről kísérlik meg a kapcsolódást."
+   },
+   "HOST_SETUP_HOST_FAILED": {
+      "message": "Nem sikerült elindítani a távoli hozzáférési szolgáltatást."
+   },
+   "HOST_SETUP_INSTALL": {
+      "message": "A Chrome letölti a Chrome távoliasztal-szolgáltatás gazdagépekhez való telepítőjét. Miután a letöltés befejeződött, futtassa a telepítőt a folytatás előtt."
+   },
+   "HOST_SETUP_INSTALL_PENDING": {
+      "message": "Kérjük, futtassa a telepítőt a folytatás előtt."
+   },
+   "HOST_SETUP_STARTED": {
+      "message": "A távoli kapcsolatok engedélyezve vannak ezen a számítógépen."
+   },
+   "HOST_SETUP_STARTED_DISABLE_SLEEP": {
+      "message": "Kérjük, ellenőrizze a számítógép energiagazdálkodási beállításait, és győződjön meg róla, hogy az tétlenség esetén nincs alvó üzemmódra állítva."
+   },
+   "HOST_SETUP_STARTING": {
+      "message": "Távoli kapcsolatok engedélyezése ezen a számítógépen..."
+   },
+   "HOST_SETUP_STOPPED": {
+      "message": "A távoli kapcsolatok le vannak tiltva ezen a számítógépen."
+   },
+   "HOST_SETUP_STOPPING": {
+      "message": "Távoli kapcsolatok letiltása ezen a számítógépen..."
+   },
+   "HOST_SETUP_STOP_FAILED": {
+      "message": "Nem sikerült letiltani a távoli hozzáférést a számítógéphez. Kérjük, próbálja újra később."
+   },
+   "HOST_SETUP_UPDATED_PIN": {
+      "message": "A PIN kód frissült."
+   },
+   "HOST_SETUP_UPDATE_PIN_FAILED": {
+      "message": "Nem sikerült módosítani a PIN kódot. Kérjük, próbálja újra később."
+   },
+   "HOST_SETUP_UPDATING_PIN": {
+      "message": "A számítógéphez tartozó PIN kód frissítése folyamatban..."
+   },
+   "HOST_STARTED": {
+      "message": "Gazdagép elindítva a következő felhasználó számára: %1."
+   },
+   "INCOMING_CONNECTIONS": {
+      "message": "Ehhez a számítógéphez"
+   },
+   "INSTRUCTIONS_SHARE_ABOVE": {
+      "message": "Az asztal megosztásának megkezdéséhez adja meg az alábbi elérési kódot annak a személynek, aki segít Önnek."
+   },
+   "INSTRUCTIONS_SHARE_BELOW": {
+      "message": "Miután beírják a kódot, megkezdődik a megosztási munkamenet."
+   },
+   "INVALID_PIN": {
+      "message": "Kérjük, legalább hat számjegyből álló PIN kódot adjon meg."
+   },
+   "IT2ME_FIRST_RUN": {
+      "message": "Felhasználók közötti képernyőmegosztás, amely tökéletes a távoli műszaki támogatáshoz."
+   },
+   "LABEL_CONNECTED": {
+      "message": "Csatlakoztatva:"
+   },
+   "LAST_ONLINE": {
+      "message": "$1 (utolsó online tevékenység: $2)"
+   },
+   "LEARN_HOW": {
+      "message": "Tudja meg, hogyan."
+   },
+   "MAC_PREFPANE_BUNDLE_NAME": {
+      "message": "Chrome távoliasztal-szolgáltatási gazdagép beállításai"
+   },
+   "MAC_PREFPANE_ICON_LABEL": {
+      "message": "Chrome távoliasztal-szolgáltatási\ngazdagép"
+   },
+   "MAC_UNINSTALLER_BUNDLE_NAME": {
+      "message": "Chrome távoliasztal-szolgáltatási gazdagép eltávolítóprogramja"
+   },
+   "MAXIMIZE_WINDOW": {
+      "message": "Ablak teljes méretre állítása"
+   },
+   "ME2ME_FIRST_RUN": {
+      "message": "Bárhonnan hozzáférhet saját számítógépéhez."
+   },
+   "MESSAGE_GENERATING": {
+      "message": "Hozzáférési kód létrehozása..."
+   },
+   "MESSAGE_SESSION_FINISHED": {
+      "message": "A Chrome távoliasztal-szolgáltatás munkamenet véget ért."
+   },
+   "MESSAGE_SHARED": {
+      "message": "Az asztalt jelenleg ezzel a felhasználóval osztja meg: $1."
+   },
+   "MINIMIZE_WINDOW": {
+      "message": "Ablak kis méretre állítása"
+   },
+   "MODE_AUTHORIZE": {
+      "message": "Engedélyezés"
+   },
+   "MODE_IT2ME": {
+      "message": "Távsegítség"
+   },
+   "MODE_ME2ME": {
+      "message": "Saját számítógépek"
+   },
+   "NEW_CONNECTION": {
+      "message": "Új kapcsolat"
+   },
+   "NEW_WINDOW": {
+      "message": "Új ablak…"
+   },
+   "NO_PAIRED_CLIENTS": {
+      "message": "Minden párosított kliens törölve."
+   },
+   "OFFLINE": {
+      "message": "$1 (offline)"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "OPTIONS_MENU": {
+      "message": "Options"
+   },
+   "OUTGOING_CONNECTIONS": {
+      "message": "Erről a számítógépről"
+   },
+   "PAIRED_CLIENTS_INTRODUCTION": {
+      "message": "A következő kliensek párosítása történt meg ezzel a számítógéppel, amelyek csatlakoztathatók PIN megadása nélkül. Bármikor visszavonhatja az engedélyt egyenként vagy az összes kliens esetén is."
+   },
+   "PAIRED_CLIENT_DATE": {
+      "message": "Párosítási dátum"
+   },
+   "PAIRED_CLIENT_NAME": {
+      "message": "Kliens"
+   },
+   "PIN": {
+      "message": "PIN kód"
+   },
+   "PINS_NOT_EQUAL": {
+      "message": "Kérjük, ugyanazt a PIN kódot adja meg mindkét mezőben."
+   },
+   "PIN_MESSAGE": {
+      "message": "Kérjük, adja meg a(z) $1 PIN kódját."
+   },
+   "PIN_MESSAGE_ANDROID": {
+      "message": "Kérjük, adja meg a PIN kódot a távoli számítógéphez."
+   },
+   "PRODUCT_DESCRIPTION": {
+      "message": "Más számítógépek elérése vagy annak engedélyezése, hogy más biztonságosan elérje a számítógépet az interneten keresztül."
+   },
+   "PRODUCT_NAME": {
+      "message": "Chrome távoliasztal-szolgáltatás"
+   },
+   "RECONNECT": {
+      "message": "Újrakapcsolódás"
+   },
+   "REMEMBER_PIN": {
+      "message": "Ne kérje újra a PIN kódot, amikor erről az eszközről csatlakozom a szerverhez."
+   },
+   "REMOTING_CORE_DESCRIPTION": {
+      "message": "Alapkönyvtár"
+   },
+   "REMOTING_DESKTOP_DESCRIPTION": {
+      "message": "Asztalintegrációs folyamat"
+   },
+   "REMOTING_HOST_DESCRIPTION": {
+      "message": "Gazdafolyamat"
+   },
+   "REMOTING_NATIVE_MESSAGING_HOST_DESCRIPTION": {
+      "message": "Natív üzenetváltási szerver távoli szerverkezeléshez"
+   },
+   "REMOTING_REMOTE_ASSISTANCE_HOST_DESCRIPTION": {
+      "message": "Natív üzenetváltási szerver távoli segítségnyújtáshoz"
+   },
+   "RESIZE_TO_CLIENT": {
+      "message": "Az asztal átméretezése, hogy illeszkedjen"
+   },
+   "RESTORE_WINDOW": {
+      "message": "Ablak visszaállítása"
+   },
+   "RETRY": {
+      "message": "Újra"
+   },
+   "SCREEN_OPTIONS": {
+      "message": "Képernyő-beállítások"
+   },
+   "SEND_CTRL_ALT_DEL": {
+      "message": "Send Ctrl-Alt-Del"
+   },
+   "SEND_KEYS": {
+      "message": "Billentyűleütések küldése"
+   },
+   "SEND_PRINT_SCREEN": {
+      "message": "Send PrtScn"
+   },
+   "SERVICE_DESCRIPTION": {
+      "message": "Ez a szolgáltatás engedélyezi a bejövő kapcsolatokat a Chrome távoliasztal-szolgáltatás klienseitől."
+   },
+   "SHRINK_TO_FIT": {
+      "message": "Méretre igazítás"
+   },
+   "SIGN_IN_BUTTON": {
+      "message": "Bejelentkezés"
+   },
+   "SIGN_OUT_BUTTON": {
+      "message": "Kijelentkezés"
+   },
+   "START_RECORDING": {
+      "message": "Start Recording"
+   },
+   "STOP_RECORDING": {
+      "message": "Stop Recording"
+   },
+   "STOP_SHARING_BUTTON": {
+      "message": "Megosztás leállítása"
+   },
+   "SURVEY_INVITATION": {
+      "message": "Szeretne segíteni a Chrome távoliasztal-szolgáltatás javításában? $1Töltse ki a kérdőívet.$2"
+   },
+   "TIME_HEADER": {
+      "message": "Idő"
+   },
+   "TOOLTIP_CONNECT": {
+      "message": "Csatlakozás a következőhöz: $1"
+   },
+   "TOOLTIP_DELETE": {
+      "message": "Távoli kapcsolódások letiltása ezen a számítógépen"
+   },
+   "TOOLTIP_REFRESH": {
+      "message": "Gazdagépek listájának frissítése"
+   },
+   "TOOLTIP_RENAME": {
+      "message": "Számítógép nevének módosítása"
+   },
+   "UPDATE_REQUIRED": {
+      "message": "$1 (elavult)"
+   },
+   "VERIFY_PIN_DIALOG_EMAIL_LABEL": {
+      "message": "Fiók"
+   },
+   "VERIFY_PIN_DIALOG_MESSAGE": {
+      "message": "Kérjük, erősítse meg a fiókot és a PIN kódot alább a Chrome távoliasztal-szolgáltatás hozzáférésének engedélyezéséhez."
+   },
+   "WARNING_NAT_DISABLED": {
+      "message": "MEGJEGYZÉS: az irányelv-beállítások a csatlakozást csak a saját hálózaton belül található számítógépek között teszik lehetővé."
+   },
+   "WARNING_NOT_WINDOWED": {
+      "message": "MEGJEGYZÉS: ha biztosítani akarja valamennyi billentyűkód elérhetőségét, konfigurálja a Chrome távoliasztal-szolgáltatást a „Megnyitás ablakban” lehetőséggel."
+   },
+   "WHY_IS_THIS_SAFE": {
+      "message": "Miért biztonságos ez?"
+   },
+   "WORKING": {
+      "message": "Feldolgozás…"
+   }
+}

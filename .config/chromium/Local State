@@ -33,8 +33,8 @@
    },
    "network_time": {
       "network_time_mapping": {
-         "local": 1416784822877.449,
-         "network": 1416752424280.263
+         "local": 1416785389461.642,
+         "network": 1416752990904.023
       }
    },
    "ntp": {
@@ -181,7 +181,7 @@
          "exited_cleanly": false,
          "extension_renderer_crash_count": 0,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1411413537",
+         "last_timestamp_sec": "1416785382",
          "launch_count": 1,
          "launch_time_sec": "1416784782",
          "page_load_count": 0,
