@@ -89,3 +89,5 @@ Bundle 'snipMate'
 Bundle 'c.vim'
 Bundle 'tComment'
 filetype plugin indent on
+
+set pastetoggle=<F3>
