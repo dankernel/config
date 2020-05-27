@@ -69,8 +69,8 @@ let g:is_bash = 1
 
 "Cuesor
 set viewoptions=cursor
-au BufWinLeave *.c,*.cc,*.h,*.html,*.php,Makefile,*.mak,*.java,*.txt mkview
-au BufWinEnter *.c,*.cc,*.h,*.html,*.php,Makefile,*.mak,*.java,*.txt silent loadview
+au BufWinLeave *.py,*.cpp,*.hpp,*.c,*.cc,*.h,*.html,*.php,Makefile,*.mak,*.java,*.txt mkview
+au BufWinEnter *.py,*.cpp,*.hpp,*.c,*.cc,*.h,*.html,*.php,Makefile,*.mak,*.java,*.txt silent loadview
 
 "아래 바.
 set laststatus=2
