@@ -1,3 +1,0 @@
-<Addins host-reference="/usr/lib/f-spot/f-spot.exe">
-  <Directory shared="false">/usr/lib/f-spot</Directory>
-</Addins>

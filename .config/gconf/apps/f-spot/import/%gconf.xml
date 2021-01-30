@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="remove_originals" mtime="1409594945" type="bool" value="false"/>
-	<entry name="check_duplicates" mtime="1409594945" type="bool" value="true"/>
-	<entry name="include_subfolders" mtime="1409594945" type="bool" value="true"/>
-	<entry name="copy_files" mtime="1409594945" type="bool" value="false"/>
-</gconf>
